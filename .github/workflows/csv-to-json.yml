@@ -1,0 +1,23 @@
+name: Convert CSV to JSON
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run script to convert CSV into JSON
+        run: cat ingredients.csv | python -c 'import csv, json, sys; print(json.dumps([dict(r) for r in csv.DictReader(sys.stdin)]))' > ingredients.json
+
+      - name: Commit updates to JSON
+        run: |
+          git config --global user.name 'Ben Keys'
+          git config --global user.email 'bkeys818@users.noreply.github.com'
+          git add ingredients.json
+          git commit -am "Update JSON from changes in last commit"
+          git push
