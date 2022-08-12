@@ -1,0 +1,3762 @@
+name,id
+sugar,42d5aaf8-85ed-4516-80fb-f5394b4781e5
+flour,1c2396a7-cfda-4469-a11a-6b3895f49bdd
+milk,26f418e5-2c57-493e-ad94-73fca4f11706
+onion,18131e64-8042-404b-a4b4-5f76cb60c062
+tomato,e06cdf0b-5a6a-4d54-be1a-04558271f2b1
+olive oil,2bf0c3f9-017f-4b81-a88d-dbe8ec5babbd
+honey,17874536-87c1-4580-bc37-19031c67f76f
+paprika,d67c8aa8-7ca3-4cff-8b9c-e1eeef7c5529
+oregano,64abdd5f-8eb1-4961-946e-4b8950f644e2
+brown sugar,9002179d-87a4-440b-a5b8-8f6fa3b5efb3
+vegetable oil,c5645def-516a-4080-8107-8ea5dc5b572c
+egg,520b3d65-4f88-468e-9bd5-ad7402fde84f
+yeast,8ccbefde-b662-4eee-b364-79d5c371b1c3
+garlic,53dc999c-77f8-44c8-bb3e-6b3fee96d462
+rice,2c91fdc1-5699-4494-8c77-f2551a17df41
+cream,08c21cfb-c2eb-4631-bc15-62f3994f235e
+carrot,b8bd5487-3ecd-4505-b13e-f435810b44eb
+butter,42633912-4b06-451c-9313-5c21c45b1833
+parsley,7b3e543d-16c5-4c88-8af2-6bcdf0e238ab
+mustard,d86d92d0-bcf3-48b0-b9cf-f14015bf7031
+potato,580bf872-c1b2-44f4-89eb-6926559421cb
+rice flour,01e859a5-178e-47cd-ad19-d79dbcefe43b
+bell pepper,450fb299-58e3-49c6-a177-1fd11d174a0c
+orange,14b3b7ce-1af7-48cf-9053-5f6093556dd9
+hazelnut,76edb6b0-be80-42f5-9a39-fb567e94a9cf
+vanilla,c4b068fc-16d9-4c44-9267-956a480581b9
+semolina,dd4f50a2-bd70-43c7-8e0a-9c9ce5922771
+thyme,5bcad1e2-e289-4477-9c0b-c700a0bea903
+basil,1e777655-3cc6-4e05-bd2c-de27ac1f7591
+yogurt,26f98c2e-9d09-4ada-b6e1-b0b67cd18d88
+cinnamon,5782ce01-5ebb-4c47-8ea3-22bfc68fa543
+mango,a1b41dc1-41e7-40b3-9d05-46dc3381b9be
+mushroom,c1140101-8c7d-4f40-879d-54db46c3ba7c
+rosemary,28a51f2d-1b98-4149-811b-de038de7efc0
+garlic powder,5fd45400-0d86-4ac1-b7fe-c7578956496c
+strawberry,71eda98c-ed4f-4433-a176-dd95eadbe8cb
+white pepper,bf6f0e04-018b-4550-b6d1-eba3cc83f756
+white wine,90e60b79-5ffa-49e1-8152-9f52ec3b595e
+cumin,915364b5-c98c-425b-a7c5-2c0bca4f50d2
+ham,ab1ce5e2-8ed9-45cd-b870-c86e6f7f424a
+pear,80c230c9-c87c-42c3-9dd4-9ee6165c0071
+margarine,58e178ed-d441-4ee6-a7e3-bbbb653a38e1
+spinach,49a60f39-3940-4005-8e81-ab3355608015
+brown rice,a2a480c4-0641-4803-a3e0-61f3a6b8bdd7
+salmon,3a2076b2-9f93-4c87-a2db-549e4fcd85fa
+marjoram,d4a352cc-1351-448a-9967-1613b9e4d8fb
+soy sauce,d61bb799-0c98-4975-9d2b-b9b6bdce34cc
+baking powder,bc139178-cb7f-4f5b-a020-c77254a8f2e0
+bread,3135345c-15be-42ee-8e45-f5b41236b609
+cranberry,b95d992b-52f1-4b3e-ba5d-a1b9bcfdf49b
+lemongrass,e678f17a-2478-4be9-8234-57a90dcc9cd2
+cheddar,02a3e608-5bd8-4595-b7b7-72c7e5445540
+radish,feb05a11-f748-49c9-baf5-a4b0b61a298b
+sage,406a69c9-cfca-4ae1-8629-5cfa6c5fb95d
+kiwi,b2761bfe-c2eb-41a0-b61a-2bfd24146a2c
+plantain,99e74724-28a1-4f62-9084-3614819c110a
+shrimp,271db01e-b0b9-4fff-b654-104181d5f04b
+red wine,f42ae29c-396b-421e-8401-1de9efaea7f2
+mayonnaise,65095fde-61d1-44e3-8587-67fe21474b90
+parmesan,c0dfe823-dbee-4635-a3ae-32b32930ea21
+red wine vinegar,0711f8a4-76df-4d33-a739-15c0728b08b4
+papaya,3ceab3ff-f206-465a-9fe5-089247d815ab
+ketchup,f07a2de9-9780-4917-81cb-a1bb78160a54
+canola oil,8be73fff-8424-47a9-84fc-2a448918fb5a
+lychee,d9d68310-7e64-4a6d-8262-57a59e01e27a
+watermelon,076e9ba8-55ed-47fe-aec9-e1e5a92544d8
+soy milk,f4f9feda-fb61-4a11-bb85-5e6bb55a73bc
+mustard oil,235f2458-ec34-463b-b808-c140c7769cd1
+puffed rice,84c281fa-8cc4-409b-b8bb-e367730584e7
+quinoa,121e2eb3-9872-46d7-8bf5-792a5438d7fd
+water chestnut,65b86236-56da-40c6-9bab-650117324114
+crab,05b5622a-b13a-4216-899b-dfe24f7eda18
+chicken breast,12626740-c18b-4221-93cd-3b058cb2f033
+blue cheese,0f3f7d4e-14a5-41f8-b75e-7fe562dd9cd1
+salt,0f85fcc1-dddb-49fe-9868-f80ea7682089
+glucose,18d70ed2-3811-41c3-b645-e887a5ff671a
+sunflower oil,0482826a-7dd3-4c3a-8db1-74fc59b6abe9
+cocoa,8ca0c64b-eacf-42b9-a880-0199c09ee0b0
+milk powder,e44472b2-dd15-45df-9d2a-5fe20d1a24ce
+fruit juice,3f747e2b-db27-4367-b7f3-d535affd4315
+vinegar,cf05b727-8555-41e3-a3c3-ce820d50e642
+pork,79209c9c-1e7f-44c2-a8a2-0d9897c10b14
+lemon juice,acb46034-7750-4813-bfc0-88a55c9df6c1
+potato starch,4e95db3e-3a64-4488-9759-9449e0337d6a
+sea salt,df178c35-ae4f-4a34-8024-9ababbacee43
+palm oil,d836f462-9c71-4bcc-bb16-b18fdadffe35
+apple,ce91fcb8-5f9f-48c8-9c8d-68f3306763d6
+chocolate,4c51cb29-e924-4818-9822-202fd87fd334
+fructose,8e70b45c-d4db-44ac-97e3-c3be1fd3f59e
+cane sugar,9b467e01-e54c-41c9-802f-93a5de24253b
+fish,4ea4c307-2a07-4f45-bc77-3f3f22bc7f26
+milkfat,273c2598-9389-4812-bb9c-e47a62604116
+whey,dc7aa651-ab53-44f8-aaf1-2baeae442385
+chili pepper,419cebd1-05c4-42ac-8292-7e6727263bc0
+sugar syrup,e6156557-180c-4343-be86-2835874661f4
+almond,93d84c05-4dd8-4484-b6d1-9fbf941531bf
+extra virgin olive oil,098c98b7-4bff-4fa2-8aed-8f4cf93859da
+grape,728d405d-ec8b-4b42-951b-c9724439f247
+mustard seed,544ff5c2-436d-4a0e-915d-b139cb46c811
+celery,a4cfb369-40cb-4db6-a7b8-65d8adb2afa8
+barley,2d1fa9a7-01b9-4a00-896e-967542cdb69d
+lemon,fc43d7f3-ec6d-43b5-901d-353f8c09445f
+coconut,d69d9631-a694-431f-b28f-96602fe24f9a
+tapioca,2dd7384f-eacc-40c8-a1ab-e4178a181952
+beef,fb57e006-d2a3-431d-9994-d7e60ee1fd9b
+coriander,c8896401-05a0-49b3-82f7-2f361da10310
+raspberry,0129f9e2-384f-4c20-9c81-7e29380d0c72
+corn flour,8272edeb-ee81-4df1-9d7a-c880306597a1
+coconut oil,184d4382-5664-447c-b969-eeaaa80c49a7
+peanut,fbaecf2a-b622-4fc2-886f-f528cd93dc0f
+orange juice,06f745e1-b510-4d9b-91f0-faa2750abbe1
+chicken,039f9d04-471e-40d6-ab48-c1ac3434cd33
+turmeric,1d731f7b-78e8-4c55-a7aa-aa49232d1cc2
+nutmeg,bfeca599-ba0f-4521-8d1f-6fec880e27ee
+apple juice,b3eee301-1e13-4d43-8f5b-35346d21b71b
+peach,dd3a3d8a-76ef-4a1e-93ca-32f24e8117c8
+pineapple,9d67bdfb-58bb-4d4e-8d0d-f0fade7848cc
+blueberry,57e8154d-1ed5-4579-8202-61941bebec7b
+pork fat,9cfd56c6-bd75-4450-b962-3d6f2d5b5a45
+shellfish,4f0218f2-8a4a-42d8-981c-a72f2c61ab94
+condensed milk,136377a7-4da5-41fb-8e97-c72d5325692e
+tea,3a8b18e5-9ed3-41a3-b767-5066b618133f
+bacon,66770c1f-dff2-4330-8c37-0dc59d5a791e
+leek,36082da0-bb57-448b-a924-5ded3dded579
+shallot,db1dd68a-3575-451a-a8ec-ba664151960d
+coffee,020ce3cd-6093-4ad0-a022-182629f6395f
+chocolate powder,e30fccec-4e40-404b-98b1-a8694a1a031c
+clove,05c92f1f-3115-4f4b-a500-be61f2f0542d
+rye flour,a73eaba4-b96f-42aa-aa32-e66deaeb8106
+banana,611c9a27-ec1c-4030-bd7f-c27e7198d8c0
+coconut fat,bd8f8faa-be26-43a1-89de-f71f81103bdc
+cornmeal,622c853e-64b4-48c6-bb86-84a078b919cb
+bread crumbs,97736486-dcc5-4452-974c-10ac0bc3ad70
+flax,5171bcbb-206b-4bbf-b991-c36cf965f6f8
+chives,34753e75-4102-4ac9-a4ea-303e307a551e
+bay leaf,0b061300-53e5-4395-b66b-3dc0669a0697
+olives,0c0659d0-e6f1-41ad-a57d-363ce822df51
+beetroot,70a3b150-8078-4ab4-aade-fef46e867757
+dill,364a357c-b749-4712-b436-6660fd2a5162
+apricot,fdf547ca-dda8-47a1-b48e-bd5251fba34c
+dijon mustard,5c14584b-bafa-4da0-9805-5c07ec968c6e
+vegetarian rennet,1b140960-085e-47b9-aa41-413e95295755
+tomato juice,2e1a52a8-f386-41af-a78b-7c118d238f38
+pumpkin,629ff0dd-b672-4159-84bd-efac33f12b52
+cashew nuts,6b51f9e3-6a4a-4dec-9db3-9fcf93024c7a
+raw milk,e4814659-6e94-4195-b607-aca4ab28af55
+fennel,e301d050-5ed3-49c5-88c0-2b7165523b23
+blackberry,f230d684-5191-4716-b8d4-b6ede89e9597
+sesame seeds,a0ef4350-4b89-405d-9a7b-121cabffc4fa
+mint,5bbfc626-7b6b-4992-bd99-cf7a5f4b3366
+cucumber,aa32d7d6-35c4-4c98-b4a9-2e55423acebc
+lentils,d6f5418f-ca67-4535-b2a6-c0c3f9da1250
+dark chocolate,78b77059-8517-49a7-ab70-c6717da05ef2
+wheat bran,d94eab55-df01-4048-89e5-3e10d48b2c8f
+turkey,3f1bede9-7c09-4568-90a2-1d1f404838ea
+walnut,55caa089-b7fe-451d-9b5c-45871427c65e
+cheese powder,30980651-ebd3-4514-8e4c-6a27540daccd
+molasses,db5c0619-d7ae-4847-b943-2661639fd0a4
+duck,26263ab1-48f3-419e-a7a4-86c4d7114d0f
+herring,df5e3a14-6bce-4de6-8465-642fd6487882
+chickpea,130fff64-e20e-478a-a91d-568f2a016c70
+white wine vinegar,aadf31da-5f6b-4572-913e-0879c5c27976
+green lentils,5c258e39-f317-45a8-a181-561dc5ae1d38
+pineapple juice,c5ea44d4-7836-4ad7-af32-9f52ac3fd996
+cherry,e0d09873-07de-4e03-b343-3c74a40ad4fe
+caramel syrup,c0889e09-a010-4220-b3ad-e463ec0698cf
+buckwheat,7c81d806-068a-404d-8fae-6e068af662b8
+pea protein,85e5dd9a-d0c0-4a3b-8262-c195d16905f3
+spirulina,50fe956e-34dc-47f8-892e-9fa115ab76da
+lard,2ec8e8e9-03cc-4b09-ad7d-970504eaff89
+curry,bc691982-cd3f-4d6e-b2ca-b5882303ee61
+potato flakes,d75ada94-0518-401a-9b09-8804a6dc270d
+zinc,9d8c7f73-4054-4fc9-82b8-b63739114b39
+green olives,5e6e23b2-a794-4688-a21e-0d29bbfb5fb3
+whey protein,799a37ef-8293-40b3-82a8-910af41b5175
+raspberry juice,914ad14d-c770-43f9-887f-d519f6f22054
+rice syrup,4b73bea5-c7f8-481c-b45b-fb0a5dcf649b
+corn syrup,bb36143f-aa64-44eb-8580-78e3be4031cd
+grapefruit,da76c6ef-c2d5-423f-900b-209c37c295e7
+mozzarella,fa45367a-9e9c-4e4c-aeee-f0eaf4145f9f
+strawberry puree,907a4a5d-fb68-4676-aab3-a4595b125ef8
+cod,553345c7-2831-48c0-a7b7-0596803ac1f2
+egg powder,d71c214c-85b9-46f3-b728-271617f1c604
+whipped cream,518455b2-5f73-4d79-a1ca-7a956c1c93b5
+capers,5e34896a-1aa4-4dcb-99aa-f55fa50a3698
+grape juice,14824d61-2b21-4ba8-bcc4-19431e4c6c67
+essential oil,20d4dc49-0f32-49bf-9351-89d1ec5bb7fd
+buckwheat flour,ef5eddcd-ef5d-4cf5-a06d-8171af6cb922
+tofu,3ae0f805-9f81-4875-a294-1e157eb9f6d8
+duck liver,0fe0dde4-03f2-44cf-835d-40fff9089f31
+icing sugar,e93a960c-cef9-44b0-8d5c-7440ca9a3c46
+cardamom,d73cb9f1-8ebe-4b5b-8e17-5aebd1563755
+oat flour,7989c40f-f844-4c51-8f6b-62432bf0bcf9
+inulin,ba6ae9da-57dc-4eb6-90e7-c4e0ffcd113a
+herbes de provence,94a758c6-cf92-4d30-993d-0729d06ea5ed
+edam,670433e9-9332-4488-817d-74748569cbac
+beef fat,8f951af9-b543-4623-9784-4b8c5c5cdcfe
+pine nuts,ad86419a-9816-4140-a2a0-4a54281301bd
+fleur de sel,06bc0a31-d4a7-4a2e-a797-a6aa92ff8446
+cherry tomato,b44658ab-ccf8-43f0-8e81-43e7c7b415b9
+parsnip,445d87d6-f0a9-46c5-883b-bfac1f42955b
+grapefruit juice,ecc38b3a-635d-46a3-a73f-f759504082b3
+lemon oil,a42ee284-395b-4b0b-bde4-c0f95f73b685
+coconut milk,8ccda677-acbe-4bb6-abce-0479bc7f7a1b
+lemon extract,21592080-6a82-4b18-b7c4-1c35d9a944ec
+elderberry,500e3470-e892-427d-913b-5d386e53dc0b
+cabbage,8b262414-340f-4dbc-afd3-f0c03aca1cda
+caraway,6ceaf4de-f176-4f11-af02-c825c1698688
+wheat germ,79826699-94eb-406c-9cbd-c0d9be6eb058
+fromage blanc,bb8efd50-33b5-4bcb-a758-cd616526fd5b
+guava,e34bb0d8-7c3c-4d5b-9a65-85bf1bd944ea
+quark,aabbcf48-09a8-4d99-8f3b-cad18fb38c63
+mackerel,a0cb43fe-dbb1-4b9b-bb79-1b1962efa49f
+asparagus,0e380dd1-bafd-44c6-873b-3bf405f1b0c4
+goat milk,f6bf72b7-3c56-4578-bd66-50b0aca5a144
+aniseed,fd4fe7db-7fae-4b09-ad4d-d932dd6514e5
+spelt,ecb04a3c-4480-4892-a8b9-7c136c813418
+chestnut,1c73dec9-cc29-48f0-b55a-71184dfbdb5a
+sherry vinegar,f6723c20-292b-4d27-869f-318595068efa
+collagen,907bad15-dd97-41d3-8a1f-df5e6b54bba3
+star anise,c3658db2-fb96-400c-b1cd-76c6aef2afd5
+chickpea flour,d172ec93-7038-43c6-bdf6-543dca1a54b1
+carrot juice,d6715f10-b6f3-495d-ade4-46147a639b6c
+balsamic vinegar,858af809-5474-4f04-8fe2-9445088de97b
+sweet potato,ed5f4b1a-eddf-438d-b508-3ef531dae5fe
+celery seed,a312e758-054a-4bf9-b208-630420e3a892
+melon,9610895b-abc2-40bb-8dfb-957aa87cce50
+corn oil,13d5e916-64e4-42bd-8b8b-4343b822c411
+chokeberry,a3e420ba-09df-4fe3-8128-09dde608fc00
+brewer's yeast,5e28751f-1dc6-46be-8ca6-f92165628b87
+green tea,d1b5e6d4-7e2c-4227-8627-049d9e1d55e8
+lovage,0a7a43f6-3096-426d-86bc-88baa5ec2ceb
+squid,d3970d28-1420-444f-8233-c2feeffa2e24
+pear juice,45548aab-ed0b-4bd6-a27f-8fd8f0330b53
+brandy,45cde98d-40b5-49dc-804d-c59d4ffbeb98
+sweetened condensed milk,a5a71b52-d2aa-48af-aa23-d416dfd60c41
+plum,c2998eca-6987-43f8-8926-988016db0289
+sour cream,dacd73f1-e4e6-4a3c-ae1d-f1f43762ae58
+white beans,86699f02-e8c4-4081-a26b-6ac5c21ddfe4
+white chocolate,016d6a2c-cf79-4472-8406-f978d2a84b71
+pork fillet,c1dc93d3-7534-449d-ab40-3ca75ef76a73
+armagnac,7f2cf82f-4a3e-484d-b894-9c6487208c49
+duck fat,85a9f5c0-7d30-46a2-9a9e-3f729a5ecc11
+date,1444b325-d0eb-424b-be46-564f3d4db7f3
+buttermilk,efb0c881-6d9d-4c11-a003-fdb1e74ee5a4
+orange extract,a15b536a-546c-48bf-9ab1-0838f08d27f4
+potato flour,515d1ab8-caf8-4c4a-9e2e-bddad0ac90cb
+brazil nut,ecf4e0e6-bd2f-4f28-81f5-c89b07b978b8
+tarragon,b4966f79-176f-4c8c-916a-68ced3a5e888
+ricotta,dc3c91c0-00f0-4231-a670-4b20ccf7842a
+noodle,bd98b0f7-841a-46af-8151-f68c62f5044c
+pork loin,2f02e477-1ced-4be4-b614-1c7724e054d6
+liquid smoke,86c35d30-5fea-4bd4-a332-41c2c2ba14d3
+fig,8bb592a6-d1fd-4978-846a-71ac244269cd
+strawberry juice,4519ad2f-190d-4d31-a6b0-4089416ff834
+lettuce,7947ab74-d1f5-4ccf-b480-914599c32839
+fenugreek,74de5506-abe7-4409-83b2-ccb121a9735a
+tomato sauce,6dddc8a8-6835-4019-9c56-0e1a8dec248c
+millet,cb7ff414-6db9-49ef-8396-6f1d0ce8f2d1
+salami,962cbf23-1779-490b-bd47-fd9d7c11fb3a
+oyster mushroom,e2620bdb-3949-4e17-826e-e5a626240abd
+vegetable broth,00238d7d-ec7c-4a5c-af62-65c76b6f73dd
+couscous,6b089f5c-5684-4a1e-9759-3b9457c4a86d
+cognac,d39afcfe-e967-4eeb-a7a0-5df1b0702e36
+basmati rice,cc1914d7-c38f-41a9-8a2d-d49b62c2c4d9
+juniper berry,89a68cc8-15f6-4321-8460-341f50f8a456
+buffalo milk,f6d65b8e-6655-43a2-b50d-134ab48cf89f
+lobster,eb2bf965-a3fb-4c51-8dba-7994606458fa
+beef broth,a79c42ec-4ddf-46f7-bada-4dae0aa19372
+celeriac,0a2b9787-738e-402a-a86b-8f4a90f391da
+allspice,acd701ec-7234-45e9-a985-16541f761680
+chicken liver,64b023fa-bbea-405f-9c69-58178cccc7ba
+rum,b813dc24-6296-42b1-8856-27619def4448
+magnesium,5fd35481-0593-4999-8b7f-dcc9f91f6edc
+millet flour,fcf5269b-1272-4aeb-855e-db4aef74e6a8
+pink peppercorn,261acfee-5121-4f28-8c79-f5ad78812f3e
+fennel seed,f4daca1e-c75e-4c97-a410-6ad6b858b6fd
+chia,95c91d3c-0e14-496d-a106-e6b75a944fc7
+pork shoulder,94b6b373-ecd4-4089-b143-6a5d40fc11c8
+beer,08a431f2-b3fc-4d22-9e8a-b9308b440305
+mace,8574653f-3fa9-44ba-9c2d-d3e0158d0f92
+liquid egg white,f52f2c53-1568-46b4-b55e-ec3affadbb8c
+red lentils,fdf83355-216b-47f1-acc8-54a8a9be7630
+apricot kernels,ab42f69d-4fc7-4e2c-a38d-b92ac22f9c75
+skipjack tuna,d93b3795-f407-4950-934e-4993fb49c0a1
+clementine,2d38a54d-0d29-42c4-a57b-726852e28edf
+orange essential oil,2f4719b3-3d19-4422-91d3-a6a074d9bd8d
+nectarine,e6a557ca-aa0a-40ad-95e3-6035d2b6b3e7
+red beans,e3776716-7534-4e17-b4cd-4c36f07a6e6a
+jalapeno,9cac4ba5-cd3f-4c68-9719-1652a60b46ed
+goat cheese,0e1d847e-e686-40d7-a945-f3c6d9d0f58e
+red onion,46e97c13-4b6d-41ad-b6ca-dd3a77f26484
+pork belly,22788646-bc28-4714-945f-e89ad162af80
+kefir,52a0d4ba-bac0-4568-b0f8-5435db832e1b
+almond flour,0e0bdd41-6436-4bec-a93f-19c4af3f674e
+mascarpone,d12ef17c-16ab-40e2-8e94-ee96618bb8d1
+marshmallow,70b1031f-bb6e-4bba-8ec1-1730790e9778
+wild rice,26fe760e-1f9d-47f2-a194-cde03239ff29
+peanut flour,10548d3e-4d30-448d-8d0b-48e968d9fe69
+broccoli,d5f325f6-5deb-4e99-9e89-1d6609f33de1
+chicken broth,71a8a694-5cdd-4fa0-b03c-f66a3fff9ead
+quail,dfbabd7d-4b58-4254-8752-23ca77b2d887
+feta,1f1ebd61-da84-4707-aca1-c182c81ff18c
+rosé wine,c58d146e-d53c-4b48-a2e9-8b822f264a99
+bolognese sauce,ce938a71-8ddc-4036-8037-43987c6a4eeb
+glutinous rice,b4d9c84b-f92c-461b-aecf-462395d9f994
+black beans,fc7c1025-f4db-425b-baac-cdfb08557287
+turkey breast,3a811fd7-b21b-44d0-8245-bfd919885e06
+dried fig,8e1b02ba-8136-457e-bfb0-830f8fbb095c
+spinach powder,0fb979ba-873c-490f-ac67-36adafc18369
+cherry juice,5912b2ac-7040-4cf8-8a5c-f2d07901c83e
+rose water,640c5313-243b-4c37-87f8-f7bc2b24cbb3
+ginger powder,aa3c87a2-3e4d-4dc6-902b-1bd84dc45f9f
+surimi,9b30fb6a-b03a-4332-b1c4-9a8328a3964d
+snail,006d5c33-f7e5-4047-8350-79adb3e023b6
+sorghum,931fe2d7-7d68-40d9-bb36-ca94bb1fa445
+wafer,95f6014c-9511-495b-9959-fe5c61a8a019
+rambutan,fd2fcce2-4fc3-4497-99db-888e4f335ca8
+free range chicken,0f7deefa-cc59-4ee5-821a-43f9359c543b
+brown beans,508d7db3-6ae7-4251-b594-46cc963fd1d4
+comté,e147a60e-fab5-4b03-8dba-ae7ac6929f66
+rye flakes,1eca6d9c-30e2-46af-bdb9-0479e0aa9342
+pearl barley,e68d1e06-3e97-4e25-9f18-c43065408d85
+rabbit,a9f2040b-8415-41fe-8e45-2669c535d5a8
+tagliatelle,4c2498df-c1c3-433c-8b25-4523cd7822a8
+coconut chips,726e5d4f-38af-493c-b2a4-778655388f04
+white grape juice,f3c2cf54-bea8-4255-bae3-399060947998
+ravioli,e918d298-70e4-44d1-9862-4bda71b5e43c
+hazelnut oil,61a35352-93f9-4105-bae9-829f9841dc6b
+aloe vera juice,a4902a23-6294-42f8-a5ff-85d82a6b2bdb
+lemon balm,668f5935-9ccb-493c-8d00-18350b480581
+demerara sugar,22e5e37f-c059-4f8f-b138-3e324430f1e1
+ice cream,887b258d-6ddc-486f-ad5f-5d0c0239c9ba
+rice bran oil,ff738e75-8df8-4f17-928d-689ae687d1a6
+fish sauce,57927c67-5ee6-487c-872b-23adb48e16df
+sorrel,1f44c2a5-ade0-4c5b-a0fd-b047e5802eb8
+brown rice flour,40782455-3b08-41d4-bd68-68a81ba7aef6
+curing salt,970dcc3f-8491-441d-82ba-cff7242a0f72
+lavender,ec23804b-dd92-4ef7-b70e-666a71403130
+desiccated coconut,8b3f6263-96df-4c65-a45d-a45a42cca055
+garam masala,fe90d192-afc0-4865-a8b7-c30e7b1854d8
+smoked sausage,93bf65e3-442b-439d-aaef-07d8206fa28b
+whisky,26b5693c-8af9-40a3-a880-e625acab7054
+cassia,07e50ab1-dc04-4eea-9914-696681f1b26c
+frying oil,955c328c-3a66-41a3-9dfe-5406a020133f
+tahini,ee18ff78-f5b6-41c2-b9df-30bdb0b83f96
+hake,94598d56-f9de-4adf-9d04-6b486f1b1b7a
+red cabbage,5fe45e40-9a37-4167-a9f7-ef5552d274ea
+scallop,8b0decc0-1686-4428-aba8-ae70208ec143
+bamboo shoot,819b4ec1-e2fd-49b5-a9b5-4dc0d6abce04
+artichoke,84b8f695-59d3-4e10-a5da-6fb3347b1617
+sour cherry,103d3957-d246-4b7f-8648-cc82bbe04723
+coconut water,d64f08b3-b8fc-4f02-89a7-42215a9da8f5
+chard,2f83b55a-2cf4-4c98-9baf-5f0c1cb85233
+white balsamic vinegar,7a5a71ed-4c56-497d-bd02-34511bb05409
+oat bran,cf5cb7e3-f94f-4ec6-bf76-7c2f94ddd7cd
+wakame,c63bf7fd-3992-409f-b0aa-981bc76ac828
+kirsch,d91d658c-3266-433c-8243-3f7d80525e80
+mandarin,346341dd-76c0-4811-a8e5-adde6e3a3683
+elderflower,11e10976-3882-4a0f-9583-5284ed869afd
+sultana,072ef8c1-14d2-41f5-810a-596a512ec1a3
+lime,5d9b8848-0dd2-4c06-9132-f49fef4ee56d
+cauliflower,9b2957d4-42fa-42dd-b723-3819e53845c5
+sorghum flour,4227af69-8e66-43be-b0df-4ba34634a869
+bok choy,8769484f-20ae-4ece-b5cb-4fae04fd376a
+snake beans,098015b9-3e21-4470-824b-c9c91dfbfb38
+kaffir lime,d1fdfc5e-ab67-48a0-921e-f5633b552873
+turnip,4194f653-64b9-44ed-acc3-18acf6bb899e
+pimiento,754bc9ab-5943-4c0a-96c0-88092d248b87
+coriander powder,0702f8bd-0d12-4f81-b84b-3d7e0e828fab
+galangal,c5dc4e73-f395-4508-b674-2eeab9faf395
+mustard powder,9d80d589-de0f-4ed5-86e5-a63faf4063df
+saffron,1554bc1a-eb43-4949-a744-c6804a17202a
+amaranth,d4cdd895-e130-4c7d-a12c-9df905a50a37
+muesli,bac4510f-376d-4387-82b9-e6f817821a59
+kidney beans,018ea064-fc9b-471c-a9ee-088e1583bdc0
+chicken stock,f0a6722f-dc02-4233-919b-0422f056de9d
+cream cheese,a4a38745-ccee-4ac9-93e3-a9686a4b86a5
+hung curd,85d703a1-479e-40e2-83f0-69446e6fea23
+cottage cheese,3d7065bb-9fb1-4d0c-84ae-aaaa1ddc3ed0
+mulberry,30d88fae-cdd3-48bd-85f4-5587e79e2b8c
+sardines,2c762710-8344-4d48-af0d-a12bf1142bd1
+prawns,0b718d23-3951-4748-ac00-2a1647793efb
+pomfret,4f5f3ccf-1ef7-46e7-9474-ed70d9633626
+perch,009eb834-46bd-4f31-a19c-b8afc9b283c0
+mullet,61b64c7c-bd2c-4cb8-9c3a-90ddb1b57fa8
+haddock,2ff1a535-7198-47ab-a2fe-d895b4aaaa94
+flounder,b453add5-d292-4e2a-acb4-d1277ac63067
+fish stock,f5a3adde-bf21-4700-8e76-e3b72ee31a8a
+golden syrup,5201e33f-791d-497e-8531-aa32c6824c69
+sunflower seeds,1a2eff32-1ae6-4313-8cb3-54bfc2cef6ae
+sesame oil,035262a2-b6d5-433d-8b37-17589678c119
+pistachio,bb9314b4-4b99-4532-91a9-6bfba09a54d0
+almond milk,a31539bd-7940-499a-86c8-3699a9595fd7
+hoisin sauce,1f468a8a-8a9f-4231-b592-9e3f5bdeacfd
+malt vinegar,bfb4f860-8d4d-4637-81f7-adc9cdb4afb6
+chocolate chips,272b34d0-a4b1-4196-a657-8a51827e14d2
+polenta,bd39536c-7d65-466d-a749-52aae9b899fd
+oyster sauce,3b1702e5-53cf-4c05-a124-e33ca6bdbbe0
+added sugar,f7c26a05-3980-4717-a176-2b33a9733a47
+disaccharide,43afa852-84d8-43a4-bd4e-709ec2ee2031
+water,65ad1c7e-11eb-4b01-8a30-e118f9479845
+oil and fat,aa5cbfce-9cde-494a-a47d-4c02c5bea040
+flavouring,dc81c7f0-806f-4f9f-8bc4-983f09af3034
+vegetable oil and fat,72949e80-861f-4fa8-b76b-c6749ee5567d
+dairy,9035761b-deb1-4431-92fb-0b2c39d95715
+cereal,af5f9338-ca22-4fe4-8080-b7f01fb8bfab
+vegetable,e76005d7-9153-45c8-80d2-5a6f794ecb93
+fruit,d005480f-1977-4c50-ba6b-4dcf0300700d
+monosaccharide,a3cf5678-8808-4d2c-a0cc-cb5cca1aac14
+wheat,0ffb271c-374a-4e72-8ee4-156771c0857f
+root vegetable,b8e8e723-a8f7-4d66-b16c-8af807ccf657
+starch,20679b5d-44d9-4841-8ec3-fab4ef03aafd
+natural flavouring,e10588a3-3655-45b2-a361-eeeeb1b5ad94
+spice,4a6832c4-510c-4002-934f-4a3582624919
+cereal flour,b250d856-23bd-4862-95d6-268b1824efdc
+condiment,c42a4b65-db75-4ecf-8545-27c91bd4ba78
+emulsifier,51bc59bd-77b7-4d10-a1ef-5edda90e9e53
+wheat flour,56a9ade3-079b-432c-bcca-ae610461726b
+herb,5d3fba7d-46ce-42bc-b678-96fb6ef150d8
+colour,97084ad5-76d3-4337-99f0-85e2dadb2e4d
+preservative,08662449-fe75-4d27-8199-a8cf894d7472
+acid,b2051e27-1b52-4f49-9d30-d7e221a44a9f
+seed,cf7d0e0e-269f-457b-884a-0135bfebfd68
+plant,9df0b08f-ce01-4a08-bdcb-66c0d5f0736b
+antioxidant,6ac4ffdb-a2eb-45cb-a784-8383b105e1ce
+dextrose,fbf4d99e-cbf2-42ae-a0fb-6db21da615fa
+thickener,5e96c6c1-8e7f-43b9-80e0-399e452d1d44
+stabiliser,bf5ebdf6-b5f4-43fb-9e67-b31d90bffede
+glucose syrup,46088159-6cf9-4bb2-b4f5-c5cc710283a6
+rapeseed oil,9ccca320-9538-47ca-8430-d1709a4d5985
+animal,e1a97066-0f56-4b23-89d1-7dfbcc5f1bde
+nut,bdeee4ad-ec49-40d0-a35e-e34d93bbb8b7
+protein,f29c8a18-dbeb-4648-a11c-caa1b5826205
+cocoa butter,c8e7ece3-4cdc-4708-83aa-3d553dbae1b9
+pepper,c7ffb39c-7914-4001-be00-4754efcc818d
+corn starch,bc5a7a1f-99c2-45f7-9afa-55f83966d15d
+palm oil and fat,4223647b-e9c8-4dda-91e0-77b1c7377f68
+modified starch,91f88de2-da1a-474d-81cf-4edf5ef1815f
+cocoa paste,a65dccce-b155-41f6-ae98-975335339ffb
+skimmed milk powder,086a114b-0eb6-492f-b8cf-40934d035a34
+soya lecithin,e6e4d52b-e152-41da-8bbf-6959092838e1
+meat,f7c01edd-484a-46e4-9770-5ea972aafaaa
+raising agent,1c780efd-1b0c-441b-8e11-ae24485e08cd
+acidity regulator,566a1882-ba42-416f-a2e9-4f70d4a088ea
+fat,10f05622-1bcc-4ba7-92f5-bfa8642501b4
+malt,33f09eba-4950-4393-8aea-ff5347b8a7df
+colza oil,b94ec3c4-8026-4714-990c-fc30b1543b8f
+ferment,db7d33ad-e816-4c2b-86d1-0dbdf7564df1
+tree nut,875fba52-af33-4fdc-ae7e-270ea88f1ec9
+corn,7a8230c6-bbd4-4dac-a1ac-81664f86c70c
+cocoa powder,3521eed5-cdd8-42d2-a238-ba9e01522cdd
+pork meat,4f842452-7021-4645-9c27-c68e10f57e3b
+legume,78f311d6-a45f-4d0c-b204-32c62b82aa8c
+lactose,b3446258-0d57-49f0-be3d-c841199b46c1
+soya,9415a11d-217c-4ae0-9a22-7daafe296fba
+berries,5c95d364-aff4-40a6-8b53-d7a01abeb71c
+citrus fruit,5d0b77cc-9964-4369-90a6-aa8a4ae4002f
+animal protein,9f834775-fd9a-4988-9a8e-7263f5861588
+milk proteins,0a596770-68cd-4963-93d1-005bcaaa026a
+whole milk powder,b67bde33-a897-4a9d-9c87-9f76024008e5
+malted barley,e3f11603-d2d7-4fa1-adcb-6c350fd511dd
+cheese,a3279363-ca3d-4441-ba0f-213c09945d73
+microbial culture,d1b69b63-c31f-419a-89b6-30a840c433a5
+lactic ferments,1ad74d5b-3c22-4f9d-8c0c-eb9fc1f6a2b1
+maltodextrins,de478202-52d3-4cec-977f-da080daf5b5b
+enzyme,07244665-18f9-481e-a98d-c82194717e17
+glucose-fructose syrup,5738b4a1-2e19-4a97-8755-5ba4ddb82f36
+fat reduced cocoa powder,c74ec002-5a6f-46db-bb36-fc56211f29f9
+vanilla flavouring,6429110a-0b0f-481a-81f3-f41ace9e7852
+gluten,4f5e3c09-8eb0-433b-8d2b-7e5f34262f29
+gelling agent,1efc0d89-7fb7-4d2d-94a9-8c2a7cf3a220
+vegetable fat,61b3d542-06d3-4b6b-8645-fa18977152c1
+alcohol,d1c38301-4cca-4f86-8a79-1b40e6c00f32
+coagulating enzyme,be856e9f-d9c4-47ea-88ea-ac578737ff2d
+oat,f9430430-c9c5-4571-9e0a-e5b9fee9fa50
+minerals,5e22948a-89e3-4e72-adec-b61e1aa347b8
+butterfat,7b3af6d6-57c9-46b5-8267-37325d4e6c7d
+whole milk,946480ff-c5fa-4a43-80f9-096072acd405
+vegetable-protein,8a84f412-b190-4e1c-bc67-ac6c5713601f
+concentrated lemon juice,80284aa5-f887-4a91-8cc0-648d76027012
+yeast extract,198a6fbd-3667-46e9-a548-46a68f150f26
+natural vanilla flavouring,33fa5095-60c3-462b-a343-d3350b223d5f
+modified corn starch,55d70649-add2-417e-8b79-9a2acaf25cbd
+skimmed milk,82e0c4fc-8986-4116-b61b-f758da8e9c70
+rennet,cc831190-0362-441b-b419-3109943dc789
+virgin olive oil,b9ca3be2-03fe-4ffa-bfc3-af6788352d8f
+flavour enhancer,7989f094-5b66-4123-adec-c2b5f9164523
+palm fat,3bf2de18-7365-433a-b67f-e3db4dd0e25c
+black pepper,94fa2f4b-aa81-4e12-83b6-3e47a4a5e243
+poultry,24bfec58-c132-4ba2-b755-5693d436096b
+sunflower lecithin,2bdedaba-6a2e-4462-b2e2-7670124cfcff
+sweetener,1e2b1dcb-a58d-45a1-91b7-2b88f95f2b18
+tomato purée,7dbad0a0-6448-4064-a4ba-493ec73c5534
+fiber,fcb56dc9-1b07-403f-947f-3b1a8f1f0c90
+invert sugar,db4bdda3-1050-4133-9424-68b05e323d31
+sunflower,ee37513a-d0b9-4213-9d7a-402cc74ab949
+durum wheat,a56252d9-d34f-472c-a3f4-cc8e29b84987
+soya bean,731a325f-2529-4763-8ce2-c7309c668511
+wheat gluten,6b6b5ba5-5382-4a7a-9093-8e37c0e4b91b
+spice extract,0ad2ae5a-f5c4-4f9a-ae4b-7b51f226358e
+durum wheat semolina,22d867f5-4965-4430-b420-d8600f8dc332
+vegetable fiber,6e2af0ea-1885-45ae-89ab-09333dcf31bb
+invert sugar syrup,2e7c3257-40f0-4806-8254-0291d481573b
+wheat starch,e352080f-5a73-48fd-b78f-cafd6e02c8bc
+rice starch,498ca90b-a772-4856-991b-3a2ef46abe1b
+egg yolk,3d439891-7c06-48ba-a2d5-346062339a2e
+oily fish,ce8c519d-3fa1-4a9b-9678-8207ad973ea9
+iodised salt,3b7051a9-2cb9-490f-a557-d2ce80f468de
+egg white,d44b0b6d-f2c9-4138-90d4-602566460184
+carob seeds,41b77916-d77d-4aad-b0c4-1a999928c06b
+animal fat,a8a431c2-4ca7-4dfc-8dfe-ac414e0082b4
+hops,9491784d-9a5d-49db-ae56-1a0e1c5e3ff4
+hydrolysed vegetable protein,43f54173-726e-4a7a-b81b-ae4a0ac1b8db
+barley malt extract,9c2fc996-4489-415c-b3fc-3089684e2160
+purée,ae00f585-7ff5-4606-a2db-9c54198b3e96
+wholemeal flour,b8c0b678-b016-4c44-94be-506f0f7accd0
+whey powder,b56bf7ff-26bd-418d-a90d-fdba2909cae4
+oat flakes,4d6801d6-091b-496b-9bf0-0ea121de83df
+glazing agent,45173ccb-d30b-45a8-b38a-328cfd9263a6
+dough,fbc998a3-6065-47dd-a8a5-fff7dd919248
+carob seed flour,82509cba-9051-4408-9d1b-d7b84ab43c5d
+unrefined sugar,844c9e3d-f31a-4d62-ba17-734cf85cdc90
+wine,70761917-ca27-4910-b9ea-b979a29ade46
+alcohol vinegar,db200f0c-38a8-49d7-89e1-5b50c9f62ef5
+soy protein,26f2253f-ec20-40ab-ac75-846e9f6f4a2c
+sauce,f5752eb4-8fa7-4b4d-b719-8a8a592c7b0e
+unrefined cane sugar,c9cf79fc-8a99-4343-806f-9407266c3585
+palm,5d10d0a8-51c4-42b2-8ad2-03ac131cb2c0
+cow's milk,00dba365-2a76-4ed1-afd5-7ed0d11394d7
+tomato concentrate,544208cc-0b1d-4acb-9d95-00ef46e103cc
+vanilla extract,70a0c263-e446-4204-9a22-2b8a8fda8c3b
+sesame,b50941d3-7457-4c41-932b-558371d4fb50
+spirit vinegar,7bb167af-6345-458c-98cb-c3407db0c14d
+thiamin,ee5d2a8f-a2e5-49ad-b04b-64ec9235a922
+wine vinegar,b45d287c-ab49-49f9-a288-b43aa802f327
+whole egg,1722bd8b-abee-48aa-a974-cfdc2b769b57
+pasteurised milk,390643cb-6e4c-492e-99d5-ceddb52e6012
+beef meat,f5a38301-9d0a-483d-9eff-df5d39d1dadf
+coating,917504f0-28ee-4f3b-baaf-6dbd21f1c82d
+folate,0a14086c-9bf8-412a-92c2-768326de34eb
+iron,b01d54cc-8d45-4de8-a7fd-c67f8c1462c2
+mineral water,78ae65c8-427e-4d88-9b5f-5c04582d7f5f
+fresh cream,85c633b5-a44f-4e45-b954-8ebb001a5a5a
+spice or bell pepper,0a208230-daa1-4fc5-a359-2c213cbcc2e3
+folic acid,8bf72f78-2804-4029-9aab-08e702482c6f
+sulfite,072c8363-baad-4dad-bf8c-7dae5eae7b56
+whole wheat flour,a48ea767-8917-4a44-bfa1-ed736e8fd2ed
+milk chocolate,936e76af-88e8-4f5c-b43f-4cb8b8bdbd1d
+rapeseed,c8606e88-7eff-464d-b4a5-a3bfd2656f50
+soya flour,fff595db-23f8-4481-8f31-ce7bb425a8c4
+fresh egg,35222ff4-ecd6-4d2d-8943-07828b4e363d
+smoke,24d6481e-c0d3-4dcd-89f5-cc4b8f926d76
+herbs and spices,fde3f481-3748-4cca-8a55-bd4b9d8d9ed5
+sodium,422e8f0c-5f7d-44bb-8ae4-807778e7c434
+baker's yeast,da10a784-cc4b-492f-86d1-9f02f434d2f7
+ginger,4305abed-f500-493c-bebc-c67a40b03ca3
+humectant,0ea43bbe-1806-450e-b9e7-69501a4af17e
+modified potato starch,ce578bd3-498e-4a75-933f-ad73ea551ea5
+natural lemon flavouring,1b9c1a31-9fb7-497f-8146-1683037673a5
+sunflower seed,7de95889-40b3-4915-a701-4660e4557617
+lactose and milk proteins,84494dac-9d32-4f79-853d-42beebfe9a98
+semi-skimmed milk,bea8fbf8-5479-4b88-9e5d-30eda80dc7c1
+broth,38522786-f3c6-4cb7-88f1-a8206b4a04e0
+rye,e92b5676-e350-46b0-8ab7-aa72dd1f9797
+chicken meat,2cc702c6-c7a5-417c-a49e-0e7264ca96f7
+flour treatment agent,2e8c2045-1f0e-4e25-8bea-0a95484157b3
+red bell pepper,3ea2b18a-4f22-40b0-9d84-2c6579d8bc9c
+fat reduced cocoa,aee219e6-1a99-44d0-84a4-dac8b7d34796
+pea,a9d72b26-4fb8-4950-96a3-455d5870b888
+sodium citrate,0a4d4fbe-1eeb-4256-9657-7077aabf5fc1
+carbonated water,09cd65c4-3478-475f-9e0d-0710ba9de09f
+lemon juice from concentrate,5528dcfa-ebd4-4014-99e0-531b63693086
+anti-caking agent,5fc8dbc8-d076-4301-a0e1-311e1c0620cb
+natural mineral water,eaf99368-8751-468b-90a0-ede61fa748ac
+salt from guérande,f3a304e5-5786-4bb9-9af2-893e5e45a986
+palm kernel oil and fat,4e139e1c-a3a7-4b03-b259-6eb273116bb5
+blackcurrant,ae8b5809-0d78-44a9-91aa-40a6e5fb5389
+malted wheat flour,fe4ed521-b2f0-4953-b125-279d35516929
+champignon,31e4c86c-1bd1-47f3-b0ff-44266b57f9ff
+chopped tomatoes,463496b9-77cf-4548-91b5-ee6ea1f869a0
+vanillin,28c6c323-6a3c-4944-8e96-49abf6ae1c64
+tomato powder,e83e5d74-6f1c-4a1e-9249-44b169a92a26
+courgette,11a6dace-5d12-4d1f-a1d8-eb1ffb334394
+agave syrup,6459226e-631a-4d61-986d-f0bea98df752
+white fish,267952a8-2704-46c9-a4c4-5aa292260cd1
+fruit pectin,7d5ba41d-e9f8-4815-8bf6-7871175f0d27
+tuna,82350276-e057-415c-9310-7cf7a9e6c96f
+pantothenic acid,94775c54-c1b5-48d0-8181-22c00f428df7
+modified tapioca starch,46a86be3-866a-4a0a-925c-8029f9958a37
+shea butter,d1e6d5a6-75b6-4b76-99eb-ddcf2139130f
+filling,71ed6edc-9e48-4a83-a285-9db5c26ee2f1
+palm kernel oil,c78c4a4a-ca65-448c-b403-60b7566f0aa5
+smoke flavouring,298e5ee1-7358-4ae6-8f86-4df0cf53b3fa
+raisin,392764a4-b104-4787-a98a-5241c3c17906
+microbial rennet,18f0a26c-2dc0-465a-8534-f64267d40c35
+salad,539863ab-29a5-4164-8812-3bbce3d96185
+flax seed,6eb8b794-fa20-4051-bb80-a7f54ec249b8
+concentrated apple juice,26402126-15d1-408f-919b-e78aacac6092
+fresh milk,8c5e0736-d2d7-496d-8c2a-1eb62ee72105
+orange zest,61144aff-6250-4e26-a33e-26b063dc4def
+sourdough,3597b562-43c0-4dc3-bf22-f52a2f2647e7
+barley flour,fc1d3823-e157-44f2-8b79-2197428e54b6
+safflower,8d39aa21-7d4f-4561-a4c1-c187c168c04f
+raspberry puree,4985e7cb-7313-4b74-9480-ab1de916f8b3
+sweet whey,b6f64fd8-25d2-4bc0-8997-19760efdf7c2
+sucrose,1028cdab-af0e-4096-9c97-2974edebdc8b
+must,a6d27468-2cf5-4b1d-b4a8-2f244d458f61
+mollusc,210ef79d-b0d3-41a9-a1ac-718733fbfb61
+powdered egg white,fecdf290-8b2a-4fab-89e0-9cb61407c6ee
+mango puree,f8c6c09b-0d13-4ae6-9898-b0d08329216c
+elder,65a47258-1209-4a81-93c3-b7bd646254d3
+caramelised sugar,da5f3e7a-f79b-447c-923f-2a1886af8992
+grape sugar,4ac15c72-31f1-4754-ab00-7a807291132a
+fresh whole milk,9c0abe82-735c-4f9b-9ed5-0a0215f4cd9b
+poultry fat,8ca6b94a-d155-4837-8a12-52c504fb5b50
+beech wood smoke,e41c17c1-892b-43e1-b8d2-5eb35bffbc55
+chocolate-pieces,65043b76-d4c4-4486-a7f3-9baa14a99c23
+nutmeg nut,5a061d1d-ce5d-4304-b752-436cd594e7d0
+crustacean,3dd18786-5037-4f21-b9b8-bdd908df42ef
+wheat malt,3df56e46-75fa-483b-adbf-e219c907f0e1
+natural orange flavouring,f4db4aa1-1fc5-4b07-a658-5ce1a132a733
+anchovy,b4923e2c-25fc-452a-aabf-cd2a2cc398ef
+condensed skimmed milk,77c2cbe3-6495-4368-8db2-1c3529c2dabb
+sweet whey powder,2a67c856-abf8-4a67-a1d2-7a9a10e55097
+passionfruit,0fb551fb-0fb9-481d-9ac6-152cccd6db74
+reconstituted skimmed milk,50d7406f-5415-4955-9041-688636c4b6ea
+atlantic salmon,99d61dc7-2dce-414f-9ccb-b87fe9f4de3d
+black tea,de1ed0bd-c4f8-4641-8ccb-bb4e07e6946e
+emulsifying salts,d07a8d1e-4b6b-4eb8-8b9f-e48520ad0b66
+turkey meat,afcc5749-1549-4a50-b566-a1316830d2d5
+hazelnut paste,1aa77490-5aba-4684-9dd1-f3e894a92557
+pumpkin seed,55fdc889-6aef-4d72-915e-adf18948d6aa
+cholecalciferol,0f936039-6ab9-4111-8db7-bc85af62e89a
+wheat flakes,d426b62a-fa9f-4805-aa97-b7d3283191f3
+oil,72d2438d-6102-4c5d-af70-4da6221c0dcf
+atlantic herring,adea70c9-ef1e-42f3-aefe-b0bcb342abf6
+green peas,c75a8e05-5833-4b25-a077-ecb8eb3ff220
+biotin,0288a9a7-424b-489c-af47-c43582c792c2
+double concentrated tomato,9c011bae-d13e-41a7-967a-9167de7912f2
+aubergine,24e86c20-ecff-4045-af15-7caec7330345
+liquorice,51a9893c-76dc-41ce-a79b-d13584c4cadf
+wheat glucose syrup,52636d1a-9458-44a6-b9e2-1ef9532d8907
+bulking agent,ad7c1aec-6305-438d-aa81-4138c78a7527
+syrup,a82dd366-c5bc-45bd-8664-e7a3f5f4f5c6
+orange juice from concentrate,c995f517-57cb-40d8-bef1-8a3fd63120ca
+casing,add322d6-df95-4d07-8c16-01ef635130d7
+apple fiber,5d89f518-8421-4a28-98fa-bedfe02af263
+herb extract,ab533ff3-b112-4c52-a666-503f5e13bbca
+dehydrated onion,5e275f2e-6ef8-4d49-8c80-7148281904c1
+raw cow's milk,d379ce79-83e4-4fea-9551-349670a0b72e
+whole powdered egg,16c3edb0-df75-4333-8d41-89d30f59ee29
+pasta,36eee70d-9251-49c4-92e7-d0d5aae31be5
+garden peas,238481c2-5154-4d27-81f8-0c505fd1f1ed
+natural raspberry flavouring,6e88c104-e72f-43c9-aa52-b68ad1db3701
+breast,28619f6b-29f4-4616-a66b-9cf2f97a3c9b
+soya oil,f52c865f-c95b-4cd7-8470-788b56e030b0
+emmental,a6f06249-96ce-45ac-83d1-3d49c1cbf772
+whey product,5864f815-1fda-41c3-82ba-6ff4e5a20c53
+green bean,2488f1be-10a1-41c4-83c6-1ee7fb744db7
+corn flakes,ea3095cf-88a6-42bf-89d0-337966689042
+pork breast,617b6611-a177-49c5-b95e-ddd0b21400f2
+wheat fiber,62fe0e1a-48b4-4450-b591-0186e7492c32
+pasteurised whole milk,e2aa6bb8-0fa1-44bc-b958-a8f79332a3f5
+cayenne pepper,61766f16-1a92-431e-81a4-170c7cd55a8b
+wheat protein,75a09a59-34d9-4112-af0b-27a0d861a6e4
+lime juice,e1906ddb-d834-4f17-aff1-2cd3d1df44a0
+potato powder,fd69b3ec-a0e9-4382-ae23-fcbfb412433a
+herring fillet,c68a0a2d-aa19-42ad-a1e9-3a09d90d8f46
+red chili pepper,551f2b59-4b5e-4c96-9d87-17221c30dfea
+chicken egg,211ba24b-0204-452b-9b78-af4716875d2e
+vegetable juice,e0e9f19c-9878-4e36-84f4-88aa4fbc2df2
+alaska pollock,c422eebe-0c4c-42eb-a348-22e56e9c2a8e
+chicken fat,d151452b-09e7-4e48-82c1-53c476493040
+concentrated agave syrup,9ae5a97e-6751-4b4d-87fe-b8b7c2d6c2d6
+fruit-concentrates,7b332195-1126-4ace-bc52-001022693587
+apple juice from concentrate,bf8c7ee0-0151-41e7-9f73-41dc898faa1a
+gum base,2d922485-f741-40a5-bf49-5ee0092b6dd7
+pork gelatin,349528fa-1af1-4e36-8f01-395172bc1a83
+pork liver,8555eedc-6393-4d30-91f7-f8245664466e
+concentrated grape must,a24da393-c63e-404c-a570-0fa62d897f51
+chicory,c4d55d86-0b58-4f2d-99cc-e965a6770ed9
+dehydrated glucose syrup,4801651a-121b-4936-81d1-b94610718991
+pasteurised cow's milk,c6a7fed6-3f99-44b1-b532-d5f3d89273b2
+cooking water,4d4504e3-3b5d-4dd4-81ab-0783d7cad21e
+glaze,587ecbec-7519-49e9-91fb-7d0f66561bf2
+milk fat substitute,3164a556-50ae-4872-91aa-9917367b7f6a
+green bell pepper,bde30e8c-3356-4351-92db-a0d5900951e0
+high oleic sunflower oil,a017f4e6-259a-461b-8864-55865e15cab1
+coconut flakes,0f0b6ce4-e2e9-4fc2-a584-564a126bbe22
+juice,2adf8144-71ba-4ce3-9ae6-24c76a7f2d2a
+green pepper,097657aa-44e5-40a1-9caa-d3d048da3f38
+wholemeal rye flour,a312b79a-3236-4dae-9b9a-480a62d30561
+mild yogurt,7940283c-8363-4fdc-bc2e-0602ea6db50c
+lardon,eda58274-e2de-439f-879c-65eff089557e
+biscuit,6432bc39-162e-4576-a836-1a5d490b64b0
+fructose syrup,26d922a3-244f-4ba3-80ac-504b4375e712
+tomato pulp,8fd87063-fa1a-44e4-94ea-b02003a403cc
+redcurrant,121c48d6-5d80-4158-8283-b5dcf36dc9d6
+animal-based rennet,71815fb0-014b-4b7b-9e8e-31f682bdac7d
+natural pepper flavouring,686d3ac5-0a5a-4e85-afdd-87d3fb8250c1
+pyridoxine hydrochloride,d9d99789-e720-429f-87da-8f67660b0e53
+smoked lardoons,b7c579df-c18e-48ff-90d3-aa3044f59a29
+coagulant,c78007db-ef79-461e-8f63-c695d1ee3be6
+pork rind,45e52042-5de8-41b3-8cb4-7829fb9997f9
+caffeine,aa94c162-adb7-4742-8e97-baad07efbe7c
+cyanocobalamin,4319cd78-6efa-4fe2-a32e-f8714747c4dc
+melted cheese,04907d40-8753-4ad1-8bc2-7bfa070d43a1
+red fruits,0c8b8a53-d54f-4437-95d2-292fe9f1869d
+apple purée,6c88955d-7bf6-4d64-b1f5-509e5d10613d
+refined sunflower oil,cfce421c-07a2-4749-9b5d-72ff1f74fc84
+fruit extract,c357545e-18c2-44b2-b575-6e3522ac16de
+whole yogurt,63994622-7ee9-40e5-bcb3-c25eceb95b30
+red beetroot,43ef168b-17d6-4f14-9eaa-25ad61dc3026
+malt extract,03f48f73-43a8-4dbc-bb4e-6978a3963220
+lysozyme from eggs,d9ebcdd7-a4fa-4319-8974-9ae4d4fb1cf0
+hop extract,54645d93-7272-40e7-b690-7b06e161090d
+savory,f3a2b703-f590-4f72-8117-54f99d09cd3f
+lactic and aging ferments,24274c78-de0d-4c6a-a762-9dfd7e56319f
+sheeps casing,9e393a4e-fa6d-4460-9d34-9e766ee9dc41
+acerola,1f0c11f8-1f73-4042-88fa-919fcb86a794
+cooked rice,28b88d8f-4340-4b5d-ab30-c97c57afc828
+natural vanilla extract,466b92be-ee90-4dc5-b5fc-855c9b208201
+black olive,3a982ed5-9b66-491f-b913-4b7240d88be9
+superior quality durum wheat semolina,18e15c35-7809-48b7-8f6b-5e2871116d7e
+iodine,58c60f63-5986-4582-9a83-bc6cf647c258
+tamarind,5492a383-0cf5-4887-8de6-ea56264aa394
+wholemeal oat,840ab276-313e-45cb-9e61-6f35809e0cee
+sweetcorn,f1f425ec-7730-4b6d-a166-f9f42d29cc2d
+calcium,85600f12-9588-49a4-a5b7-7fcb03357298
+reconstituted lime juice,92d48cc4-5535-44d7-a508-d11e45cc9da7
+poultry skin,3052f33a-cfa8-488a-ac2a-ef17515418dd
+lemon peel,81f351a9-5fe8-48fb-b298-638e45220009
+ingredients,2839acdf-0813-4b8f-8fba-1f86632a4eb7
+malted wholemeal rye flour,b71a97b9-380f-45ad-a2a2-5e30ad806102
+mackerel fillet,873a6ae4-ad02-4044-940e-738e1c4ca59f
+bourbon vanilla,7cf6bff5-d6bc-42be-8c36-157d0a87c2c5
+deactivated yeast,3fc0d760-ba97-4bf3-b818-0e0e5c44b6b5
+wheat dextrose,10678860-a2a6-4a5b-8f38-8b835a22bd7b
+rye sourdough,c717d13a-8a53-401d-be30-fb856b8d3bff
+pork by-product,7212dc02-f415-49ba-a869-34c82d0d709e
+veal,858b05b4-b48d-435e-aadc-3c744a112607
+corn dextrose,c9d6c97a-6eff-46b7-b0b1-1d2df67bf499
+poultry meat,26d0f84a-fa6e-4bbe-9892-e4d9f2d33a80
+rapeseed lecithin,30067e7f-ea22-457e-a778-34f6eefa8228
+thiamin mononitrate,a86be041-1e05-4b23-b5b8-c6325cf6c211
+grana padano,bf1a7112-d91f-4f10-9896-b3c8136dce9a
+crushed tomato,01a548f2-cb86-4e54-bc5f-7512c06f4bad
+pasteurized skimmed milk,84ee9bd5-0a02-400e-9694-8e37c68b2e37
+nigari,e33cee2b-085e-44d9-9d00-7b40fd4379fe
+milk minerals,9f9df581-7791-4697-9095-87f5974b8769
+brown sugar syrup,5f28ecd7-00f8-469d-b501-c30948ac0489
+table vinegar,2af72e2f-5650-4190-9b68-36b542f78483
+baked onion,08426030-cf8c-4b92-b9b9-f1be2a85ba1f
+roselle flower,8ccf5fae-788b-4a72-b1c1-31d622af4839
+fleur de sel from guérande,c3200ef0-098f-425f-be55-61030a528e8d
+cow cheese,d1aeeb06-9414-4ffb-9d3b-1d6a74b188c0
+barley malt flour,6b9e7308-41d6-426c-9e7a-e0d1c6c16d6f
+peach puree,8a36132b-56c0-471f-8b08-915066afe6dd
+wheat flour type 0,74613580-bf4e-4a06-8857-e0f5e3e95994
+coriander leaf,4b5e74ad-6fca-438e-9625-0d8b1c1f75d0
+parboiled rice,979509ec-13e2-4243-b087-e88469551454
+wholemeal cereal,8828986a-da37-4c1c-89ec-a9375a062155
+crushed peeled tomato,4ef36903-9d45-4a54-969b-93fc38f6a808
+paprika powder,78175485-cf62-4850-be3a-91e39bb33431
+firming agent,e74c3984-5111-4930-94c6-14b5e4db3b67
+concentrated pineapple juice,4866f6b6-6146-4ed6-bbe9-70f6692028e6
+vanilla pod,5e184660-00c3-4be3-9d61-b4a3bcc28708
+fruit juice concentrate,1423527d-7785-49a2-9952-d23cc1a8c590
+sucre,07a85a16-8e19-40ea-a984-695ccd5ad5d6
+concentrated orange juice,54809624-54ed-475b-96ae-045d7bce2f58
+honey from france,1b2a2210-e18f-46e8-9604-f78ef4cea296
+free range eggs,61348f73-5895-4fb9-921c-b59f97f6bf6e
+natural colours,4c06d4a8-ee9f-46cb-9acd-3379d9f9583c
+uht pasteurised whole milk,6e655fdc-5854-4a18-a196-00bf891c16be
+algae,85d4bb9e-f84d-4db1-b668-8519d506c1df
+burnt-sugar,334f275d-4d9c-4bed-a3f0-86673cc9dfc5
+beans,31bb06ba-e95b-4b0d-8616-80d8cef8a2e0
+palm kernel fat,d523e248-5feb-4d38-94dd-a8b40bfcf3d3
+natural mint flavouring,704c844a-1aca-426a-a635-feed0fe63ab5
+mint flavouring,1aea3b63-3cd5-4b06-8f05-2315c8475e01
+cornflower,925cabbd-d4e7-403e-820c-18d5526e4582
+whole grain oat flakes,21cafb89-70e2-4de5-b56f-4ecc4e6854bb
+concentrated plant colour,b062db67-4830-451e-9dc5-8b6d77d87ea3
+vegetable margarine,69c1a0a2-c58d-46a1-ac8b-92bcdc735470
+single cream,531642d2-ba2f-478d-bf49-0bbad34849ae
+natural sheep casing,51db1fc7-0f67-4b68-bd58-962285ef8ac6
+unrefined sea salt,cadeaf0d-e99b-47dd-bd21-10c547d92102
+enhancer,18d73466-dcd0-4773-9ee0-9ac145369541
+sodium chloride,7ce1fd42-10fc-4377-acbe-27ea35bdd91e
+boiled egg,a724c34b-e9a2-41db-afcc-544624c603a2
+wheat sourdough,28cf35f1-d803-4ce0-99ec-fe7e90bcac3f
+hydrogenated oil,0b3ce3c0-0db1-48cc-9434-5d8fea61c48d
+hydrogenated vegetable oil,a35e8b75-76a9-47f5-8193-2224f2cc6810
+garlic puree,266a5513-571a-4dd2-865a-832f72b53835
+acacia honey,d0629122-5b80-4ab0-be87-808c82afb927
+parboiled long grain rice,c4dd0741-2d8e-4709-ac97-a5d879921196
+gherkin,323d8553-a4d8-44ce-9475-37a8f4b6d54c
+bone,7f307494-0ff7-4406-af53-73bc4c170d23
+dry roasted almonds,e0d76f03-eedd-42f7-9bee-014af8c393c5
+smoked bacon,e9f991e5-5e14-4c85-a60e-5f92e587bc6c
+liquorice extract,f50d04c4-50e6-47db-ae80-6519ad00d38c
+aromatic caramel,9676ff0f-3db5-4c46-b6a4-6fe93324ef53
+brown flax seeds,9523547e-d5fe-4c0d-a5e2-2e0e94096b71
+black carrot,87e1f929-af03-4810-a751-cb05607ec396
+yellow bell pepper,c3d9a91d-4965-47f5-a0bb-b432982572f5
+potato protein,48d550f1-5d7d-4f1a-9466-3b13be891933
+sardine,b4a34501-77ba-41c6-8dce-0208f9063da4
+duck foie gras,8e3eb8ae-2968-467e-9a6d-320a7ef996d0
+wheat glucose-fructose syrup,92405327-cde5-4159-8e7a-30d95fb61fe9
+carbonated natural mineral water,1f39ab6c-3fe5-4378-9467-4d22bbf039e5
+suiker,8529b945-cab5-4866-ae02-11324536ee72
+pure vanilla extract,1df80e19-b41e-4faa-bf27-4124c196667b
+roasted peanuts,80ce70ac-8c32-40a0-8ac0-5d4817455c4f
+liqueur wine,2a56d435-dcbb-46e4-bb07-1f929002dba1
+sel,5ba7dcee-8f9d-4818-9047-2f2f1951f505
+albacore,cf3f8281-1fa0-4b23-b30c-98eba119490d
+dehydrated soy protein,ef736663-efe9-4911-87ce-401508a9b9e8
+egg yolk powder,608d7629-04b9-447d-80e9-0603e685dbde
+lemon powder,44a3f3be-f049-4143-bc69-6ab5b32a1cc2
+rice semolina,9938f06b-588e-425b-a9ea-8e99c20cf7d7
+esters-of-fatty-acids-and-polyglycerol,7e3c3de0-03fa-4005-8f45-b384951475bc
+broad bean flour,a7ab3865-f5af-4f5d-91fc-3ef8cf1aaa00
+rice bran,9bef66ab-7efd-44f0-a6fc-d5443863738b
+pomace brandy,6f4d057d-37c8-4428-95bb-d251a8fc2266
+peppermint,48b92102-487a-4312-9727-412bfe34fd5f
+cocoa solids,4c0f16f9-759a-410f-803d-7ac0b23636bf
+hydrolysed pea protein,6e27786c-9e5b-4d1d-954e-712ade50ffd3
+port,6aafeed1-6af8-401c-ab49-bcdc2590fc63
+natural basil flavouring,3e128bfe-2e62-47ee-ba4e-087ff6bbc7b4
+blend of honeys,3adbc957-aec0-4f79-9942-8c62ae10902d
+tea extract,cf9baa7f-b742-43bc-929b-e51c3549d43f
+reduced iron,de0482e8-6a8c-4793-b869-e421300419a0
+bifidus,38be43c2-73c1-4bd7-a2bc-4c6b4ae537f7
+extract,0a084d76-3fff-4970-bdb2-ea7fadbbe55e
+milk solids,7ccf5f08-aacf-4e4e-aeef-97b5b8142f21
+cocoa butter substitute,7084677f-6c5d-45b5-8e4f-37ea9a808493
+potassium iodide,5b7b13bf-d3cd-4d40-833e-ca49895b0e0d
+pork collagen,3765ecf4-a317-447f-bf69-7f1dc6e17b12
+cooked ham,323e60b3-222c-4f46-ac08-10612352a2a6
+hydrolysed proteins,0bc4c3a3-a125-4137-8b60-a586973f5f34
+veal meat,0701608b-5240-4f8a-869b-4578b2af733b
+concentrated carrot juice,e48deb55-9b89-46d4-bdf0-478c1b954434
+long grain rice,91eac3ea-ec60-4a12-afe5-830d33c41b5b
+psyllium,f2b6928f-cf65-4f9d-b9ab-c163865fd5d6
+shiitake,767e1d5d-f5d7-47be-ab2b-aac1d9920e66
+rye malt,c871df0c-2963-4f1c-af1e-892ab269a15d
+uht pasteurised milk,a40bb42f-400b-4de7-b311-e504c47c256d
+rooibos,8fe7b4b3-ca0a-4521-9c8b-27fb86fe5c34
+non-hydrogenated sunflower oil,2b4a0290-48e8-4c9c-b32f-96af0941c361
+bourbon vanilla extract,26f8e04e-67fe-4545-8283-e1e81183b44c
+hot chili peppers,7137ce1d-46e3-43ce-b41e-4fed5cefc971
+filtered water,b7d5a0f9-ccc7-4710-9b58-76bd2d422880
+may-contain-traces-of,fd99daa3-63a0-4c30-83b9-040c3c09f5cd
+cep,e0087356-9aa6-4fbf-95a2-34519c5c0697
+concentrated purée,6105dfed-3332-4f2e-8eac-9dd87efda064
+330,48fa575a-ce2e-4da9-acc5-e0dc979fa3b7
+cracked black pepper,39c38a76-f3f8-4a5d-9560-964d6069136d
+deodorized sunflower oil,35e445c3-a6ca-4581-a665-f2cd0fe33a84
+xanthan gum and guar gum,6a6cf920-a713-423c-8c0d-9665de22cd7a
+carob-germ-flour,7afb7af3-fd20-4a9d-ac86-9f94889319b8
+special bread,91e94e79-db9d-4015-96b5-4e5c4ef9dc2f
+sterilised milk,e5bccd68-d98d-4d9f-8164-b7a5bd24bef7
+grape must,b879bcf0-4bee-4c9b-a22f-5d76951df8f1
+superior cooked ham,41dacb66-c68c-4f10-bb5b-7e99e71d404d
+cane invert syrup,57355735-44c2-4bfc-8d93-733c07946f6b
+zinc gluconate,ab25edf3-0124-4b83-984d-c2cba36f10f9
+pasteurised goat milk,4cd14f98-4482-4874-ae01-c90fbb66f718
+duck meat,fa1087fe-e6fb-4103-8976-6e22d086e7e3
+acacia fibre,9b61bf3b-05da-47bf-a271-5d458933004e
+atlantic mackerel,7e4e6664-0b0d-4ee3-804e-e876009a3dec
+lupin bean,e610d88f-3f45-4487-8640-8d8d2beed6f8
+pea fiber,e88eaea2-8dc5-4662-885c-2512155fc602
+hard-boiled egg,7da6389e-ca15-4de6-860b-c3d76eeeb2ea
+lupin flour,a83bfeb7-61b8-4bc6-80d2-ebc814063ccf
+beetroot juice concentrate,b919039d-48d7-4a0f-9176-e097272db21a
+cooked potato,6f77d596-c7fe-40fd-8450-c56c3807e871
+beef gelatin,b42d3a91-373e-47c4-98f1-772264ec993c
+brown rice syrup,055eabc4-f5c1-421d-a39d-2c3656f1ee85
+apple extract,1f1a0ab1-25dd-4ae1-8908-6923b0092989
+ground coffee,3cfb9833-6a81-4c66-84c0-6c418e53c533
+canola,86757556-8579-4767-8ae9-934970811949
+broad bean,826a07d3-8f0d-43e1-8b44-f9e34af2022b
+pineapple juice from concentrate,293b51ab-069c-438d-994e-41a03c7b1060
+tapioca flour,697d31d7-07dd-47fc-97bc-3494f4c7bc85
+pork sausage,412edfff-7c73-49b6-9176-9f6d8ed5ee3d
+processed-with-alkali,c3ffd674-7552-4989-a3fd-6c45b232e5ce
+dried fruits,728856ba-f666-4f69-86ab-2343172ab2f9
+pepper extract,e605f996-c7d0-4e14-bac0-6c1d1342b6e7
+mountain honey,ea373ed1-7d03-4e54-9871-774178c81eae
+concentrated whey protein,2b83e404-2cab-4304-bb6a-23f5d8215018
+sugarcane,6204503e-f62b-484a-87a0-161702c638e8
+ground hazelnuts,3d37e015-05ab-483f-84dd-f71fe796d434
+rusk,5a5b485b-0555-4928-aa58-9c3afe79e6dc
+natural blackcurrant flavouring,68ac4c7c-bfb7-4d37-8b00-6562c0e46adf
+mixed condiments,53a43a10-f648-4a18-9e38-4947188dd3e4
+red beetroot juice,c59cb307-2087-40ee-a790-f25bdd4f698a
+zinc sulfate,05468396-4785-49a8-88af-320b38095a64
+blackcurrant juice from concentrate,131dcd26-e553-4299-966b-dbd73fb9cf36
+palm olein,81414837-cf25-4b89-a85c-927c6c58ed2a
+unsalted butter,86358769-e1ad-45dc-9128-0d6153760c72
+plant extracts,03ad2eda-c31b-4b11-b685-ae6bfc52ff56
+flavouring preparation,b53e999f-2d8c-41a2-9c58-5d8aa2b2ca7b
+chicken skin,f5ef2dbc-30d1-45bf-9dc7-22ec3327a6a7
+ferric diphosphate,5e56eff7-df1c-4b4c-9df8-0c0ad7b32813
+zout,fdae28d9-ffb5-4dd3-be6e-c654f65c65ed
+black carrot juice,8888e8cb-20f2-4027-af9e-d8101dbbc646
+fruit and plant concentrates,09046209-b35a-49a8-a4b8-da13ea651a9e
+bechamel sauce,5ca2edcb-83d1-43d2-9d6a-4ae9ae428e65
+whole wheat flakes,4e78ccc7-b423-4ee4-8080-0bec37642b7b
+sugar beet syrup,c6e2ab34-d2e8-4b8e-b817-923269e89d42
+atlantic cod,13d2a52b-70a8-4575-8b84-7c4062004605
+marc de champagne,babb4f52-5e08-4e6b-a924-b5a7018d2181
+wholemeal rye,ba975e71-8ddf-4ed9-81ab-d34a5416c75f
+dried apricots,d459a5ed-5b89-4ca0-94ba-fa434d99758f
+small white onions,251504c9-66ee-49f9-adf5-72d0e85ebe41
+elderberry extract,f136ad31-ec2b-4ce5-9a2f-be670bda91b2
+ground almonds,42e564f0-1732-42f0-82b4-d18b77be92b7
+neapolitan wafer,3ac1b99d-f687-4086-b03d-a075f6fbb7be
+microbial coagulating enzyme,31582777-e102-4be4-ae80-572529a421a0
+aloe vera,46f538c0-8d17-4926-ada0-68a844420f4f
+superior quality long grain parboiled ricesuperior-quality-long-grain-parboiled-rice,705ddd53-d79e-4500-9350-0307565e2d47
+cider vinegar,177f3653-ef38-4d23-95fc-a44b2653a853
+mallow,1ee5181e-4768-4dbc-ad45-d18204bbed51
+butter flavouring,f5435933-b00a-4a6e-b8de-3e77e4ae1ab1
+yellowfin tuna,0036c615-9668-4591-8746-4758028a836b
+bread improver,61fddcd1-0846-44e1-989f-3787c957dfa0
+semi-whole durum wheat semolina,0779c67c-6e75-4896-9dd2-715f74018265
+celery powder,cdc129c5-c713-4585-a78d-32cd13d00289
+gluten free oats,8800a461-3671-42a4-ace2-2ff8d2b90bca
+blend of eu and non-eu honeys,305da60d-9301-4f25-aecc-69f287387d0d
+brine,8c672d3a-8ad7-489a-8e90-f329af0efe0b
+thai rice,781bf1f2-bf77-4512-b15e-66e0974caaec
+spirulina concentrate,aded1735-762c-495f-be45-1abc3f471aa7
+cottonseed oil,c16bb50a-26ec-4dd0-89cd-9672be60b28c
+chicken thigh,e3d771b5-e059-45f0-90f1-2e33ef6f314b
+fortified wheat flour,773e8243-b1c9-4e9a-86f2-ded11cd5fcb7
+corn kernel,947ebe3e-ddb2-4743-94e8-2b1931bd3829
+chocolate chunk,3d78b2b2-0f0c-4327-ad50-e8c307777f93
+acacia honey from france,dff45bf1-39ee-4ff3-8571-83319dc8028b
+pea starch,40bf3b0f-bb34-4b3b-8b59-4f24caeebf9e
+natural flavor of turmeric,bb99d52f-8317-4be4-85ca-c80c31c3f7cc
+soy sauce powder,dc0921b0-dbd8-418c-acd3-5215a0074a68
+whole liquid pasteurised egg,d72c1cf6-0c02-4906-965b-5ee368a1ec9e
+sugar beet fibre,d179860c-0aa6-456a-9453-a29d04ba2fc3
+296,609b209c-94bb-46e4-9c0e-53931848ade6
+b12,0dea10b8-cc7a-4cef-99d9-ce89ac5c4501
+passion fruit juice,59c244d1-1dce-4fd0-8df8-0f8168da2280
+plant-concentrates,733acc67-acaf-4dd8-a53b-278474f6b239
+welsh onion,8198a225-3eed-48bb-9079-8f8ea61fa4b7
+quinine,cadd47e1-d189-44d3-acc9-4870edab9428
+skimmed milk yogurt powder,653dfbfb-1612-4c92-8650-2e19ab6d81a8
+soy preparation,55dee88b-f22c-46d1-9f10-e1f808b1eb11
+citrus flavouring,8f260c95-cb58-4c1e-ab0f-f68cef2222ce
+wholemeal oat flour,64986aa5-8278-4293-805f-f6f926135b01
+natural citrus flavouring,23b4d263-c333-4921-93be-cede05cae622
+pre fried onions,fab9e85f-f89e-4806-8c65-17ebc170ff6d
+sweetened condensed semi-skimmed milk,9eb130cd-4475-438c-bb32-59a1d35cbf2b
+pork bone,587fb94e-8312-469a-91ae-7bf02d3d472f
+mashed potato,7402da68-3476-44b1-90cd-38f04aa34cbb
+rehydrated soy protein,681f8eb7-fcf5-444d-9f0b-637a6cb910ee
+cereal crispies,905c7ba6-baf5-4a7f-93c3-288c4fab9090
+corn maltodextrin,8decd233-6840-4a5d-9b74-9f2541ba1d81
+exhausted vanilla pod,3493ff87-896f-4fe9-abad-ecf6e39b37c9
+beetroot juice,9dead256-c259-4669-9d63-8b87689b5bd9
+fruit vinegar,9f7098b1-04b3-402f-ac87-a6b31e36fe35
+prune,83de5d39-701f-4648-99b7-0af2b6f3cc1c
+concentrated tomato purée,e7cc6c80-3500-41a1-89c1-4586785e17b6
+hydroxypropyl-methyl-cellulose-cellulose-gumhydroxypropyl-methyl-cellulose-cellulose-gum,8a69260d-441f-4589-88ea-922536acd1b1
+pureed green bean,50b952bf-4f64-483e-ac25-bce10a4ef47e
+potassium,8b141626-b870-4682-a797-5abf12390854
+rose petals,aeff33aa-cd51-4514-a6a8-80dccb582521
+white cabbage,e01919ea-3553-4bc7-ad76-e6ce9c7550c8
+modified rice starch,f4758469-03da-4a1b-9694-1903e57ee76d
+volkoren-tarwemeel,2775200d-d735-4e6d-93d7-805fbdf76b10
+rehydrated onion,ddbdb688-441a-494d-9d10-2eaa2b323f46
+pineapple segments,8de36362-2d37-42e6-ad1e-58e66c638341
+cinnamon powder,ff3a276b-6b7f-4348-801f-5f6213cfd875
+cream from normandy,a92c529d-a7de-4f21-945b-a22adc67b7ea
+carrot extract,d0d7a15b-d359-4fa5-a49f-f2713d8c55be
+salted butter,7e077490-1146-4b17-8c40-60e48f202b44
+free range chicken eggs,13888772-c4da-45ad-8098-4a2a7e216334
+chili puree,e1797604-73c2-454d-b175-bca50600688c
+chocolate filling,6ef7fe9c-d10e-4816-bed3-a7420ecb3bb7
+chocolate cream,17bcb5db-7b1d-4a64-a8e8-57b6db8f651a
+a,06ef00b2-5983-4265-af02-d736d4f5256c
+beet sugar,96a89063-e54c-4165-a582-10d4809a4ea4
+natural oregano flavouring,6f5ee649-3afd-49d7-a2e3-09fb0622a770
+soy base,73ffd739-27fb-4932-a6d7-06b6a464a23d
+high fructose corn syrup,03ede7cb-3803-41ba-807a-678a5d6b808a
+marinade,6e314a9a-2498-48a6-af9b-2fab82faced6
+pasteurized crème fraîche,2f62a66c-ec25-4fcc-8d2b-f595d1ff261f
+unrefined sea salt from the atlantic,fed0d3bd-0bf5-4f8b-a0ac-498472dfe131
+dried apple,aeaa6202-daf7-48d9-af6e-923d788e1ac4
+caramelised sugar syrup,3e10c7a1-bed0-4109-95cf-ed64b0d6db3a
+guava puree,a813b501-6238-4978-ae47-f2fbaa9a56f8
+yeast extract powder,c957f5af-5ff5-4a8e-b615-62d39c277500
+fruits preparation,0d9d2e3e-1867-4468-ac89-fe9d4bb0341c
+menthol,22e711d3-5c15-4d5d-8c11-5bc7aacf8045
+grated emmental cheese,a4a1db00-6918-4891-88e9-eaf69051c459
+milk mineral concentrate,e1ef216c-432b-44f4-8251-b8c74bdb537f
+cocoa bean,6b08d67c-fd61-4e83-b66c-96ed18d0a957
+quot,7a61be16-a7dc-4f20-b76c-684986794037
+calvados,88607f04-1085-4edd-8964-aa4b8f729985
+cultured-grade-a-non-fat-milk,04888a32-8810-46b3-b134-8d06abbda627
+totally hydrogenated palm fat,adf51ad0-9537-4da3-b4ef-911301c611a9
+natural apple flavouring,d0a08c86-1cd5-4313-abfe-f59c3582555b
+sweet paprika,f1027f51-2140-4d63-a58e-aca1a96a6e1d
+corinthian raisins,62ff6b3e-7904-43ee-b03e-870608726094
+chromium,3f4f29cf-c3dd-426c-a3ba-f5a3a467cf13
+and-sunflower-oil,106fbb1b-d844-4c27-93d2-82d6ab8ac67b
+whole durum wheat semolina,1b62240c-9587-4f47-a341-cc748e97d5e1
+exhausted ground vanilla pod,49a451bd-6858-4dd5-bb6b-7429c8eabfae
+natural lime flavouring,f83d741d-887f-42ff-b836-1ad7c99d5131
+white asparagus,10540166-f17b-4d89-a93e-9ea0617d1803
+poppy,98d21692-de59-4434-b725-efff930bf177
+light cream,fbfee2db-f9df-4122-9a2e-66f86aa97218
+juniper,224a1e10-6241-4013-afc4-68ab1eb5daf0
+pasteurized semi-skimmed milk,78232bb4-e764-48f5-b143-165ed5148a8c
+fruit preservative,d3902ac0-ca92-4e9e-a5b4-ed4983abc01c
+strawberry juice concentrate,b2be5cac-9fce-4699-a4d8-2f2e994fe9dc
+camomile,4b04a1d7-ab3a-4077-8fb2-3ccb1df9d458
+instant coffee,b8924a86-6d08-4e16-9fce-d6d8432c777d
+mixed spices,f7475a7c-a1fe-46b4-9347-3622c24061ef
+maltose,d390cd06-c3c2-4378-8c26-09385c0fd0ae
+thiamin hydrochloride,52af2e15-5714-40b8-ba4b-ec5b5b5b586a
+nibbed and ground hazelnuts,8751636c-9118-4bc2-acc2-e8119b7685e2
+wild rocket,0b33df45-274f-4f56-90f7-8803233e69f0
+11-2-proteins,559c719f-4a5d-4fe4-843a-ff3097a7209a
+roggenvolkornmehl,a14d2600-00bc-4d8d-8151-289a21f4bc57
+baby-chard,59290e8e-db15-4690-972a-6968e1fbf391
+spices and spices extracts,dd8a2b16-e5c0-4f3d-bbbf-2c169eeb862d
+sifted tomato,b6d8f725-e0d9-493a-bd2e-06f880aceb4b
+bran,b564cdd8-acf8-486d-90ca-f25e7d04b532
+algae extract,b9e8e295-bece-4e8b-b71f-790bcb4d7277
+marc de bourgogne,117552fb-c30c-48af-be4f-21944c7d4497
+lecithine-de-soja,0af4b27f-ea30-4a75-b16c-c01695790377
+syrah,4ab5ad43-ded6-4fdd-8416-52a877e9b025
+cow-s-pasteurized-milk,63fefb30-3b62-4591-8802-359e6162896a
+eau-de-source,d2916e89-62e7-4ec1-890b-594c801e756f
+eqg,6027d6b1-7539-4939-bd14-e8fe2e9c7b4d
+beef-collagen,0ceb2dbd-c401-4865-9a82-f2b863dc5178
+turmeric powder,47f8be0a-1fa8-48e9-9ae3-4795e3990959
+orange-juice-without-added-sugars-nutritional-valuesorange-juice-without-added-sugars-nutritional-values,41d25bc7-5497-464e-ab87-e29164d562fd
+fried onion,b9931d14-ba4d-4824-bdb5-a585376ef604
+crocant,1561b3ed-7e75-4a49-8312-da1f82281fa2
+valeyr-nutritive-movepne-pat,95c2e81a-adf5-4a75-8eac-77acaaf7b74b
+processed-in-citric-acid-and-sodium-benzoateprocessed-in-citric-acid-and-sodium-benzoate,cd35b5a9-4d34-43fc-ae7d-81dfcd331ced
+glucose-smug-and-traditional-drink,c03fb9cb-165b-4967-adc7-28de83186f11
+cheese flavouring,b2e3aa73-0ef0-4173-be88-ec1fd76ac610
+the-ingredients-highlighted-can-provoke-gras-reactions-in-allergic-and-intolerant-peoplethe-ingredients-highlighted-can-provoke-gras-reactions-in-allergic-and-intolerant-people,628a16ec-397a-43a3-8558-b40bdacc4421
+white-tea,064d8d4f-6545-426a-aeb5-4b7a35fab1b9
+farine-de-ble,f522dd35-71d4-4c80-8916-5c6e86d6c15d
+synthetic-beeswax,03fba0d6-9065-44e8-a594-a268b1d33ad8
+koolhydraten-970-dont-sucres,e2e33349-5f1f-494a-bf59-3463d0948a61
+hydrolysed-maize-and-soya-protein,cbf8c838-11f6-4db0-b8f0-bdce8876397a
+g,0a9de8c9-69c6-47f5-bc2c-41654ac3ce6b
+flacour,810b4402-ab73-4e84-84a1-c5a34cb74cac
+hard-ripened-cheeses,611a4fe6-5fcb-4371-ba90-f780b7c5733a
+horse meat,36b70b14-e743-4928-a4d7-22649057599e
+by-barilla-g,04cc815b-6870-4ccd-aa07-1f152042b165
+bourbon vanilla beans,ec61abca-9dbf-4ce2-960f-58f3b1e34e0d
+benefiber-guarantees-your-salistaction-and-vour-monay-harbenefiber-guarantees-your-salistaction-and-vour-monay-har,520a608c-210a-4195-b3d2-f44c5ad4be57
+exhausteuide-conservateur,d62fb4e0-40ef-4a47-993b-3fadf36df867
+sorbitan-sesquioleate,0628cd50-ff87-49b3-acba-f8584569501f
+citric-acid-and-rosemary,733313c2-de10-4c22-8e20-5a76a37d4833
+comme-arabique,d3bdb601-e0e1-47e9-9bf9-7afe581ec4e8
+made-from-corn,5e876bd8-0524-44c3-9266-f90b90115ee2
+concentrated raspberry juice,a5a2c3c4-c26a-4e2c-a908-3894bfa6b5f6
+citrus fibre,da557242-392b-4d11-89cf-2099ac7a6a9f
+niacine,535dccea-04a6-42ff-913b-730ed003781a
+black tea extract,ed9449c0-f565-4109-979f-bbd5271e763b
+onion-white-pepper,4897f1fb-97c7-42fd-b53b-0bf6530ae0b8
+500,35ed422d-f7bf-4269-a102-ad5565648cf2
+wild garlic,cb532e44-f24f-4392-870a-4797d56e3fb0
+hydrogenated fat,9cc9cdf4-5389-4d45-9162-de1347f40f50
+lime juice concentrate,2c586643-264a-43f3-9780-a1ee128a84f4
+bacon-and-egg-bites,644e43f2-421f-411b-9c95-6b1bdbb01110
+orange-juice-fr-based-on-concentrate,91051b8a-27bb-416d-9fa7-46f2602af196
+unrefined salt,ba01c1b6-ae04-41fc-85c1-ba4589d318f3
+451,91f29837-9bc2-41a2-9c88-cbabe69fcc4f
+colour-160a,ca2e5610-b93a-482a-86c6-ea87ab238d1f
+black pepper extract,15e7cd26-c50a-4ebe-a273-504f2f907729
+round rice,1a282dcd-2a38-4137-bb07-7c525bf0de14
+cooked green lentils,db1c7c69-f2a5-47e7-aae9-4a65272ccc91
+emulsifiants-et-aromes,8e340b0c-460b-4c15-93a0-877fa8b68fd8
+nestle-milo-breakfast-cereal,89187456-0ab5-48d0-ae96-e1d314092429
+nutrition-information-typical-value-energy-fatnutrition-information-typical-value-energy-fat,a4b408bd-ee31-4b81-a471-d3e31244ca14
+poultry liver,a7cf7520-440a-4913-9a5f-dc8e7c28cabd
+egg protein,11494e12-63b1-4f45-a2e2-f3b8c965ab33
+organic tomato,b2ba8f4c-7ba2-4d2a-965c-5e3461fb9374
+46-carbohydrates,0b397192-2bee-479f-bd59-03459591c197
+potato-starch-and-powdered-cellulose-added-to-prevent-cakingpotato-starch-and-powdered-cellulose-added-to-prevent-caking,aa3ef668-b905-47d3-bfd9-e3642a8c9da4
+natural yeast,0694a038-d2d3-4ec5-ad43-253ec010e69e
+duck gizzard,c3e13f0f-e621-4b50-80c6-09023eb94f9a
+energy-280-kj,514a10e4-adea-4a42-a4dd-5d2c472bcabd
+angus beef,95199852-63df-4ad8-8005-9a4e5b5034eb
+fresh onions,dcec84b7-2729-432f-b76d-de4411b58521
+lemon-curd,e9bb28b2-10d4-4eec-8214-447d956b0555
+su,dce330c6-5564-4d7d-b28a-2eca3104a082
+butter natural flavouring,8cf31a7e-a9a0-40b0-add2-a1a672a0fbcd
+manganese,0e9eb5f1-9b54-4c7e-8ede-3192e6c026bf
+walnut kernel,eb1c8b2b-398c-4565-8541-558f28bcada3
+ergocalciferol,ef83ce7e-d390-4601-b94a-2417df36bc35
+whole almonds,db358e37-0982-448b-8540-e8cd274fcea0
+cream-milk,e4526aed-7c98-4726-b20b-71dd7059a730
+chicory root,473687b3-4351-4d53-ac7e-00c1854bec5f
+energy-rtificial-colours-and-flours-oritus-flavour-jelly-wit-swee-say-yes-todding-w-us-at-at-kl-for-pot-20energy-rtificial-colours-and-flours-oritus-flavour-jelly-wit-swee-say-yes-todding-w-us-at-at-kl-for-pot-20,710c5e6e-a83b-41f3-b1cd-c196f51e9e9e
+dandelion,b4a021d8-0eeb-472b-b561-959657975c29
+pecan nut,66f585da-31e8-4882-9871-05f8fc6052ed
+piment-vinaigre,e6427b02-19e9-4fbc-a2ac-983a95d1223d
+rosemary-seasoning,b1af10a2-c0f3-432a-9932-4da63aa77307
+mature cheddar,1de041f3-1801-4d51-b910-4bb9000eb693
+european anchovy,5a96607a-8c04-47cf-88e1-37a7a1a2bacc
+palm-vegetable-oils,e25f2615-3c84-4ef9-91d0-4e64eb66c94e
+orange blossom flavouring,6099cebb-ada0-4a39-8e1e-552b5ac3b0e2
+exhausted vanilla seeds,2dbb9a71-3e5d-4597-a63a-119430a5a957
+fish gelatine,d6e4de63-d4fc-46d1-8ca2-0100057ce372
+vegetable-soy-and-corn-hydrolysate,f9dc6838-bb71-4892-8c10-4c7b8ff96ea3
+acesulfame,0a2aeefa-90f2-4aad-a415-3bbdec28a5c5
+coconut milk powder,37fc194a-f17c-4ba8-9c10-157052fd1275
+tatal-hardness-39-656-mg,b6ae5906-da2b-4c5d-8170-8307aa41a748
+lean duck liver,ec371497-a8d1-4065-9db1-ef91fc555247
+puffed cereal,ef4b287d-9107-4f68-bb02-cb4ac0086bfb
+soybean-oi,dfaeff3f-58a3-41ab-a86c-acea50eacf46
+smoked cooked lardoons,295ab435-9f86-4b6b-a4b3-8c2334c287e0
+cereales,7b2ce52a-a050-4a62-ac61-e33ce0f197b9
+onion flavouring,08923df6-2728-4368-a5fe-3373bbe5b2e9
+hefe,b87e5dde-e38c-4cbe-96f6-8a7b9300588f
+burnet,fbd84bfb-570b-4292-a7c3-1f6d8712c624
+malt flour,b582f535-36a4-49c7-ba21-a559ced7a724
+crème fraîche,1edc0a09-30be-49e3-b52a-d76290f270ba
+natural cocoa flavouring,84e098fc-f6b1-4d13-b3a3-939ba39238c8
+65-ml,2020eca6-eaf9-4f8e-a2db-545fe8fd33c1
+www-pastiglieteone-com-pastigtieleone-lot-nowww-pastiglieteone-com-pastigtieleone-lot-no,c37c5deb-e336-4b6a-89af-49d53984a02a
+sussmolkenpulver,0135470d-ca59-4604-a9f8-55d1bfcae6fc
+avoine,87814cb9-9eaa-4fb3-8e5a-127ea22aa283
+alaskan pollock fillet,07678335-ce79-46ce-b6c0-dc9c2cf1f497
+kvass wort,01236ef0-86e3-4d5b-9881-90a2dff80f1f
+cow-s-skimmed-milk-powder,ae2aa1d3-9807-4570-899d-d9fa8eeb3060
+rogenkleie,8bf68ea5-177d-417c-8197-995a0399b8ba
+cheese-grana-padano-dairy,280c1e9e-b361-4468-9981-adbe2df589e3
+monoglycerides,e887800e-790d-4091-b255-d4dc4ca5a30c
+dhal,7d994ccc-42a0-44fa-9ed8-02f6841b5d13
+tocopheryl-acetate,451e234d-3384-433a-a296-8ccf5e54d57f
+hydrogenated palm oil,08212843-1619-41b4-a139-e43c02f891d3
+ginseng,d8890b31-c409-47f8-95c2-86a446e5093b
+glut-y-and-dairy-produced-in-a-facility-that-also-processes-products-containing-eggsglut-y-and-dairy-produced-in-a-facility-that-also-processes-products-containing-eggs,f31939a9-a0d0-4954-8480-16b1090080bf
+304,c05859eb-25a7-47bf-b886-4df37c467ed1
+and-r,64335803-d4dd-4bae-b81a-cf7da2bad7fc
+contient-des-stabilisants-autorises,5ebb6133-b3bd-4e53-9892-5fd32fbefba9
+96,a6e9d08b-1f9c-4c93-9505-2b59d5bd3e5e
+soup-mix,dc95355b-bd31-415e-bb72-b1bf69b58a0d
+arabische-gomt-tragantgom,df32c547-21e6-465c-8071-e4f578e51974
+huile-vegetale,0323bcd9-d5ba-42cd-bc48-14ebd07f40bd
+beel-stock,86c51e93-8fa3-4070-a79c-60332e5bfceb
+mono-and-diactyl-tartaric-esters-of-mono-and-diglycerides-of-fatty-acidsmono-and-diactyl-tartaric-esters-of-mono-and-diglycerides-of-fatty-acids,2fb645a9-5b7d-4891-8425-2923fbf112f5
+voir-le-fard-j-ten,d9f362ec-3a8a-44f9-a6be-9371f99f3bb4
+less-than-2-of,466f3ff2-5408-41b2-b3a6-9bc4c6b466de
+dried vegetables,4dc65622-a767-4109-a80f-721958d2a8a5
+min,68c5a639-3315-4596-8a71-670df8fed6f6
+phylloquinone,956b5639-00f7-4f8a-b28b-d2c2d22fcc27
+deep-sea shrimp,a8c58501-ce2f-4d5f-8818-33c7407a6efe
+cod liver,5727780c-860d-4a30-b261-765d4886bc24
+wholemeal rye groats,284f9c18-db5c-46ed-8499-795f91f143fd
+dietary-supplement,44227ce0-bf09-4529-9e15-5729f06b74e1
+raising-agent-e450,d9ae267f-6e09-4d18-8cda-8c74bfab4126
+do-not-use-if-printed-inner-seal-imprinted-with-sealed-for-your-protection-is-broken-and-missingdo-not-use-if-printed-inner-seal-imprinted-with-sealed-for-your-protection-is-broken-and-missing,db02bbc2-76ba-4698-ab3d-cbc0cc233c7a
+dl-alpha tocopheryl acetate,de498898-1360-4c29-9c3d-2f5978aebfa7
+marigold,26532441-2111-4816-ba5b-3588885b7a1c
+salz,9f1983e9-cf94-4340-b707-d0ddfd0aecdf
+actic-acid,09a9b315-f8ef-4f5e-91ae-83b90c8021d6
+caramel flavouring,087d43c9-dcf6-4a23-97d6-bca0e6b9c41e
+mỏdified-tapioca-starch,c0afc12a-f1d6-45d8-a4a9-7fbe292efde0
+bitter almond,c4434c10-ed2f-4422-a371-6d5ab662219e
+bamboo-shoos,7610f60d-4de8-415f-9d7b-df00edc74658
+citrus fruit extract,a68a4d51-c05f-4689-83f9-30bea8545bcb
+apple-filling,874588a0-0427-4331-ba7a-4f96b26a6764
+sesamzaad,93ce9980-2880-481d-902a-89e4fb166b75
+diglycerides-of-fatty-acids,30613cc2-378e-47d7-86a7-ca10a68e5926
+and-yeast,49838e00-2270-4239-a324-ef931e8fc382
+collegno,9eafd50d-f3c8-4edf-9a93-0767aa582b31
+the-equivalent-of-426ml-of-fresh-liquid-milk-in-every-227g-of-milk-chocolatethe-equivalent-of-426ml-of-fresh-liquid-milk-in-every-227g-of-milk-chocolate,e214b646-ab0e-45cc-b401-9e40c5aa0c70
+skimmed cocoa powder,4d90124a-c7a5-47b1-b673-6b3cfb3ddade
+smoked salt,e6afbe0c-0efa-4768-a69f-aea7a8168d17
+canola-in-varying-proportions,de6320f9-b718-4e55-82cf-d4f98376201c
+bergamotaroma,19443a49-e85b-45a4-be70-71062100c27a
+horse,5fa74194-27b1-409a-9639-feacc8fe8d9b
+prunes from agen,07a6addc-2e90-4760-ae3f-f21c4955353c
+natural tarragon flavouring,9448b29f-067f-4228-8604-27d74831a2ec
+black-kalonji-seed,ab5f1074-600c-45a5-83db-ac5ce7a86c20
+may-contain-peut-contenir,de2f54e5-0155-41f7-907d-dbe33c6615c3
+hydrogen-baking-agent-sodium-carbonate,3a3c3f60-981e-40cd-a591-55e30a5a52bd
+pink salmon,4bc48166-6b7e-47c0-8407-eef0b1a715ec
+farine-de-mais,9d1c09da-eccb-4641-8460-8541fcd02bb5
+ham-costs-of-label-rouge-pork,6d1519ae-82e4-4fa8-a15f-054497450b33
+kelel,a7d18a5e-c470-4fe5-9d70-16c75b621949
+epaissjssants,6b870c0f-d42a-411d-8152-12acf9c92cb3
+mate,b2b8c088-9645-4015-90a1-0dec6bb9d9f8
+protein-blend,b450d62a-478c-48fd-9191-79cf3034e0f8
+whole kefir,03ba7f55-7ffc-4c69-9c3f-73863649bf59
+buttermilk-powder-from-milk,7156bfab-a04e-4736-8b2f-a696ac022dd1
+beef extract,23cd269a-0ac3-43c8-9fc2-e86c5746a976
+coppa,f4fceee0-1c3d-4d5b-82be-a10c53fe8dcf
+whey-milk,85bed570-5f6b-4903-aac2-33309ab7239b
+vit,19828338-5c1a-49e5-8ab2-17f341ab93dd
+american lobster,e835cff0-2505-400d-bc43-861a5b27b307
+cocoa nibs,a7ae21f6-26ff-451d-8e88-2582c552c588
+lasagne,dab5e258-fcd4-4fcb-aa10-4c57fb8decc5
+their-products,a7d287f7-ac34-426e-9449-80d2442d0155
+pickles-flavour,39f0c7a9-d8c6-4a56-b2bc-fba7c60d0ef2
+butteroil-from-milk,f0b02370-b89c-4066-9d8d-bb1ccb2aa6bb
+selenium,ad25df3c-1e41-4417-b7d3-56958ddcc977
+finegrained salt,894d0347-6b0c-4526-954e-973592fb40d6
+tapioca syrup,caf80a89-9050-4b4b-975e-9371caa84226
+very fine green beans,02b7e7f8-13a5-4a5f-95ff-a47b6dcd8239
+garlic extract,fd582696-786c-4659-a39a-5ef1e5bf48e3
+cocos,bd7de41b-2e12-43ea-9637-fba25401b486
+actual,e4ed375e-41c1-4c0c-92f0-006004c067b1
+meadowsweet,7c273596-ab65-41aa-bb06-d1b9ed129d89
+matieres-grasses,5e92b442-5786-43ed-85ee-da24019189af
+roasted coffee,22456bd9-61d5-407b-84c6-69d81f01132c
+less-than,d35361e2-9c6e-43e0-9531-3e52601fb716
+prebiotic-tapioca-fiber,5b58d716-7eac-459f-b0c3-6999d90db849
+crudités,2f36675e-d9ef-4fd1-9231-9e196d5a6e8c
+zout-000389-le-poids-moyen-d-une-pastille-est-dezout-000389-le-poids-moyen-d-une-pastille-est-de,a88ee00d-a461-48aa-a80e-b0e94d7b0002
+vimto-flavouring,c0c30c01-b347-48e0-b556-7c790200a0b8
+poudre-de-lait-ecreme,91786b3e-df45-4ca7-a889-0b7ae44dfcdc
+breadmeal,8a394401-8b85-4905-afe9-fab651b17565
+cardamom seed,669f6a3e-3e7e-4dc2-85b1-d23ddf628d85
+propylene-carbonate,39c2d037-6cf8-40b0-b021-3224b7f1e630
+palmisti-and-illipe,9b293d09-2a2a-45b0-960a-b6d011752bf7
+coriander-flake,52394d55-bc29-4d13-8583-8397458f216e
+glucose-fructose,0bba8a14-b924-4180-b15e-dd37d6c049a6
+retinyl palmitate,87f70e8c-d67f-4957-bccd-004d3469898a
+calcium pantothenate,0116e265-8dfd-4408-b416-980d8f3c8d1d
+chlorophylle-cuivrique,e007f807-11d6-4acc-9a33-cfd9e5f40564
+ceylon cinnamon,5f4f7a6c-091b-4de3-b474-655da804fc1b
+ig-stion-preservatives,438ee32a-0f03-494d-8c8d-35754b58d167
+77,8f931d96-393e-41ca-961a-c5512813553d
+apple pieces,24236296-b1bb-4398-8a14-cb93ca9214d4
+acqua,13c3a1f0-52c5-412d-a378-fd1de55eba52
+for-freshness,710cc8cf-4989-4790-a788-465ec55a1a1d
+poultry broth,a2a25714-052b-4f28-a7c6-06454dbbc7fc
+varietal,0ddb51ae-3112-46e3-a9a2-bfa96ff9ef1a
+extra mature cheddar,47ba0350-264c-4d5f-bc82-0bb100ef47ee
+argentine shortfin squid,c53847c7-28d3-4f9b-9392-57a9bebe45b8
+espelette chili pepper,4c43ea52-7a34-4275-84db-290415396c2f
+vanilla ice cream,077fd9c8-3822-4e18-8e3a-cc9be0616660
+verbena,f3012766-1dbc-4715-978a-8cc038646c69
+palm-oils-kernel,cfe544d6-d1bf-4890-8f04-64e7c4d2392e
+vegetable blend,88dc6086-b132-4668-b3aa-2e0fb5a5c6af
+rice-germ,e051d3e9-d13c-4a86-97ea-30d9b20203b1
+semi-skimmed cow's milk,b2300b4b-2d8b-45b3-b6cd-1cabf0a65c74
+spiny lobster,d721e211-2d51-4366-8178-48bce630dbe5
+silica-dimethyl-silylate,38c9ea61-7f14-4596-aaae-0b60c753a01f
+ttah,0ddcd4ca-189b-4897-8670-8bb2deb31150
+honey from spain,622b987f-85c2-4a24-8a50-c13ffd13bc79
+mono-and-diglycerides-of-fatty-acids-mono-and-diacetyl-tartaric-acid-esters-of-mono-and-diglycerides-of-fatty-acidsmono-and-diglycerides-of-fatty-acids-mono-and-diacetyl-tartaric-acid-esters-of-mono-and-diglycerides-of-fatty-acids,9acd1963-0dae-4528-9e8f-ff0622415254
+morels,73abd8e0-db74-404d-a31b-21ea263eed65
+mung bean sprout,68dd98bc-3756-4922-be9b-ea56f7a2fa93
+ask-a-health-professional-before-use,a6ca276d-e420-4a82-a1b4-3bde3289f943
+vanilla powder,8d43b434-51cf-47bb-be9e-76efbf04d827
+charbon,5994d3b5-0992-4d25-8e95-c6b06ff1150d
+c,9f548aa1-8039-4c55-8c09-5ef7a888570c
+müesli,478a78f0-b698-42c4-8358-74e5bdd1cf12
+gingerbread,ba4a9b84-bbde-4556-a9d3-9a383d1b838a
+mixed-e307b,60404b2e-e223-4d28-b041-08d2c6d4bf96
+beet-root-powder,f768c98e-e382-40fa-b0c9-48e98edc1916
+soya-lecithin-e322,dfe9f04a-2179-4fd6-9b2b-f45d79576a0f
+cal,0080aeb3-7168-4c9f-ad1e-cb6673cc85ae
+chestnut flour,c4e1a9ea-0f05-46cd-8b05-c17a8b0ad968
+glucides,240027e5-3e56-4871-ad01-d7859b21e23b
+beef-bouillon-beef-gelatine,b50c262f-9daf-4f23-9609-a737fe92a512
+melted emmental cheese,1765b31c-a4ae-4991-8e2d-95e75daa27ea
+disteardimonium-hectorite,15dd811a-b5bf-40a3-a5ca-90de5200ec9e
+chicken-seasoning,d67da1ea-e398-4a58-a77e-a698a4ed9d95
+butter-sauce,03e4284e-4771-45f6-a9fe-009932da15de
+traditional free-range chicken,6665e549-5f38-48f0-a118-3bf9c344bc9d
+calcium-panthothenate,e635dcef-94a2-4343-a5c0-311f54a6f997
+including-natural-extracts-of-fruits,cd2f5f95-ba1c-43e7-b7bb-3f8c1d824258
+ribwort plantain,15cd31f5-832e-4e6a-bdd4-35176719e858
+bacon-and-egg-bites-contain,77f0ff8a-cb36-4d23-b457-1b28ad06df53
+vegetable-stabilizer,97fb3ab8-6eab-4edf-9bc9-1f9921064f70
+fenugreek leaf,36d0e239-7859-47a8-82a4-1a7541d8ace2
+milk-derivative,f1087f86-7c85-493d-a1f8-6aef3b68f8b9
+verdikkingsmiddelen,cb86f9e8-edf6-4af4-b52a-bfe3e2d8efb3
+gemiddelde-satures,d7f13077-6b80-42ca-afe9-fb2edb19e47b
+rapeseed-oil-potato-starch-water-cornflour-thickener-e1422-palm-oil-dried-wheyrapeseed-oil-potato-starch-water-cornflour-thickener-e1422-palm-oil-dried-whey,a7996a25-71b2-4715-90e4-8f91bf1d6ed2
+tarwemeel,66c7ccaa-6842-43fc-a08f-c037097313a3
+sesame paste,f9c8ab61-9a55-413b-80d9-f0e9faf322e7
+cured cheese,87449f9d-bf71-4ff5-91b2-e6e76bfe9254
+ale,accd758b-4576-4989-bbde-8e139c393370
+erence-intake-of-an-average-adult,67b0ef41-5254-414a-9707-8a0618dd8442
+pistachio nuts,3b3b4745-4a1b-4e9a-b1c8-ff694865c102
+alumina,9f6827be-627d-4dee-a72a-ecd2425ee0e7
+yellow onion,e3616df6-0600-4c2f-9b62-bb3b0462897f
+whole wheat,dcd51f1b-165c-498d-9b17-628f55f3fef2
+peut-contenir-des-traces-de-cacahuetes-etpeut-contenir-des-traces-de-cacahuetes-et,2d4cf746-d203-444c-bf06-78183f22fab0
+skimmed cows milk,ee357b45-174c-4528-81be-22f9d7bbf54d
+milk-chocolate-contains-min,be62ccbf-bac3-4149-9d12-57feddec55da
+tamper-evident-feature,64aa81d5-80ae-4758-aec4-6c8c6e58f572
+product-in-italy-name-and-brands-invariably-filed-within-theproduct-in-italy-name-and-brands-invariably-filed-within-the,8ae9739d-b92e-4ee1-b858-9837f3b9a15f
+mineraux,f8a067e0-ef95-495d-8afa-819367ea90f8
+o-400-kj,7d6ee34d-857b-46a5-8927-0bee1a6c71ec
+mono-and-diglicerydes-of-fatty-acids,966b1634-9b5d-46bc-aa38-3576a27fb3f9
+627,4ea0839c-e856-4820-8212-2beba7efc017
+whole spelt,6df29019-eb0a-496a-8281-d965f45a06f8
+wheat cakes,1b87dde0-eebe-4bbb-9e92-a57ce1a3d76a
+the-noir,d5a145c5-d988-4dd3-a4e0-67915d79551e
+white wine extract,180b25da-6cd2-4277-a519-1974621512c0
+stuffed pasta,91d05b15-8f83-47f3-b51b-d7aea6a3267f
+huile-de-sesame,9a2fbaee-570d-4696-9c16-c1e48243a749
+sugar-dehydrated-garlic,3ba97f12-0200-470e-a24d-7c5557c2424b
+added-to-preserve-freshness,58f11f61-8755-4693-b435-2710e8e100e7
+whey permeate,a7305efe-008b-411a-a739-d40431cb8285
+sour-dough,ea9e9509-b717-4412-a42a-b32a47b58573
+strong dijon mustard,92f4a5d8-2324-44f6-8a14-9aaeb628c461
+natural-and-nature-identical-flavourings,91c42c52-14ab-4e1a-a84d-9cc8c008c568
+spring water,d9f59e75-9627-4288-b4cf-f6fd56fe4e5f
+hemp seed,d8c7edce-b65c-4fca-b6c8-2375090834eb
+corn salad,ab3d65d0-8c33-4100-85b5-0b27c679f142
+white grape,f575b511-e9e5-44ce-881a-8b230e22a74d
+sweet cherry,ced6af09-f2d8-48a3-8bda-d8cf093fb698
+mars,fc1742a5-9973-4dfc-8e5b-097893ef53f0
+natural-flavour-kirsch,ad51ec85-5912-444f-8aa6-e6ab01a16ac0
+thaï brown rice,5b6b1b42-381f-4e3c-ae0e-c1fef3d54e58
+sheep,04bb2f2c-a1e7-45b3-a046-244d4a9ae27a
+262,a66d29f3-db29-4d44-a73c-1a4b9b652843
+rose hip,f4c1fb31-2af7-4cae-a0d8-63a05e2e4ca2
+331,b09f1b44-919f-4b0b-8737-2c7261368912
+mechanically separated meat of turkey,cccd1223-7665-43ff-a01e-1e346e538132
+soluble fibre,414f4777-ee4b-4898-a54a-cb76977f4cae
+vanilla seeds,7cb89dff-8c0e-4a6f-a8ae-3eace71a4525
+acidifiant,000dc1bb-e9ea-49a0-9814-e81d56285f74
+ananas flavouring,5ae6096a-7be5-4d75-afc9-4daa96433e60
+highly fat reduced cocoa,474f5d77-3994-486a-ac73-5d1cffc0900a
+yellow corn,5ecfc2ac-f4e1-4a81-bd21-1f157bad2a31
+ⓡ,a05e14b5-2dc2-410d-942f-7671b3b0dccc
+rocket,a3cec95a-4b67-4a09-b78e-368dd8065c5b
+ci-77499,79012f61-1928-43c7-880b-38840166e73b
+barley flakes,2c7ee430-286d-43fb-b4da-c79762513cbd
+ci-77891,a1fd3550-bf67-41bb-a7b2-338ff2263cf5
+cheese sauce,470ab046-045a-46e3-9592-15b9e77efe82
+flakes,c4a6213d-3129-42c9-8938-525311cf2647
+phosphate,d4b9404f-95c5-4880-b39e-f2a5b7750cd4
+hco-420,dca88355-37ec-4aa3-8cd6-4e515ac5d3ef
+sweetmint,d6c61b36-0427-4213-965f-75d600b9b66b
+minimum-31-cocoa,dc5ecb22-7d21-41ed-857c-38494a17f949
+parfum-naturels,0f446840-d4f3-4d42-9446-7a2f2ac8d221
+fruit puree,fc3a4a7f-5580-4c96-859a-fdbb87160f44
+orange leaves,a1d6852a-ea0f-4f1a-a5d8-f9eb5af46743
+active-yogurt-cultures,5a79959a-eefb-4819-bbf7-221e196066ce
+propellent gas,1c8e2ae5-2ce5-4e38-b54d-eb287ec1de8a
+sea-buckthorn,63d3baea-e1bd-4134-a757-a7068a448f64
+ground roasted coffee,c6199910-6483-4595-9b76-cdf322ab1fad
+fer,f6442d6e-d728-4071-b588-d8c6c5ff3b47
+hard cheese,441c3626-1836-4422-8b3e-dcb74131bd22
+piri-piri-seasoning,9d091892-db5c-41e1-bb76-9654e4931656
+mediterranean salt,3f32a99b-dda4-4172-8608-a4c0f1fc5240
+e,df1a5b74-463b-41e8-93b0-5e8ff745aa56
+grade-a-reduced-fat-milk,250f8294-0644-4325-bd21-4c707d699e79
+rapeseed-vegetable-oil,47a6969d-c5b9-4660-bcae-15c7dd3f5020
+soya bean paste,55ba03de-af00-45b2-86fd-fd1244ebb8ef
+acerola juice,48dabd3d-e30a-491e-b89a-365cc35864c3
+rehydrated wheat protein,b01700e9-3fe1-418f-b07a-a71f0f1f9e97
+ci-77491,470b829e-ebe6-48ce-ae40-92e0adba7c8c
+contains-less-than-1-of,dfcac698-025c-45ec-aa45-468cdb1bb479
+fond,1da1f327-9ae0-48a0-81da-c9f66e3251f2
+starter-culture,336d6cf7-81a4-42d0-85be-052fae47c688
+origan,cd56cbd5-db6f-44a4-9991-4bfde2b0bb1b
+monoglycerides-of-fatty-acids,87eab3a0-7006-493b-a500-4536372c1735
+whole grain spelt flakes,3bf1b156-d7ce-460f-89b5-6b994d91157f
+millet seed,5493bf0f-f322-40e2-a900-162282507853
+waarvan-suikers,e3662d2e-194a-4f34-bffa-0246f88d50a5
+shortcrust dough,25b4d96d-27f3-497d-b1d6-9d0c065b16fe
+concentrated mushroom juice,1e286e57-c38e-41e2-9ed2-687b9c9fdaad
+cooked pasta,8cecedb7-3727-4410-9c6f-18e5b24af389
+fresh butter,d8bc62ac-d04d-449f-a25d-723d52a428cd
+rock salt,6eba80d7-c098-4ac2-a74e-4ca739857d1f
+cocoa-butter-cocoa-mass,e997e7b7-ef63-4d63-bb72-316220dd747a
+essentjele-olie-van-piedmontese-pepermuntessentjele-olie-van-piedmontese-pepermunt,8be23968-48bb-4dee-9cd5-a8d754316143
+habanero chili,776428a3-d28f-4671-8956-34f748f27f40
+concentraat-ca,9ded7de6-86c5-4b50-b54c-fcd5b91335f7
+zinc oxide,a7d90f54-797c-4a7a-a592-344f01102658
+calf rennet,3881ab0e-898c-4874-b1d6-6621475682e4
+pasteurized-free-range-egg-sugar-blueberriespasteurized-free-range-egg-sugar-blueberries,766ae423-d66a-485c-9493-2098aeac717d
+soft-wheat-flour-type,228678af-5afc-4a00-8c2b-bca35eebae7f
+eau de vie,52b1a873-1533-457c-b19f-5fc1b86b51cc
+seasalt,7a43f55e-27de-47d4-a657-49256fee0810
+tron,e1c7f2fe-a54b-4b47-844b-18a865d36eb8
+contient-des-cereales-contenant-du-glutencontient-des-cereales-contenant-du-gluten,d1b54f61-021d-4e70-a89e-84b6e739eb55
+wheat semolina,03e48b8f-b282-4a83-89f1-6c62b0b68573
+mango-nettle,ccf9d3a9-1fb8-4470-9132-63d5d689175c
+sour cream powder,dff21732-2d36-4301-9dc9-12eaea3426c8
+importe,455c19c9-5e30-4abc-9af4-6519b7f555a1
+chicken egg white,da4968ac-f8f5-472e-8e15-504fef14cd0a
+citron,76cc3af4-3478-4390-9e90-9cacd3a61491
+gomme-adragante,0dc8a632-a185-490f-8c86-911045602f56
+filtered whey powder,04e1ef90-f2dc-42f1-9a67-071d8a29d852
+20℅,19f0e386-c7ff-4537-88a7-160c16fffa99
+produced-in-the-campolungo-industrial-zone-plantproduced-in-the-campolungo-industrial-zone-plant,e4fbaca8-8a62-40b0-a46e-26b0e5a87bc7
+copra-fat,75105969-d3c1-4aac-8a20-5d0004783895
+cocoa processed with alkali,637a2e47-b026-4523-a5c2-61f5cbd1d11d
+omelette,a367f84b-90d9-402d-9073-91d098097ae0
+white-coating,a075ccea-3db7-45d9-b2eb-dd93d1991913
+treated-with-ethyl-alcohol-on-the-surfacetreated-with-ethyl-alcohol-on-the-surface,d3ec9d11-116e-4305-ac8e-2c28de67cb0b
+linden,a98c3db6-cedc-43b8-ba2e-536b97ae64e4
+salted butter caramel,19259bca-5bb7-4efd-9322-4d51d5276310
+cumin seeds,eb3419d1-6810-4913-babd-4dea84662701
+flower honey,133aa7f8-cb91-4b74-a82a-53191d4df7ba
+chick egg white or protein,e4bb2e4a-0a1f-4fd3-ade5-25cf4e38fe2e
+iceberg lettuce,d12af308-dc87-4c23-94d1-483fe3e8c824
+0-6-fat,fc23ba33-9fb2-4d8b-aed4-38984fdb074a
+reistarke,8f700bb3-5858-4feb-b9d5-d09bf8b3bf96
+norway lobster,fae80a4a-8915-45ac-be29-96fb9838e5da
+cane sugar molasses,18d1db54-6f32-41bb-b291-3064013a398c
+pleurotus ostreatus,fb3ef69d-1f65-4da9-9e88-413834fe9e01
+concentrated lemon extract,ba8b0f3c-9f09-4966-b72e-75bcbd2bc170
+coriander seed,a111c136-e8f6-45b4-b1d0-2c107c01df2c
+white-chocolate-chunks-contains,a2562a46-d5ee-4db6-b8f5-4008ac1310e5
+trimethylsiloxysilicate,1e66029c-7ea1-4228-9dcb-e56cd703b5e5
+barley-malt-and-corn-extract,83e715bb-d797-476d-8a6d-f6f96c9666fd
+contains-traces-of,4436c78c-7ecb-4a7f-a0d2-b14a39e83b46
+live-active-cultures,bc5824e0-219b-452f-bd7c-ea98bf6a59db
+vinaigrette,c574fdf6-fc3b-4a3b-b6a8-c7005cadac21
+cafe-soluble,5bffb3a0-7ad6-4e8a-b591-28b23c386bed
+ci-42090,b893a48c-5e1c-4959-ab8d-b7c8eb4cf2bc
+cracked-coriander-seed,7dda9d87-57c6-4dbb-8f3d-10c218b1e5f5
+beef-collagen-casing,58943a63-0c86-4f11-874d-eb3a31a22b62
+lithothamnium calcareum,4a802928-8dc2-4d5a-b95c-0a2889ee340f
+zinc-picolinate,76238417-0606-4141-a75d-1f9b577ec575
+contents-may-settle-during-shipping-and-handlingcontents-may-settle-during-shipping-and-handling,e45f2cfd-ad59-4595-b627-935ee6c76a74
+nutritional-value-per-100-ml-per-bottle,5a836c67-f1a9-4ddd-901f-af1a7c511f1d
+bromelain,a9e1304f-4534-4f9f-a939-f73d7267d094
+less-than-20-ppm-gluten,fe0f3520-ee4b-4d77-9ab1-bdfae58a55a6
+natural cola flavouring,32809fb3-1c4f-4a28-9ca0-52d081ba3a1b
+contains-less-than-1-of-corn-starch,c215259a-aed5-4402-b883-b4017c7071d0
+strawberry flavouring,0ae09204-c615-4bde-bd0d-d9a4a3e9b964
+cooking-cream,8b488949-03b8-4a9e-b093-6add04c914ce
+sequestrant,28b8951d-4a65-4256-871f-4543d3b8ba20
+cheddar-cheese-and-paprika-crumb,e3ff3048-6f8b-4747-9eb0-25d0a1b2e63b
+green asparagus,fca7b512-a498-4ccd-8af6-c7440ce296e6
+red-lettuce,10eb186b-ddb1-4496-aa16-a98161d18113
+pasteurised semi-skimmed cow's milk,7096087e-2fa0-4073-b3f3-3fa15fbb630e
+lamb meat,72e905fc-c6c1-4a4a-bce3-a838efe3e882
+solids,0936a0b0-7dd7-4950-91dc-c6330e6d4a7a
+oxyde-de-zinc,b970f494-5272-44be-85df-841aaf2834bf
+white quinoa,ff8b7281-a62a-4aba-8705-a9735717b513
+white-chocolate-chunks,20978ad9-4388-4d6d-a165-516be8d87dda
+polyglycol,4102b356-6a3e-47cc-b8b4-7f5f39830005
+chicken flavouring,e135cdd9-c69f-44a0-8a2b-df1c966f5d99
+dried-cane-syrup,fe065997-c2fe-466c-830e-27ccea2fd9b7
+microbial-milk-coagulant,5436d4be-7ac0-4d9b-a31c-c6f4905f34ff
+lime flavouring,4174f307-b2fd-4bc3-ac0f-271c76223611
+liquid sugar,8e645e78-deb1-4b9a-8609-844fa194b341
+mandarin juice,99e8999a-dfdf-4a0a-9538-a09c449a8ddf
+beef-and-ale-pie-filling,9f1f95c0-a29e-46c4-ac14-415209415082
+wholegrain,7ed60d99-ba4a-4b68-b4e1-5940c04069ac
+the-noir-aromatise-bergamote-ingredients,d5748d17-ce5f-442c-9691-6a098511e54a
+no1,85dc9bb2-77d5-4a61-bd5b-ecc1096dfd8e
+bacon-burger-contain,40f14eba-4d92-41bb-a85b-aa88c20c3193
+the-academy-of-nutrition-and-dietetics-recommends-a-healthy-diet-including-20-35-g-of-fiber-a-daythe-academy-of-nutrition-and-dietetics-recommends-a-healthy-diet-including-20-35-g-of-fiber-a-day,58f9f76c-7aa7-4d6d-ad28-9a58ad29eef9
+of-milk-mozzarella,acc901e9-6ca8-4dec-bc4c-cd5632b4de8b
+68-77-f,9d19087f-c257-4975-8648-66ea85bed697
+liquid egg yolk,e2d8e923-be28-4577-98b5-a8cf5f8ab61c
+average-per-100m,f101af69-89fd-4cd1-aa64-1caa03967c08
+hydrolysed soy protein,82feb4b2-6e8d-4d62-b43d-2177fd0e4f3a
+humboldt squid,a611f57f-05a3-4655-ad04-70b1cd4441d0
+dyxsis,5e1e9747-f5bd-40f9-ba44-001a30d63118
+chia seed,7ba5dba0-5379-415c-a8d4-c50b97cc3146
+via-mantova,970a8e8a-9272-4148-9e7c-8c4523f18cb4
+barbecue flavouring,8797c0a3-156d-4ac7-a1c6-541a2dce91e1
+mixed fruit,813a8846-a2e3-484b-b960-5760532ef833
+retinyl acetate,86177b44-b667-4c7c-b76d-56168c97c9a7
+citron-vert,b1db5228-219f-40e2-9e78-431291693253
+orange blossom honey,c8ca34a8-6c66-4b35-b163-ed5d2ccd0ad1
+chicken egg yolk powder,d4052c82-14b3-4361-993c-b5a96626afba
+dried-gluten-free-sourdough,6173c353-d669-4c42-ac6d-6b591b3d2894
+ice,d15e9bfd-d75a-4107-8604-094ffe1549c1
+natural-smoke-and-grill-flavors,e4c9b1bc-c807-401b-9ba6-ec611f4e12df
+black radish,d0cfeae9-9d1d-46c9-a543-e02f687ec68d
+keep-out-of-reach-of-children,272e8108-5abd-4916-ad0c-87dd7d5ec12f
+sheep's-milk cheese,7809c9e5-6081-4629-90af-7bfc9e870307
+flaked almonds,55c9f408-f3a0-40e7-b59d-34a3f9a65899
+maltose syrup,ab65f91a-ab36-4c57-8df6-4756c9b29b51
+ou-noix-d-arbres,2153c672-5d0e-404b-98ea-8c0c69d1aed4
+mild whole kefir,fce539ad-7444-400f-8800-c0e64ce7591b
+safflower concentrate,6124c78d-0cdb-4b84-8636-da0466f65eaa
+wax bean,70f82363-fd44-422a-b984-92b19b8bca38
+natural thyme flavouring,2275f01b-83ae-4425-9f75-bf9fd103e611
+blanches almonds,360c56c8-d40d-4757-ba98-3c34a9a4c685
+artificial flavouring,7bb898f3-a45f-4d6a-8399-8b3272a2bb83
+vegetable-glycerin,12aa2679-e866-4b98-92f0-7460487d8a8c
+pumpkin-seed-protein,51d69a46-59bf-43f1-9560-ea707d693f1c
+carmin,9ab50044-21e0-452b-b4e7-146c2b31f570
+sprouted-sesame-seeds,4096e206-dd15-4feb-8086-c8cc1c47dcf2
+di,e71790c8-f807-48ee-ad46-83dd9f650304
+barley malt syrup,8eb626e5-3d07-4d0f-a97c-c3fb096468ab
+green chili pepper,cfc56ef7-eac0-4136-b042-f8d1f0f6c6e1
+milcheiweiss,bf67b678-e4f2-417f-a4ca-2968ceb30876
+lime oil,9ce7b225-fa51-444c-8454-3ed944dc4503
+maodified-maize-starch,285c73e7-c07a-4d7c-b22f-3e90905be3e4
+proteins mix,b7ae03d1-ec90-47dd-8d56-a7cb64999ab7
+a-19,e2a6b3bb-13a5-4755-b2d3-f9df64b24b37
+arachides,24f8944c-4f4f-459b-a381-1438f6114330
+chromium nicotinate,c6f3441c-9a4a-4185-8817-cc588d12eb78
+natural strawberry flavouring,d9e122b7-9aa0-4b27-974d-502f12f7dd34
+fully hydrogenated vegetable oils,6dace11f-56f0-45fa-844b-1625bf5d5363
+1420,3128db2c-7432-4640-aaad-ac8744abc660
+mint leaf,de6e7f22-1171-48e3-9751-9d19757e00d4
+white sugar,1b68363c-516b-4e1a-aebb-ef0dba970ebb
+barley groats,4636f79c-e470-4c5e-8066-7ae22384521c
+ghee-oil,cfbdb1fb-d3b0-4b7d-802a-ee18283f41c5
+malted wheat flakes,457c9f6f-7953-4c7c-bb29-8643714bc0ca
+a-consommer-de-preference-avant-le,cd817ec4-7de5-477c-ab3b-17f3f7d69c52
+celtic sea salt,8a3472ea-3ed1-49d0-bd66-b6b73aa8be16
+dragonfruit-extract,4ec137b9-4bdf-4b3f-9c61-4ac1d5abafb6
+nitrite curing salt,c9d86f66-ead8-4845-9782-391ebdc42e35
+eggs from caged hens,6fdcabaa-465a-445b-bd35-ffb818b98276
+boletus edulis,d189b5fc-4bc4-494f-ad60-379b91a1f20c
+european hake,d155d1eb-c52f-4509-b293-c304fe6d09e5
+rh-30,20080e57-dab5-4f6c-aac3-faab189e4ae4
+light-brown-sugar,45b75222-797e-4169-8b67-bed83d68e6e0
+energy-value,c89c8dcf-989b-4dc1-af6a-b56aadfca05d
+eau,771f42d1-2b50-4036-9a7c-2f66d1c51376
+chocolate ice cream,9ccc3368-b934-4c32-b7c9-e2cdf326115d
+b-carotene,08c4e7a1-426f-4b05-88eb-05f250085404
+milk-chocolates-contains-vegetable-fats-in-addition-to-cocoa-buttermilk-chocolates-contains-vegetable-fats-in-addition-to-cocoa-butter,23411e1d-ff3c-495d-bab5-5e7037bae1af
+free range egg yolk,fbc893d4-78de-4cbd-a033-b2bd3f3e7dbf
+caprylyl-methicone,0553f3b6-c085-4ce2-8af3-083e8ee15bd8
+electrolytic-iron,a770feef-0c91-434d-8797-a42be2a916a4
+laurel extract,63b49aa0-d233-429c-a42d-4a77df8ecc9f
+101,66d12262-5f46-4fa4-a548-46e2b37d0ed3
+chicken egg yolk,0376947e-ea35-44da-afed-924d8f43e325
+white seedless grape,09c22a42-55ec-4df3-98d5-ccd5b76c3274
+cockles,aa58f75b-6593-4454-ada4-51b7db9385cb
+concentrated grape juice,7c668869-367a-4269-b6ea-564bccb87a1d
+skimmed yogurt,47ae79e8-0957-48b3-a244-b9b2946a2b8b
+fratelli,e51cc4ed-ed96-494a-82f5-a02632ecc2d3
+esters-of-fatty-acids,b27ef5fa-0952-4d5f-a0cd-01c79c534e2c
+rice protein,bcc5b055-89fd-4c1b-a5f4-aa6467074b54
+strawberry juice from concentrate,acaf33b1-ee08-4399-bdff-f3181765c9a3
+rehydrated egg white,f54632e2-07ab-409a-84c5-d54a547d146f
+chromium chloride,d7efbb5d-3054-43ba-92ce-cfdf382ba15f
+unsweetened-chocolatet,f6cdd691-0856-41b6-acda-04efa2a94291
+caribbean spiny lobster,6f155937-0ef7-41f3-a2c2-9e812be16b86
+in-a-sugar-shell,d4df1e08-dc8c-4063-bbde-fed7442da14b
+bacon-burger,9734811d-1721-44d0-a7a0-8a0771a60d11
+of-c-to-best-store-bread-it-is-recommended-to-close-it-cam-in-the-package-and-store-it-in-a-cool-and-dry-placeof-c-to-best-store-bread-it-is-recommended-to-close-it-cam-in-the-package-and-store-it-in-a-cool-and-dry-place,6eaf8759-fb66-496e-88df-0082a33aa7ea
+501,ee7dc257-708e-4fc2-81e9-fb04ffdfeacc
+popping-corn,f11057a7-5826-4065-858f-32a15c77681b
+contains-a-wheat-ingredient,da93dacc-f985-4562-8dcc-e9d6ddb37467
+powdered almonds,9c9c26ea-7e1c-48af-82d0-e0c2a2566d43
+apple flavouring,8bb7476d-55e4-41a6-8af6-43e860d25773
+natural onion flavouring,ead53d31-eb49-4973-a7eb-9ef1094dfc1e
+produit-de-thdllande-no-de-lot,cb2d094c-17ba-41af-9bdf-1b86a08d810a
+dried apple pieces,aacf2b49-51b3-4e94-81b2-5022caff5a48
+lamb,06e71169-f480-4f52-9d47-00ec9efb7647
+sprouted-sunflower-seeds,cc8c6179-6d5e-4b89-9796-b0c5d8b632ea
+seaweed,a5d3b4fc-a9cf-430a-af5a-80bd9e59cf1f
+acerola powder,1d9aa012-49fb-47f2-adac-81744c51fdcd
+sausage-mix,e36f4eed-fe66-4f8b-9f7f-6b328a4cb7d5
+diphosphates and sodium carbonates,a1cf0854-f94d-4ed5-acde-a64496177db2
+ci-77492,7f7f6bda-ddbc-4580-aecd-3ffed509f49f
+apple pulp,5ecf313c-169f-4b1d-b931-239b0a981dbe
+free range chicken egg yolk,4853fee1-fada-4555-b863-13d0e0949826
+raw ham,21229b0a-74f9-4dac-a628-1578c8ac5d18
+soft white cheese,b1df1893-97b1-4f5c-a499-15db24262b8a
+oat fibre,0f44a9d0-a7c6-4bb5-a6b5-fad9cf056c31
+cinnamon-sticks,db2ada15-3af2-42db-bb56-525b972f83c9
+bamboo fibre,a0fd5e47-880f-431a-8d47-90009d5b0ad1
+baby spinach,1f19f725-cb77-4c33-8bd4-1b2da5eb2f28
+l-see-bottle-for-production-and-expiry-date-eep-in-a-coong-تترسع-لحتاج-و-الانتهاء-انظر-الى-الزجهة-bottled-at-source-perrier-by-nws-sud-30310-vergeze-france-57-30310-loriel-see-bottle-for-production-and-expiry-date-eep-in-a-coong-تترسع-لحتاج-و-الانتهاء-انظر-الى-الزجهة-bottled-at-source-perrier-by-nws-sud-30310-vergeze-france-57-30310-lorie,721b95ad-a8dc-4eab-a034-7372defcd908
+smoked cured ham,d89724aa-c3c2-4b03-8e95-76dc81a7608b
+designs,611889a8-14ad-467c-8572-46d1e29b8348
+mandel,4c58295a-e0c5-422b-829c-806d9e95bfb3
+and-salt,35b17f3f-52e4-4da6-b6a1-0bbdd69fa6a9
+cooked chickpeas,b9f7024e-4a09-4264-8c1d-8e69f6668d39
+celery leaves,075eb379-810f-41f2-910f-0cb235b6c418
+lemon zest,11574b50-b9c7-421e-82b6-0cd30f7db50d
+anchovy filets,b9ebf5d3-24ed-413d-be91-e0c0f923b6b6
+store-sa,c4611e36-d852-4f55-a2e4-99a3c334e1c4
+ferrous-sulfate-niacin,b68ffc17-e92f-45ca-9586-7dce96bf6d6d
+egg-lysosyme,0d3107a5-5023-4213-b0f4-8d5829f009ee
+beef bones,37d58251-cd06-4bff-91bb-a71764b570e3
+polyhydroxystearic-acid,eaf757bb-f4ee-4cc8-a8a5-fbf0bb2f0b01
+via-haba,9e02563b-ef9e-4ee3-9a4b-f13d5f05220a
+split pea,c24f37be-4d7d-4b9e-8792-7cf39ddc18f1
+red-7-lake,2177c76e-7c68-4044-bae6-533f375bbb54
+proteines-i-eiwitten-og,5a6d039d-52ec-4b35-bb4c-b27f0d398ee3
+citric,a7c6390a-cb17-47cd-865b-b9ed0d21d7d9
+set,f681132f-799a-42d0-90e0-accb4c5d637e
+ensemble-reduisons-l-impact-environnementalensemble-reduisons-l-impact-environnemental,c47bea95-7344-45f4-8a37-e77a1fbc71be
+hydrolysed corn protein,6398dbc2-9f1e-4e43-887e-f043dfce7686
+sunflower-vegetable-oils,0406756c-4d8b-42e4-a961-d3e85131652b
+xanthan-gum-salt,9d4cb954-78f1-4797-8705-c0ae99b65653
+any-dreadfully-dull-dish-to-make-it-really-chippaany-dreadfully-dull-dish-to-make-it-really-chippa,dc079d07-0c42-478c-9aa6-987151f153e1
+natural spice extract,1c0d6d29-ff06-4ab5-bbb4-aa0165c63817
+glacé cherry,d9b5560e-0cb5-497f-a033-add2e94bd15f
+emulsifier-soy-lecithin,1a043da1-b143-4eb0-994f-03fce708cf81
+ginger-powder-cheese-powder-mix,414e1353-7801-4d1d-9443-e80da941d4cc
+zwarte-thee,9ef013ba-710f-4553-b5b6-5a9b51cd75c7
+shea oil,c25f75c0-6bec-4228-a94b-be5e10c93f71
+g-fabrique-et-conftonne-par,c2ba7ae2-6dfe-4a25-af8b-ed7a9a73edd5
+ci-19140,9e3d76ef-88b2-4a26-b3e8-268cbf37a6c2
+2-000-kcal,19c8d094-4835-44ea-a5a7-3a4bde8cebcb
+bergamot orange flavouring,0e97828e-82c5-4126-bb7c-8c696616b0c8
+limited-company-headquartered-in-parma,bf211014-79b2-4e1d-a58d-6433151f112a
+ou-moins,b1ba5c12-9b8b-4602-a8ea-ac056c1e8741
+arabica coffee,85c379db-1643-4586-84d8-5f472a885287
+sauce-de-soja,5e26eba3-dff7-4537-b499-bd3d3daed7c5
+sodium-energy-fat-benzoate,84f7461b-1d34-4d66-a392-9a15cc637e60
+geproduceerd-en-pasulie-leone-s-d,6c0bf90a-b923-4a3c-8428-4857de11d8ad
+natural peach flavouring,7ab25f8d-51e7-478b-9f91-1abfd8631a0e
+garlic-and-parsley-butter,0a1eb41c-1b5c-418a-a976-8e244856b5e1
+natural spice flavouring,0697f4cc-1fb8-41c2-950d-541275efd3c3
+dog rose,bf9761eb-e963-416d-be23-2e1f836dee51
+waarvan-verzadigde-vetzuren-og,0556aef5-e91c-4df7-ae0f-de13f54003db
+forest honey,d807e49a-7a28-4deb-9e7e-e0991bb38cb2
+nettle,c16442b4-2bbb-464c-ba21-dacdd68cf3a0
+slippery jack,fdedcd8f-1191-468b-a0c0-98a2542b3ee4
+brown cane sugar,5947c2fc-61dc-4690-95e0-7713a4c995e8
+skim milk and pasteurized cream,045fe498-686a-4455-85fb-f4ff21fe4bcb
+natural banana flavouring,d1521482-c4ad-4522-a52e-145f78f6bc02
+manufactured-in-a-workshop-which-uses-the-soybean-and-lupinmanufactured-in-a-workshop-which-uses-the-soybean-and-lupin,871e76d0-18c4-44d9-8959-740a7d68b9ea
+linden honey,3eb05e45-1f7e-457d-8bc7-5fe31c31bedc
+italy,d302443e-50ec-40da-ab6e-e9b4ebd02adb
+ru-contenance,bf4bf0a1-7729-4c8f-b519-2ba27c04e099
+curcuma,34d06d93-7704-45c2-a902-db326db5b19b
+whole fresh eggs,ccffe352-5cb3-4a07-b7f1-dcb96496359f
+gluten-free-pasta,2cb43ce8-117a-46ad-8080-f74539f81f0c
+stone-ground-corn,690cdb99-55b8-4276-be92-ac3cc4810cb7
+lait,1fa7db35-29bf-4fa0-8805-8ba229b16423
+pholiota,ee492dfb-0b91-4f3f-93e7-596c0d419d28
+whey-cheddar-cheese,4839bdba-d455-496c-9c70-ea770cc9a465
+natural-and-artificia-flavors,a8d8ac1c-da0c-415b-9f29-f42f6a0dc846
+electrolyte,3e1a7db6-c14d-4b4f-87c6-ef5a63841994
+protect-from-moisture,d8f48a8a-d512-4cbd-8f0f-9f16137e3944
+whole cow's milk,6665802e-11cd-4c1e-91c2-dd38d10830cc
+banana flavouring,111e3eb0-f717-4ccb-a954-9568c10e6e89
+packaged-by-weight,497ba38b-28f1-4b74-a89a-41e9e1cc5d00
+pentosodium-triphosphate,e30a2ebb-ecd5-491a-b516-63ba36a3a5c1
+aspic,88beab1a-36d7-4e77-b1e2-695a3f2f7f95
+tri-and-polyphosphates,cd31b7fa-4fc8-4acb-b15e-b9e674fd7092
+su-e,9f3bc22d-a97e-448a-9982-e116004b0436
+beeswax-white-and-yellow,87d5b28a-5b5d-489e-9cba-0e4fdb62c87d
+candied orange peel,dfa3a8ff-c145-462f-ba89-98f8c6c84faf
+patagonian scallop,132f397c-117d-45c9-9598-196137e51809
+copper,eaad6d48-177d-450e-b99c-893ce8c228d5
+631,bb79a3a5-b2d8-40e8-8e80-58bf46d20272
+wheat-dextrin-gluten-free,3e0ec8c9-ee22-4b83-917a-ef33fd06d2a3
+phenoxyethanol,37952a75-c320-417a-a791-093f5932b50a
+thai long grain rice,777cf293-992e-4817-8581-b2ab1975deba
+raspberry flavouring,b8a764ed-93ed-4d06-997a-cdc253925335
+soy protein isolate,623ae72a-cb72-4d26-94bc-a0a5ab9ed50b
+orange pulp,60730845-8fe7-40d7-97eb-3815b807cd4f
+ail,52ec4a00-45f1-4980-a5b4-fc85bb4b798f
+cyclopentasiloxane,4cabd28a-e450-4edb-8b91-7cf46f9c6010
+f-2,7304a89a-4b90-4641-9cd3-c0aa2cc350b7
+vegetable-fat-palm,8e7e0333-3c0e-471e-abda-e2f723ca0dec
+of-milk-curd,b53bc717-93aa-420a-9405-32fda08f066a
+sunflower-oil-values,7e9d47f7-2a79-470f-8d59-6adc3c34481d
+ble,b7dc7e1b-2c4e-45bd-9ac9-ef51928e8262
+sheep-s-and-goats-milk,b46bb89e-1fa3-4d8f-803b-5a30932ee991
+natural dill flavouring,1eae68de-b0d1-4cc0-8ad4-17fea85451f7
+spices-garlic,3ebc1ff7-e129-415a-a1f5-16998e201d4b
+magermilchpulver,562124c1-43e8-422e-842a-92200eb66376
+het-gemiddelde-geviicht-van-een-pastille-ishet-gemiddelde-geviicht-van-een-pastille-is,4874e57a-7db2-4221-98f7-f299df7c088b
+mozzarella-milk,c85878df-321f-41cc-812b-251df66306f8
+casings-made-from-beef-collagen,bc39094d-3c6c-4e53-8de4-72ca436842d4
+cooked carrot,2fc5f9cd-4049-4f33-b9e0-624683ec9005
+white rice,2418012f-1477-4c6d-9e03-fd69dba9c686
+nature-identical-flavour,097231a9-705c-44dd-9e83-5f636313a3bf
+red and yellow peppers,05a35e2e-9859-483a-b52a-e47ce09667ca
+cooked beef meat,68acfe8c-f946-4f23-ac92-2f26189109e8
+beef heart,bbf2d182-c856-4aa9-aa36-ff95fb3cd579
+zwarte-thee-met-bergamotaroma-ingredientenzwarte-thee-met-bergamotaroma-ingredienten,b9633ec9-df00-4d92-8bf9-862b4eb425a9
+0-1-composition,eace11e5-f25f-48aa-81bc-f6fc269b31b1
+46,c39875c6-1a8a-4fdd-a92f-186e48bc037a
+chicken protein,43e952a7-173b-4277-bbb9-9c7563363b7c
+roast chicken,6da20198-1a26-4dbb-ace8-4e1a2fea2cb7
+arome-bergamote,95e6d837-b136-4074-b1b8-5c3caba1d255
+extruded cereals,f17e7da7-4ed2-4372-8b3d-fafb24b1c940
+503,f5db1e18-cdbb-46cc-817d-718acb6d1c42
+ascoli-piceno,bea01f05-931e-445f-ada5-690d184809d8
+lemon pulp,7c77ac22-c735-485d-a66a-45b1731367e4
+extra-fine green beans,fa5c4f25-c223-46c5-a0fa-0a5e502a0b26
+meat patty,4e547b18-39e9-4f80-a786-1598d1958c42
+ammonium-acid-carbonate,3b4f23e8-25e7-48ee-aace-313538d8ee66
+rabbit meat,dbc1c62c-99f6-4472-aa4a-4e8e8ce96b03
+hemp-protein,f9ffccca-61f6-4d28-8598-d9584dcf05df
+contains-lactobacillus-casei-shirota,541f8f59-bd75-4d3a-a98b-2646cc40ca29
+rooibos-tea,f4386601-f646-490f-a279-fcfe273d90a9
+lambs-lettuce,de5142af-6663-42d9-9fd4-c0f439daa7ac
+mulgent,0d4bc9d5-9bb6-42a9-bd6f-b74ab161da0f
+ham-flavor-aroma,1641f997-9e24-4cd9-81e6-221927fe19ea
+skimmed mild yogurt,750ccdab-bedb-4b34-83d0-29aaf675eac4
+whey-demineralized-powder,75a62514-8c6b-41e0-9ff3-782f39848a26
+lactose-and-protein-from-whey,a883d797-eb17-4960-9e03-2bfe3cb75753
+modified wheat starch,043792e9-a482-4bfe-a234-ac07b7516719
+semi-sweet-chocolate-chips,62414606-8df0-4a9b-a5e1-4713984beb03
+almonds pieces,ca62fef7-a70c-4e06-bf40-e0783a8672f0
+hydrogenated-polyisobutene,a0596b05-7188-4039-8053-e3346d5e9812
+extruded rice,b2d90be5-7850-49b2-9e3c-9dcf248c36b0
+flour-locust-bean-seeds,b7b87e3e-97a3-4bd0-8c6a-baac0a851bb8
+iron fumarate,0f283e73-9788-4042-9806-c27acbb21cc1
+grapefruit juice based on concentrate,2726c79f-fa9d-4c94-92c1-c054696eeab5
+beef casing,3c3c9c32-1d72-47e0-b843-69e3911faae0
+natural spices,11eceff2-25c4-45ac-ac7d-c079a6ed2787
+lactose-free milk,71bd66f4-0087-452a-876a-c44843dcc27c
+bourbon vanilla natural flavouring,1cb9fad4-1d4b-4672-937c-7705303c2c05
+piments,60521a00-e1dc-447d-9374-99d26ef78913
+lactic,912d4a01-938f-4878-9b35-75e1954921eb
+223,755f38d3-a052-48a8-9cba-de99803ee96d
+d-calcium-pantothenate,d26860b3-09e7-4f14-9343-1a7d69253b87
+thiamine,bf83ed86-eb13-4ea8-aae4-1842fd0f1df0
+green-rooibos,ad188e72-164a-4f6c-8613-a081986b507c
+gluten-free-breadcrumbs,6e836e20-0096-4167-b5d3-6df0414d1edb
+chokeberry juice,256eeec1-765e-4029-bd49-7853a6b6b3b2
+liver,25eb8eaf-4f93-420f-8cec-69167cb1457c
+iodised sea salt,89f1a3ae-be45-42fc-92be-b2e42a9df5a3
+sugared cranberries,ceb9d646-f26a-4250-830d-45b7500eece5
+tm,545fe3ca-8ab5-47cd-ae1f-32fb4645e265
+mono-and-diglicerides-of-fatty-acids,b93af02a-9a22-41bc-b7b1-bc3a8b74c8b3
+412,5a6c96ca-2313-4c27-82f6-4d38131e7ab8
+island-of-re-fleur-de-sel-sea-salt,1bda4ab4-9eb6-46fd-9907-fed0223c456c
+casein,911c6024-d6b3-4f93-b119-bd6e0a400f94
+cane sugar syrup,30a07af2-e317-4e81-a774-90bfe6360aa6
+hydrogenated palm kernel oil,8c6e15c5-a1eb-4755-b97d-c3bc333e3e06
+almond paste,224eb884-c243-4e9e-b64c-0dc8149bf4ca
+natural-mineral-water-co2-mineral-content-mgnatural-mineral-water-co2-mineral-content-mg,67854230-7d9b-40b9-be4a-1d892f3b6da1
+roscoff onions,dd8718cd-6eb8-4b51-9a92-7f963a10c43e
+lemon flavouring,ffcb91dc-80be-4f3d-a4de-415fcce437ea
+crêpe,6e58c5a3-d405-4fee-8f52-40b96af83054
+ci-15850,e6b3086d-da97-4f71-b6f2-66e7ba83670c
+recenstituted,d5a48481-9852-4285-9f88-f8906e37e074
+green-tea-essence,4c4c278a-3a7d-4636-b181-5694acdcd728
+sheep-s-cheese-pecorino-romano,2aa7c90a-7b99-4c81-9a04-1e4d73d521cd
+apple vinegar,7a94c20b-d807-43e2-9335-d83f4a2aa5fc
+poudre-de-cacao,cace2446-e9b9-4a63-835e-b4309920d039
+isododecane,9fa21214-980e-40df-afd1-71287ccda6bd
+pandan-leaf,9570cbfa-7bb7-44fc-9a95-21f228ef3865
+d-pantothenate calcium,b53fb65d-9dba-4812-ad8f-3b853b3bf9eb
+maltodextrose,2ff96e0a-a58b-445a-acac-3a035a950d1a
+vegetable-oi,29f9f2b2-d613-4be2-811c-f39f1c82c24a
+skimmied-milk,3adca4ab-3eda-438c-9588-28c7982136b4
+lii-fl-a-consommer-de-preference-voir-date-sur-remballgelii-fl-a-consommer-de-preference-voir-date-sur-remballge,76307fda-5545-4873-8425-9e292fa0392b
+ethylhexylglycerin,cb33b9f2-17a3-4943-8cf3-1257311abf47
+huile-essentieiie-de-menthe-poivree-du-piemont-ingredientenhuile-essentieiie-de-menthe-poivree-du-piemont-ingredienten,978c9fca-e88f-47be-9e77-a678b0032b75
+iodized-speisesaltz,38bb74a4-c7b4-4bb7-ab39-ab3d84145e59
+by-cow-s-milk,5aad76a3-23b0-42bc-ac44-cbc1e8af3bf6
+kvass wort concentrate,dc1c9333-9e56-4d51-8268-3bc34076d83f
+energ-18-fi-285g-and-na-consurium-mode,c123d716-d505-418e-ac28-71f9c6590fd5
+sprouted-flaxseed,435a3ef4-8ce8-4982-8a38-97e79b729011
+soya-auce,354a3ba4-c9f1-45e5-9e93-3aef711b4abf
+emulgent,f6c38cc0-3d50-4caa-82bb-dedade30772d
+dark-chocolate-filling,5101c489-1bc7-466e-bd6e-76d1e115cac3
+nutritional-informati-typical-values-er-preservativesnutritional-informati-typical-values-er-preservatives,3c3e69c8-f052-48d6-a1e5-7438b383716f
+senia-712-94657-ovnet,b8b38da1-9f67-46a4-8f0f-b24d1736c232
+bittersweet-chocolate,1e9bfc53-dc44-4fe5-94cd-1f8aec7ff99e
+onion extract,2099a136-c286-4d67-9c1c-fdf1c567cb3a
+o,f82a1c05-dfd3-472b-80dd-1a79debd7b1f
+dried fenugreek leaf,d5daab3c-0486-408f-bc79-2ec831e2b84f
+hydrogenated vegetable fat,904fc77b-4333-4b73-bbc5-7e04b6eda1be
+turnip-rape,25604fa3-cd23-44a6-b627-a8fcef261430
+cheese-seasoning,1435f0a0-5b65-4067-9f83-8c8ce4f552a3
+sheeps milk,796a513f-da2d-42e9-b88a-98510a3e9c3b
+l,d95845f7-bb54-4848-afd8-86c9be47b3ca
+sat,c9df09b3-f8ce-42d4-8ee0-4a9d8c27eaa8
+bamboo,d78082b8-e5c9-4655-b109-042d88e9f9d4
+you-are-pregnant-and-nursing-a-baby,9120f3b9-6e3d-47e3-a2d8-1ed7961c2400
+natural garlic flavouring,a19abeed-8cda-42eb-a24a-2670a2add6da
+pear puree,84d6e598-a67f-41c6-b072-953e044a3710
+koolzaadolie,060f35b1-7d10-4c4d-82e0-ba627426c0db
+the-locust-bean-gum,e02a9640-9ee8-4200-a6af-b106315e8b73
+chinese hibiscus,8af3b0ca-89c0-452f-ab8c-eed960af4e5a
+foaming agent,d8956f86-1d63-41ae-a06c-496529783013
+gist,0d3a28f4-e146-4944-b8c4-702305d87c83
+to-preserve-freshness,e56f2afd-df7f-4b8e-8d19-ce9e8dacdacf
+ammonium-salts-of-phosphatidic-acids,755b5f1d-6348-4d03-bc56-ba454bbbea36
+yellow-61,19b846dd-2b0a-4c99-a16b-2965454003fc
+garlic paste,c5ec9f91-4344-4a96-b013-ff48accf7c48
+churned butter,807c49e1-e368-496b-8ec5-7b854090ba8d
+166,1e53a12d-be48-4862-9aba-93b852e60cda
+see-ingredients-underlined,6fa6de58-26e7-47f2-8233-0508e3120388
+store-at-controlled-room-temperature-20-25-cstore-at-controlled-room-temperature-20-25-c,7c569512-5eed-4c4d-afb1-8c77fcab6ca1
+brown-rice-crisps,4424e6b0-2939-4db6-b044-7838e69ee3d8
+cereals containing gluten,f947249f-aef5-4b04-a901-b5a290def860
+veal fond,3fabc107-b719-4692-917b-7ec659759d14
+lovage leaves,2f20b537-1355-4c7e-bd33-3a2743c9662b
+whipping cream,5e862cb5-9bfd-4f50-830e-e21c2be1f8e7
+coconut-rasp,430a5e64-4214-48f3-b991-b87ca98c43de
+weizenmehl,26aa0bd5-0537-4a49-a7b5-9b6f8504882a
+mung bean,d8d309db-90c9-4095-88d6-e3802af5263f
+flavourings-and-preservaties-an-unmistakable-classic-made-with-natural-herbal-infusions-for-a-full-flaouret-dandelion-and-burdock-lae-gistflavourings-and-preservaties-an-unmistakable-classic-made-with-natural-herbal-infusions-for-a-full-flaouret-dandelion-and-burdock-lae-gist,634da35c-a514-40b6-a86c-7adef85685c0
+spelt flour,1bdd1328-a5d2-42e1-84bd-8ca4de8020d0
+milkcap,a6c81525-9e8e-489c-b220-cf88600023f8
+alfalfa-protein,692bd83a-5878-4268-93d0-ecec9aaddfdb
+strong mustard,df9cc644-b443-4930-8154-a91bbb877f97
+buckwheat-flour-from-certified-agriculturebuckwheat-flour-from-certified-agriculture,692769ce-7fba-46f0-8006-df9905d8420b
+forest mushroom,fe84ea35-8a63-4230-8210-89dc3d3f56d3
+soya-lecithine,8a91676c-36e4-45b6-ae55-7f5a5cffad44
+camomile flower,3648897e-823a-4fdc-b9ea-e4605fe70ef1
+red apple,593eb2ba-fa53-44b9-bd83-48cf85df56ad
+stevia-extract,2d044322-4060-44d3-9e20-70c42dae0fc7
+s0-2530,3c5c7e7b-0217-4169-b565-5da822b869d4
+rice-starch-raising-agents,5c955d2d-eb32-4d2b-92be-f14c1f5dee65
+not-volume,9fab9dfc-93ea-4127-97be-3e667169d992
+poppyseed,ef3dc2b2-c668-4a1c-9ee3-783c1633d371
+taurine,cf2af6ca-b1d5-42b9-9991-8191562ef2f8
+formed-meat-from-chicken-breast-fillet,d4bcbd95-f21c-4502-8082-2e2af08f157a
+sorrel leaves,2ebbfd49-c217-42d7-8de2-c310323095b3
+rocket leaves,32efb66c-6f74-449d-b052-2b4f1e3eef9d
+drumstick,51366bb6-f4e0-43e8-b7a8-759190ad208f
+cherry tomatoes,73d5a580-7f7c-4896-b418-be00d53e568f
+sweet potatoes,00c1b983-7f9d-43b1-b91b-27d680a45cb4
+round gourd,df71e9eb-b61c-4981-8084-863674b9f5c4
+ridge gourd,78a6c6fc-7c22-411e-a303-2baf8eec76c6
+mustard leaves,c333f9aa-8630-44a9-a4c1-6f046b63f5ca
+tulsi,d25c6863-bfa3-40e1-9f0b-a8a2f9abe5e0
+yellow chillies,f6d4361d-e20e-48a2-ad9a-0018583bfcb8
+nasturtium,260be9d8-62c3-4e42-ba4c-6963ab0971e8
+mint leaves,b66dafcd-c7d5-4613-8850-6d41079f0acf
+red chilli,e79dd2a2-9a46-4cea-946c-3bf70df51eb7
+dried fenugreek leaves,07a9360f-4a4f-4689-a69c-337de9be0615
+oats,e65ebb74-5917-4a46-a399-69d0740907c4
+jowar,e8c4b653-00b8-4823-bf45-d7addd1e6f52
+arborio rice,d83405c8-5d38-4083-b63a-38e4b722a9cc
+water chestnut flour,8eab19cb-f3ee-4e79-a75c-952098022c71
+barnyard millet,d452c8a4-036a-4384-8e69-c571eba19909
+finger millet,6ec84f92-77d5-4a6d-b273-4f777908d525
+whole bengal gram,3db29bf2-8677-4194-89fb-7cf96798425a
+green gram,38fc63eb-39c9-4b5b-b241-05b16db635e5
+all purpose flour,ff1ee4ea-658a-4ce8-9af2-970a2edec221
+grass fed chicken,9bbf9950-29c2-4d8b-9a92-512a36972e85
+organic chicken,6f6f34af-d984-434c-9e57-f1984988d5d6
+skinned chicken,fff100c6-a61b-4894-9fb0-a10b37a7bb2c
+partridge,693acc68-3bac-4b60-9df0-6d81e1f2c3c2
+meat stock,f4698b76-3286-4dd0-a6be-e9f7a4d6214a
+keema,e109e7d6-b8eb-4a65-be13-9a1b0cbb874a
+mutton liver,dd8e3052-193c-49eb-88bb-a4e41faa1bed
+kidney meat,09693940-e1d7-40d1-935c-20cef8c76cf0
+chops,bea0c45c-9776-45a2-b738-5073d719148e
+gruyere cheese,28a21e2d-989c-4d49-b588-4db9c25457bf
+gouda cheese,f58bea84-7e63-4699-a52c-2a47bdc9aa64
+feta cheese,ab431ee6-78c9-481f-9746-30bd6447b80b
+brie cheese,31747516-dce6-4310-b946-19e25eb51d08
+ricotta cheese,1906c12e-fe8a-4c46-b0d8-1eb3b5720351
+parmesan cheese,1732267c-d106-430c-9cfa-a543c51be665
+cheddar cheese,c7382878-8c2f-4636-ae04-b24fd9d4ca02
+mascarpone cheese,3dcd2b94-a126-4f6d-ab20-57cb73d49b92
+provolone cheese,c39c379c-06f4-4142-8b7d-9edd9c5cdba1
+mozzarella cheese,6f345133-c96b-464e-983c-9559e7223042
+khoya,8d37a98a-e455-46e6-94c5-d0c0f674399f
+blueberries,25d5c381-5dbd-4415-bda0-46b8c5dda49b
+orange rind,410b44a0-8028-4073-99de-c5b65fb897c8
+lemon rind,e80fea97-d1e3-4106-927c-1735295a89dc
+tuna fish,c03aff11-787b-4e9c-a7fa-bf45d7a29156
+shark,29601ea4-72de-4c40-97f4-140cf0890ca3
+hilsa,eb59ed7e-be4a-4125-b9e9-bfdc2b33ee7f
+pearl spot,88b63185-5279-4d34-b25e-a70882ded7fe
+mussels,82088ed1-a53a-4850-a369-a98226ec02bb
+squids,d75f90f5-a90a-40c4-86ec-cb3e9fd9a8d3
+sugar candy,6945a2f7-eb09-416e-aeff-d8d8af36b107
+jaggery,b994680b-4f52-4791-93b0-ec0ca9bb36e7
+castor sugar,93f2360a-02d3-4508-884e-f3c3b3b22c26
+caramel,42555fdf-9dbc-44b7-8f10-47f364575adc
+chia seeds,03aed499-0b55-412c-8f8f-67d82e31b0b0
+mustard seeds,23776530-00eb-4f06-8236-82d184cff789
+poppy seeds,3ea0ec93-01a7-47dd-898e-1abab613a6ab
+peanuts,6115eaad-ef9f-485c-895b-cfa8fa654d03
+chironji,431f0dcb-afc4-44b3-b93b-51bdb2a4d971
+blanched almonds,b17ebc66-feca-4298-920d-6cff47fa174e
+almonds,fdf608b8-020a-49ea-8cf3-2faec2349f78
+walnuts,2a3a30a5-0868-402d-ac0d-da272116a5cf
+rice vinegar,d5cc9487-56ef-4e19-b0a5-00c49cb91a53
+guchchi,dac9d68b-a9a8-4dfa-9c16-65f4a6f4ee7c
+baking soda,4b04ced2-bd01-4758-aa4d-340efe809fcd
+spaghetti,dd154cd7-6828-4def-9fe9-9f6fdf572948
+peanut butter,3c6a3695-2deb-4b8c-9026-33102be282d3
+chili powder,0382e10f-7ba7-435a-b29e-e4d39116df16
+onion powder,5bd61e30-0638-42ab-87bd-1954bdf4cc8a
+italian seasoning,16c5a6af-7a75-4940-aa3d-05e2a3ddf9d5
+scallion,78ffdef7-d581-4943-aa1b-6990339d2a4b
+canned tomato,b510aa7c-714a-42c1-880f-aff5bd06d496
+avocado,05645e79-9fa0-4211-aabc-b59afae88e2f
+zucchini,e0ad8f3b-e0b1-42a1-9679-47cf0f6421de
+sweet corn,ae16aa9f-c760-4604-85b2-fd11c7f590ba
+baby greens,b894a8b5-4946-4b2c-842b-b178de21ef05
+kale,995d704c-3f7c-45b4-832d-56dae3728316
+arugula,672bf3d5-0656-4368-bc48-4697de56506b
+eggplant,9e6aece9-c7c9-41f8-8ed0-013f7ec5b5fa
+butternut squash,822e5c22-7e2f-49c0-a40b-836d2a5df2df
+sweet onion,f953d1f9-268d-4150-969f-8869f5765954
+black olives,fc8305c9-593c-45e5-ac9a-7215022d93a3
+romaine,83d521b7-dd3c-4673-9d06-e5faeb59233e
+brussels sprout,5010854f-aae9-4e5c-bbcb-569c352cface
+canned pumpkin,af8b289b-78a4-4244-88dc-2aae732c1d5b
+kalamata olives,af598550-cb8d-4807-b230-dc1bb436e671
+summer squash,801c2ddc-3583-4d51-810d-91ff7c7456d1
+mixed greens,2a22f052-aa99-481f-b55f-c982b9e46299
+horseradish,5024da81-2b22-43b8-87bc-1c733750a508
+mixed vegetable,a0b7b335-0779-41ac-be9d-79ba42a8da70
+bean sprouts,db30a0b1-7f09-42cb-a438-2c137823fda3
+poblano pepper,fc81efd2-abfd-4098-a1fd-4fad6b6f31ab
+watercress,f9e86c5f-82aa-4501-b6c2-acc023f8a07c
+serrano pepper,be3cac04-6c02-4cc7-929b-b22d6f281267
+sweet pepper,0922a52c-0884-48fb-8a76-051fce349fcb
+iceberg,0e9e2338-704c-4e61-aa43-fc2eff472ade
+green tomato,2fd7d0f8-a69b-40b7-94a5-a5fdaffe0a53
+butter lettuce,d7337cab-d766-4f1b-a4ec-c4d28b0f90d7
+spaghetti squash,7062e1a6-1635-4bcf-b1ba-182197ee59a8
+napa cabbage,ea5bc7ec-4acd-452e-9218-450a24f750d1
+sauerkraut,590d1682-7922-4499-be41-54769a1293f6
+okra,900fc1bf-7f65-4023-9188-328bfa95efc7
+acorn squash,ff84d79f-b1b7-41b7-ba5a-2706a4f11605
+radicchio,02cc167f-5a69-4a52-ad0e-6e9ea1a81e60
+corn cob,262906e6-13d5-4e79-bd24-d3ddbc1498d6
+pearl onion,883a1de3-ccfa-4a0c-ae4e-da6848b7281a
+thai chili,0408e87f-b4f0-4144-903f-e06c07103818
+tenderstem broccoli,d965369a-eee6-470c-9ea6-39608fdf2f94
+leaf lettuce,bcde68cd-8bbe-41c5-b15f-e49682657fd5
+endive,c3056646-473c-4772-8a3d-d7d41b6f0891
+jicama,bd528dca-64f4-41c7-a40d-a701941fa1e5
+corn husk,50fcfe3b-193f-4a25-a81d-e7ebccc3af68
+canned whole tomato,454cc946-180a-4f62-bfc1-68d5561fca73
+habanero pepper,b6b29205-8ec7-4e41-84b0-789dcf3d4ec2
+collard greens,52e388da-0b1e-4e32-ad90-b8c5aa8436a2
+baby corn,9c66f8b8-3bba-4862-90cc-a97bb8d08588
+daikon,e605dab9-875d-4bb2-8fb8-4de9758d0d79
+belgian endive,ccac1fbf-60d3-4d2f-b2ed-d081b3b0b2b9
+broccoli rabe,8cf54282-15ad-4f61-b226-68daacdb10e6
+rutabaga,b4cf0da0-5a48-4767-b0c5-6bf3ff8d90fe
+ancho chili pepper,962ad16e-ca54-46ce-9fd3-8a5f85438843
+boston lettuce,aafd4e7b-becc-4413-a77a-db55fbde7b48
+yam,4558c69a-fba0-4039-adb2-7a2f47e20f89
+kohlrabi,f26f1b69-2cc3-40b3-b1da-9cfc1da4285a
+microgreens,fee4a2e5-b244-4887-9f2a-009e3509c5ca
+guajillo pepper,fcb60614-f391-4592-9809-bafb9c37eb68
+frisee,f1c4324f-4ace-4504-8505-5bc09f4e2b12
+delicata squash,f0d35d15-0a84-41bd-808e-c4e529982716
+anaheim pepper,e48ce738-ea93-4d06-9b1c-2569b6b1a7c7
+cress,8ff185d0-353e-4a74-855e-03593b5a35be
+golden beet,f6f2f4d4-2ab8-459a-87da-4a31fd329938
+gem lettuce,f51f1221-2607-4a71-9dde-7200e25a522e
+jerusalem artichoke,c42e379f-dc2e-4639-9e99-d9fe88d73c04
+shiitake mushroom,03453c59-6409-4cbc-ac16-cc41d6a938a5
+portobello mushroom,13f5591b-93ac-4819-adb4-7ddeb68cc1b1
+porcini,f319b7ee-3648-477a-b29a-d0314b2e32b7
+canned mushroom,e09013bb-1d6a-4614-a71d-911ed9ba27bd
+chestnut mushroom,abd9cce4-37c4-4708-aac7-57ab5e48eef8
+mixed mushrooms,1af5bc5e-ddfd-4861-be05-489f0b595d52
+enoki mushroom,ae951c66-0995-4dd4-a250-d3239093b771
+black fungus,12d1165a-a5d3-4776-9d00-95803865cbbd
+black truffle,0ed79167-7404-4a8f-b8a9-ae95ca54672e
+morel mushrooms,4d942723-5fb9-4e34-a701-d377a6df2a8a
+field mushroom,dd4aa99b-c9b5-456d-9d3c-543c76009acd
+shimeji mushroom,640d7b15-68c0-4392-b89b-cc17d5a3d50b
+maitake,9c996d74-0a04-4d72-95c9-8bddc57e06bc
+trumpet mushroom,a45df864-d8fb-48e1-80e6-e557c0636dd2
+white truffle,3501ebaa-8bb0-4bc0-99b1-bcec7a2ca63d
+snow fungus,b3107444-d58f-4d1a-992f-b101b713d93c
+pioppini,da041d2f-004b-4d1f-84cc-14351a1fa6ef
+nameko,2b8e33b9-1a4b-4abb-943c-e96b5b42da48
+caesar's mushroom,67edb635-80de-44f5-8930-c68629b76d1d
+honey fungus,311fc072-fc62-4d80-b2fe-d0bf29dec0fb
+huitlacoche,84c9d8ce-ccb0-429c-8356-2109952bf34a
+raisins,a9580752-7381-43e8-83aa-4dca7452c9ee
+craisins,cdcf278e-ee40-4eac-bce3-b4974f5fe328
+pomegranate,dc2c83aa-92e1-4409-abb9-4cad22b9b70d
+rhubarb,8a4021f2-488d-47f4-b3e6-2a5be61f04a3
+dried apricot,b3055185-46d5-4022-9537-6d6a127b70a1
+medjool date,5221b7ba-692f-4821-bcc5-9a7a83e1422b
+currant,6cf04acb-4be9-4d37-b651-258aa4de1795
+canned pineapple,e9828e8e-14e6-4435-866c-20cc0a47bcb5
+sultanas,00fa831f-4de3-4c31-afd9-2481a27eec22
+cantaloupe,e931296a-d604-4846-981a-7b15798ceef3
+passion fruit,662b8ec2-f362-4ce7-8f95-7bf3c309db97
+prunes,e236cb1c-bf9f-475e-8234-914b20cd095b
+kaffir lime leaves,0e98adfd-4b77-408e-a5e3-ec1ca4a5faa6
+meyer lemon,26a2ed47-3fb5-475c-8c02-452584068e8d
+honeydew melon,bbe2b4de-ff24-4b3d-ba63-4a4f7cdec497
+dried fruit,e468108b-3c12-4053-9212-a38d963a18a5
+dried mango,a3f2f12b-29d1-4f7d-85ca-18fa1f90ae11
+persimmon,a73d1e63-90ca-4f0d-913f-3bd97a2bb8e8
+tangerine,fc97365b-9b09-4cbc-ab12-ba61741444da
+fruit cocktail,891fe41d-5dd7-4891-90c4-991d4e9b04c0
+quince,ced5db8d-8f04-4f7a-9e6b-756c1082d59c
+canned peaches,70ba05ef-a05e-4cb5-97f5-5b5a103a2501
+jackfruit,23e48952-84e1-47ff-b17d-eff2d072a91c
+kumquat,63231a7e-b160-499f-9bde-1aeb8d030b59
+dragon fruit,68f4a68c-b640-44cf-badb-120813c79499
+asian pear,10cae743-5726-466b-88de-c62450927934
+star fruit,6a8fd3fc-3656-4959-b7ef-96d0c47e630c
+canned pear,494f2f14-671d-47cd-9bac-786d247adb7a
+bitter melon,6f525da6-c1e2-4177-884f-494a89f33adb
+tender coconut,9131a37f-f021-4fbd-839e-de004703c976
+pomelo,cef69db5-4396-495c-bdd6-cf5bbaaf317c
+prickly pear,07907cdc-009b-4447-bab8-493f7eac41e0
+chestnut puree,7b70e2ac-8a2c-46d6-9b94-48ae62ca0296
+yuzu,bea9faaa-1478-4fd2-a07f-e1a3b3d314b6
+granadilla,c529ade8-72d6-464f-a4a3-4bbe12dd3fa0
+dried lime,d157820c-8837-46e8-8e6e-7e69cae3c1fb
+mixed peel,461ab5f9-25eb-46fc-b8cf-71f5192d9810
+tangelo,99222274-3895-4584-a17c-471855f2143e
+sweet lime,8020f933-dba0-411c-96b5-074d5074aca2
+dried lemon,3f77a775-7517-46ed-8151-2ac4615963b7
+durian,a19e07b6-1521-4d81-9baa-b9a21b38cb44
+custard-apple,65c831f2-5e9e-4ba1-8ac3-af6f09a8fc2d
+honey date,f375c6ec-309f-4df2-9250-e7b505e3803a
+jujube,ebeab659-d332-4815-8bac-743d81df43d2
+tamarillo,62f5f3bf-3c54-4c6d-bdff-cb095df5f785
+longan,5555d1e6-11b5-4c57-9b34-eb0df63d833d
+bitter orange,5a84dfa0-ae2c-470c-ac39-ae066e59dc87
+feijoa,c856fe00-b383-43f3-8cc3-9f1935908397
+fig leaves,72f9a18b-550b-4814-85bf-6ef09042fc4a
+watermelon purée,e52f1ccb-7988-48f3-a2e7-b61510eab603
+loquat,a5963793-fb52-4e34-a91c-34712d2dcb2a
+dried orange slice,176773f6-c992-443f-b598-39b8da0374c1
+soursop,a54dc7af-3eb9-4732-9198-39e0f91dae4e
+crabapple,bd3a54b4-cff2-4137-89c5-c6338473a6d5
+physalis,9624b6a9-65c2-48b4-a9df-bce1cb844d66
+lucuma,3b239056-b75e-45fe-a93d-0cb009318c4a
+luo han guo,a9d50dff-fbb9-4efd-91c5-a8e1b8474b45
+mamey,f15eb9a8-0ba4-4b15-9e17-d3541e6ae122
+kiwano,bd616962-2d5e-4994-bfd9-7a0415dbfaf1
+egg fruit,72cfd2d4-d0e5-4f16-8142-f470ed89504a
+berry mix,c3da97bb-ad66-4eb9-81c5-abef71a79316
+maraschino cherry,a097e646-6dcf-4003-a8e8-3d2198683bea
+dried cherry,84e13d21-9b2c-448b-ae90-d18482c67a04
+dried blueberries,c70feb6c-8fae-4d59-b0bb-873f1e1e7e63
+goji berry,288dc752-90ed-464e-a4e1-f8bbbd24bb50
+gooseberry,519c99b0-783d-4260-9d8a-81b3a54d1404
+lingonberry,b7437623-2381-4f8f-ab00-36b42b3be870
+acai berry,6b939d76-c25c-4098-8eb0-0d8ea2429d77
+canned sour cherry,7282d7d3-e957-411e-b3da-181471d5c1f5
+huckleberry,6fd233b0-d5dc-4c37-92a4-369930ab053b
+barberry,56e1bf19-76cb-4b1b-9505-a43cda4ce004
+saskatoon berry,70eba943-9d54-4426-afb0-e8ee971b62ba
+hawthorn,6599c36a-f20b-4d13-989a-51ec453bc12f
+rosehip,8ee44e5a-437f-4b1d-9f6a-bca3b98d7fca
+boysenberry,029b89d0-a6a9-44cd-ad44-112019a5784d
+cloudberry,b907f615-973a-4a2b-b80e-5c285ce1ce98
+loganberry,ab31c283-4ba1-44b9-8b70-6755dcb3c801
+blackcurrant leaves,4dfe7040-abdd-40b2-a99c-382aa03d7234
+haskap berry,349832b2-32a8-453c-ade1-4458d81c6a01
+dewberry,c874b292-4069-462d-89ea-52ea626fa0c8
+sloe berry,54e5641d-02d0-430f-856f-0ed1e29f1729
+pecan,4e257b95-51a2-4410-a255-9feb46ba646f
+sesame seed,3ecf775e-7c9c-4950-87ee-f4762acbe037
+cashew,0c6ad1ba-61e2-4313-a06d-7746c5b3bfcb
+pine nut,19efb2c0-7b1c-4b30-b184-bfcd298ad396
+pumpkin seeds,b482d710-2081-4774-a20b-cb9298db4b95
+poppy seed,c223957d-d002-4aac-a1f5-59dca5567e67
+macadamia,5b67a5d7-1ff3-4c48-aac0-2a59f32c159b
+chopped nuts,17320a60-c7a6-4052-955c-e5c4e96c64c2
+hemp hearts,306659d4-dc80-4228-8e9b-fe609ceb5f39
+nigella seeds,db055099-6251-44a3-9fbd-fb9965902a98
+mixed nuts,d8ec5365-daa0-476d-96f3-fb8091f70852
+mixed seeds,eb288d74-2763-4bba-8b43-be5472f79ef7
+white chia,b94e88c7-9edb-4d09-8359-acdf0329ea9a
+trail mix,e093b2de-c93e-4cfd-956f-711f659d1249
+lotus seeds,7f8de8f2-85f5-4833-bbc6-a406bc706abb
+basil seeds,e70d0e01-4097-459c-a4bd-d38467cbf44d
+candlenut,3adbfe5f-3d74-460b-b65b-91af63dc5b61
+tigernuts,507a0341-9ccf-434d-bea5-7dc7d21f7981
+palm seeds,1a997e7e-140e-4d9f-b900-f602aa699844
+keto trail mix,f397051d-cc2a-46f3-b64f-3db774004edb
+sharp cheddar,d27688ce-3459-4bbc-856f-198257bcdf3b
+monterey jack,19e58fd9-e3a1-4219-8838-d0d320e57a9e
+fresh mozzarella,2c7a30bd-e8b5-4539-9c1e-b06a9dc431ef
+swiss cheese,4fc8bbab-3cf3-41da-bb1f-42bb14148be4
+pecorino,7693f540-1ec1-4476-82da-fab36e9a8c22
+gruyere,a0b103cf-0329-43c4-93b2-4223f4b67c10
+american cheese,5621ba27-fe2f-46f2-994a-f4304b17ee77
+provolone,d4435fae-2de1-4571-aa0f-0c7d4749a2c3
+mexican cheese blend,9a28c927-9bd6-474d-8968-3e46094f1ea0
+pepper jack,0c5a9160-8ea0-48d7-b11d-5f9bb49a7539
+brie,a873eb15-b39d-45af-bf30-73fdd700d0a5
+paneer,ce952c4e-f81f-460c-8eec-97768a7320b4
+fontina,22741c30-4888-4627-a5e8-2ea56a52238d
+queso fresco,6c032c65-b1c5-4f44-9ef5-5200ec175474
+gouda,7eafed27-e4a9-4edc-876e-99756fca9fab
+cotija,ae57efcd-38ff-43e6-b1cf-e6ba43443d9d
+asiago,a681b1e9-892d-43a0-bd33-2907248b27cd
+halloumi,f954586f-39e2-4bf0-8b49-c2e66af93ca8
+chevre,78ed2fd4-7812-4f9b-b0fd-dfe36566893d
+manchego,2203c892-704d-4449-af8e-fe89c66a34fb
+italian cheese blend,adbacc31-e8b0-4354-964d-c57b8ff40caa
+smoked gouda,f594de87-40dd-4b39-8daf-9a39b36c7e84
+neufchatel,4e1799ee-2c1e-477e-b494-a8e67272ae06
+burrata,9f88838c-ef1d-4887-a306-aacbb5c4d95f
+havarti,b47b4b89-1dc7-4cdf-8410-d461d80b3d98
+herb cream cheese,aae9dd19-7d00-4fcf-b4a8-59885e777754
+colby,fe951c0b-dce3-45bf-9b39-fdc957d11d8d
+muenster,17c55b26-573d-4f9b-83b5-6a104dce81aa
+camembert,db09c537-1a32-438d-98f7-d0a16b632287
+soft cheese,17e2b255-8314-40af-8dce-893352cf3220
+smoked mozzarella,9cc749e7-9a4f-4efb-86cb-ca972dba516d
+aged cheddar,2e595932-7fc2-48f4-8055-95acf2e71680
+stilton,2a722dd1-4c42-4a88-977c-247fb1d9625c
+smoked cheddar,3af911cd-4421-4fbd-bb92-230b7aca029a
+raclette,4c2a46f9-3273-46db-9fb1-12d628501795
+colby-jack cheese,6c849832-31db-47b5-a2ed-eb8b267d1c64
+taleggio,50fbbdde-3ff5-4087-9991-368a81741302
+jarlsberg cheese,fc3e9200-ec6e-4fc5-acc7-50fc045f4edf
+oaxaca,65c9f5c9-48f2-4ca1-978d-6b9c56c4a6a2
+labneh,ddeaa1ee-5eb8-4f75-b514-70ce24ff9596
+asadero,022bf336-72d3-47f2-8cc0-03a55b963719
+leicester,b640d020-b517-4744-8dfc-b8cd59182879
+marble cheese,b5cfb972-142c-44bc-b207-93f9fb082022
+laughing cow,5628f3fd-496e-4f35-b1a1-87ea35ce866a
+graviera,632d3e6f-e078-43a8-81a6-08655b2df583
+cheddar cheese powder,d1f34041-d6d0-4a39-b8a3-e24e8cb7ee6e
+mizithra,f4d34bad-2e70-434e-8af8-50d98e1fe25d
+lancashire,a1091496-caa7-47a4-bc4b-88ec4714cd25
+kasseri,7186b85b-a5a8-4d89-9bc4-e7aec825b82f
+kefalotyri,c085e78b-1ff4-4a6c-8d60-7c6ecd91bd35
+babybel,d9e64660-752a-4911-8101-5569fa603feb
+longhorn,c2bb77fc-f8a1-472a-ba9c-0cbea685e186
+panela cheese,05d4d0c0-b01d-4233-a0d6-724ca11d16fe
+wensleydale,8b312885-30e3-4596-85de-dd5660da053b
+scamorza,2e02a963-b5b5-4959-87a7-367e2f2600d5
+amul cheese,710a3d73-34e8-4807-beee-7041ff187f2d
+cambozola,eea444f1-0490-41b5-ac8c-226ecc97cc23
+cheshire cheese,b3a1af31-5ce6-4cca-b301-89b0e3e70d44
+reblochon,708e830a-9e59-4ebf-b85e-1526e66ff6e9
+anthotyro,6649d9af-276a-4176-b394-97d586b9980c
+brick cheese,eefeae3a-f1fb-43b4-a434-d94537d0c6c8
+kashkaval,ef2b8351-27b1-450b-98e7-4620e1ed7174
+sheep cheese,656aa332-a10c-458b-8d4e-899032ede8dc
+manouri,f84d1845-afba-4db3-9269-aab5e27fb03a
+robiola,9d0b07f8-d337-42be-85b9-bee5bc334f13
+mimolette,85b6e161-f17f-49b3-9806-14b53131e50f
+queso quesadilla,c2dd123b-f61c-49bd-a1be-84d35a67f098
+caciocavallo,67601e45-8e54-4022-a0c5-01170c017465
+farmer's cheese,679a89b1-9d72-4829-84f1-a1642a748ab8
+requeijão,4fbb4ffd-19f0-4627-bd71-7cf38e879384
+brown cheese,d7c914ed-bb1c-458e-a9b0-e71fcd35e339
+gloucester,44a1c2bf-0752-462e-adff-79e42809d013
+port salut,b7554865-b360-4081-abcf-7d98311e763d
+derby cheese,4f7cb5b1-7e48-482a-8547-62f73eff0adb
+fontal,be3fea61-8e5a-44c0-aa69-25ba6035ed56
+truffle cheese,bae2cea5-80f4-4504-9c6d-51b308e9607c
+epoisses cheese,b394b384-af24-4bd4-87eb-f76ce82fa693
+maasdam,077825d2-956d-4050-9946-032843b3cbe2
+petit-suisse,385c666b-e026-4096-90c8-5ef346c06f20
+sbrinz,52444cd5-97f4-4322-a799-995554b21131
+teleme,95acc0d4-7fbc-4063-be8e-153b82149180
+tilsit,bda0cd7b-5fb5-4611-b960-e80e346c2105
+queso anejo,972f327a-9021-4467-b8de-cc2f053d6506
+shanklish,4b74e32e-dda4-4aa4-abfd-2e29cbb58a1b
+heavy cream,654a6052-dad0-4521-92f2-61106ef73345
+greek yogurt,f844b3bd-feaf-4758-ba74-337be25f8b08
+half and half,e4b7c238-f67f-474e-ab4a-ba6af36b89e1
+ghee,bac2d6c8-9604-4e7d-8706-087ab4efdc1f
+evaporated milk,caafd981-10cc-4bb9-b3d0-88000186619c
+creme fraiche,6d5da09e-7452-4ef5-b345-2821c77ddc3e
+frosting,e67436b0-109f-4512-a9b0-c8383a5e5e7a
+curd,71b090a2-8531-4869-b74c-bdc7fb38a7ba
+thickened cream,78381d55-5583-47dd-a078-a854049b5055
+custard,c930d233-0802-47a8-823d-d5d6b9d20486
+dulce de leche,edfd6961-3a19-4990-8bca-0617de00605c
+chocolate milk,857542c8-9829-4333-a720-a61e18c2015c
+sherbet,c1390ea2-77da-4006-a5d6-215c6a19bb1d
+quail egg,05e98b99-0ecd-4f6a-b09b-b3ab5e7171cb
+buttermilk powder,bd3475de-709c-463f-b615-5954efccbd82
+frozen yogurt,6997dadf-cf38-4f65-9aaf-35537a620c01
+clotted cream,6f19a2a7-714b-4b3f-abc3-d886bcca3dd2
+coffee creamer,863edabd-af31-480b-8a5b-5c7663b36681
+sour milk,f025ebbf-4386-4616-b450-66b12246be88
+cheese curd,0a738bd4-e932-4f3a-a090-46c3985ad60f
+ganache,87964f33-5b02-427b-87a9-9281091e0f1b
+duck egg,c45cf93c-6a51-495d-8ffb-fe3a892c9b2e
+cajeta,aaba74e5-5093-4a02-b971-6a97431b6795
+salted egg,08cb8622-b82d-4517-82d3-73f022a0ada0
+skyr,d104bed3-fc64-4841-9cbb-17477d1e6d75
+malai,ee8a0a93-7fc0-4e90-b747-ac073878956a
+chantilly,eace0f72-f72b-480b-ad86-c6d349ed6d50
+rainbow sherbet,06c7ad6a-9b5d-417e-854d-b19d9b9296af
+century egg,c4ae640f-17d4-44a4-a59a-ff26f3190f60
+yogurt starter,ca941f8b-5317-4da8-90ac-0098cca129e8
+orange curd,f3120e05-b459-42a1-ae48-811bd7d6c46d
+goat butter,687e3834-7a5c-4441-afa9-c8dcd91ef534
+dahi,8f60df21-dfc1-4184-a334-6389f085accd
+goat yogurt,d16109cc-de7c-4604-82f2-c8fd6f75780a
+bulgarian yogurt,18d786b7-1f54-4bb3-a3fc-16cf188b3d7d
+kashk,d0190fa7-4b2f-4165-a38a-36884656c273
+liquid rennet,4368487c-63e5-43ce-9c2a-82ae617fc016
+cuajada,38f4679d-98e9-49ff-84f9-522e12c7fcd4
+ayran,38052d17-a902-4400-9b77-2f3a7365e2c0
+strawberry milk,21bf3e13-ccf1-452a-b184-cee5fb4bf065
+yogurt drink,927bebe5-5f56-4771-a4e8-96ca81ad13a2
+sheep milk,9d61ad78-f14f-42bc-9144-458f0bc9b9f1
+pickled egg,a303f1dd-0a87-4c7f-b427-4db471ab7dff
+goose egg,6292d4ec-73e3-4f11-81f5-4e843bbc4d96
+sheep yogurt,de6c82d4-ce84-4794-b5b6-6b827691e28a
+almond butter,05935d53-a41e-44b3-b35a-fd97cfec02e9
+coconut cream,a1032137-9e97-4da3-9207-12c5fd9d0013
+non-dairy milk,69f2d5e8-44c2-41bd-aaa3-45a060011e89
+vegan butter,6215fb8f-5bce-4fa2-b9e5-b85ef30488b4
+extra firm tofu,ec576867-4a43-4764-9d74-d6d9b151168b
+coconut aminos,cbf202f9-16f3-40f9-b694-3683de8981ed
+silken tofu,5fc52ec5-6361-43f3-af4c-6031e369906c
+kala namak salt,84d09782-a365-447b-9c01-b6cbbd62509f
+coconut butter,9f42b6bb-4003-465e-84ee-3c9525373203
+egg replacer,dce701f5-c6eb-4e41-b78a-d0be41f4bfb8
+vegan mayonnaise,312628ea-98a3-4d30-95c8-06fc8da83ee1
+vegan cheese,6f6f5285-94ec-43ab-b06c-7127e78a2475
+cashew butter,3a40d513-abcc-42c4-8f84-58f92c389a12
+tempeh,2499febc-f133-4b90-ac26-9eef4f784303
+coconut yogurt,d39089a6-db2d-4eb6-b1f7-368a2ec29991
+vegan cream cheese,3fa8eff2-4b3e-45ba-80aa-f45641be479c
+seed butter,03ae4001-2367-4070-9445-c3153e020655
+non-dairy yogurt,a0f9f57f-9c1d-4b1c-a9de-109cf1d4d220
+oat milk,1f0f9bad-3991-4658-b5ac-95b538f7bdb8
+rice milk,e910d0aa-0014-4713-b155-1711016ab0f0
+cashew milk,b8154500-5caf-449f-9220-1493d2f57d28
+nut butter,935b677b-21ce-430e-bf47-7bcccd2b69f2
+vegan sour cream,36aeaae0-f1f7-47c2-a4c5-edc7353dbf88
+textured vegetable protein,aa2c74af-734d-4081-b881-d59faa38867d
+soy yogurt,1f4cad9b-3d0d-4549-a8d1-1c1176025e6a
+vegan mozzarella,04149fee-262c-4be9-af27-0214d66ed649
+coconut whipped cream,9f283d6e-d8de-4ee9-bc36-ade5aac1ccca
+non-dairy creamer,3edeb9e8-eb6d-41ad-8750-40bb0ae01e46
+coconut powder,ebc577a4-54bf-48e1-ad05-cf01ed491635
+vegan sausage,31cdff2b-d4e1-4ed8-b0f5-c77825402361
+non-dairy cream,c49aa71f-4588-4ea0-8a74-39fb465328ed
+smoked tofu,5ffec94f-11c2-43ab-a496-08015be575e2
+seitan,e3e51de7-f4d0-4a75-8f52-1ba007b29f84
+soy cream,01d51306-9993-4ec5-8cf2-a437627f505c
+non-dairy whipped topping,6c9012e5-5cc7-4c0c-9546-44d669d887d5
+nut milk,f9e05544-34a4-448d-a760-14a13a18f1f3
+condensed coconut milk,bf2ec28d-f478-4432-9ee4-1ceb83753b64
+vegan burger patty,bf4fe92d-e5e4-44db-a750-3eab165a01bb
+pulled oats,3893f7fa-8b35-4810-85a6-cd43859a714d
+soy curls,df4187b6-30ef-4693-9c86-fb5e6d770f47
+vegan pesto,a9223282-2d07-4082-99c3-eb8815583a0f
+vegan ground beef,41d44ec6-f9a5-4762-9da3-ee1e13bf7329
+hazelnut butter,fa1da5d0-ab28-4549-b156-93d9e5c34ddd
+soy chorizo,031bd1f1-598a-4077-91c9-48300c0bd0e3
+coconut paste,a90e7771-932f-4f35-b364-f7132692859a
+vegan beef,db51cedf-cab2-40fb-b5d4-d9f64a316a40
+vegan bacon,8996d1ed-30ef-45b4-9c5f-c1418f41acd3
+hemp milk,4bd40c74-0a46-44bb-882b-1314bee25b2f
+vegetable suet,f7728eaa-df55-4ba8-8241-9e0302e08e38
+vegan chicken,6dad5573-09c3-4543-960f-251ac99851c4
+almond-coconut milk,d8220ebd-8aa0-4504-951f-34d1196f1ee8
+banana blossom,39d97cee-8d46-47f7-8459-a535dc48501b
+vegetarian hot dog,2268215b-874f-4fee-8878-7d52cafdced8
+hazelnut milk,39e6f78c-06cc-4d69-82c1-76f51b7c3e99
+almond-milk yogurt,7ec771cf-ed8d-4089-b15a-30581f3da241
+soy milk powder,da628115-c772-419c-a4d8-ae2d8438a442
+non-dairy cream cheese,97fccc07-6b89-4b21-be36-b89c4221e30f
+vegan meatballs,194a18e8-2fc3-4ae1-9cd9-e7000c0a4d9a
+dairy-free ice-cream,23744e2a-d268-4341-b442-754f11501923
+vegan gravy,b6f90cb0-b232-4000-ae1e-f6aec1513d34
+falafel mix,9503a1bb-ae4a-45ad-a4e6-f14f668a94b4
+cashew cheese sauce,290c5e4d-df6e-4d92-b279-70fe95ff570c
+ready-made falafel,8747cfbf-6c88-4a66-a475-5519e0d99189
+flax milk,47147c10-bd27-4377-b04a-979a4526b293
+egg tofu,3d7cf0d3-d40e-4c46-9f51-5b9dafb537d3
+hazelnut creamer,47e583b1-74dc-4e94-87bc-10920115d70a
+quorn,0744c2e6-3b9f-4309-a967-74d9b1d30858
+tofurky,202e2c96-47d3-454b-8497-78235d463f5e
+walnut taco meat,4cc7cc6d-dbb0-491c-b2d0-e5a6613611c5
+macadamia butter,2c3bb1eb-320b-4bcb-b8d6-7898f9f53982
+cashew cream cheese,0411902e-fe08-432b-b2de-74ecd91695d9
+okara,17fd5c53-9cbe-46f3-a44f-b5e7adea8976
+vegan nutella,13cabc39-468e-46c4-93f4-61c1a038a8b0
+macadamia milk,f9dab618-22cd-4d53-ba45-121d82193f07
+vegan yogurt starter,e5074fda-f845-4572-bb55-2755981d5874
+banana milk,1dcebe5d-59d4-4846-8d0c-d62d373f8b53
+latik,bf42b489-aa8b-4fb4-8d30-ee87ac9a5667
+vegan starter culture,24580ccd-d6a0-4898-90fa-732ff306f644
+walnut milk,b0aceaa5-eae3-4e28-b199-0f62f3aca8de
+vegan roe,b818d9e2-fffc-4a98-867d-829af0d8fe41
+ground beef,619be106-8d1b-4b57-a858-022a7faa0037
+beef steak,a0e779bc-fff9-41fe-927e-5b1a2b927a0f
+sausage,559e36bc-eff0-4087-895f-286c9811efff
+prosciutto,a612adbe-5a3b-4396-a30a-e81fe64ae315
+beef roast,37677593-260b-4124-a1d6-33820e6cf788
+ground pork,dfeb5780-12b1-4684-93a4-316d65eb7801
+italian sausage,676b3339-4f5d-4022-8622-6e4f3cda6784
+pork chops,af3fe0da-2852-4e90-aff7-dc5eeb62811c
+chorizo,5093ed05-94ee-4748-b590-23b712dd9687
+beef stew meat,5fdeb39e-b60d-42ef-a030-c237b42dd570
+pepperoni,1be0cc0d-ee96-467a-a860-e433451c106a
+pancetta,1ed14603-ee01-4ec5-8623-8859518b1ff2
+pork ribs,77da0b9d-78db-4fa3-9c60-a3a1564700dc
+ground lamb,29af7c87-0413-4f68-81bf-6cf4b6441473
+hot dog,a2a9fc49-7eb4-4f2f-b430-edd919dc9d2d
+beef sirloin,c90de747-65d3-47f1-bc22-c3def2a80e66
+corned beef,40f4e9a2-f87c-458c-8cef-0568a7bc7a1f
+breakfast sausage,b85de334-04c5-485a-8ce3-3efcf477c178
+brisket,5b1383b8-6391-4ece-8d1f-b3881314e641
+beef short ribs,75b9abd3-606d-46c6-87c3-b453c616334f
+deli ham,e34e03a2-435b-4cdb-9ebc-d71a5fe069e3
+leg of lamb,e7841c80-209e-4d93-8a5d-fc3af5a00188
+kielbasa,54928593-9260-4f04-8ef4-ddb54306abea
+sweet italian sausage,3684c0e5-0902-4ee0-a84d-1f01cd598aa2
+andouille,15ed73b0-9b77-4702-8005-0acb9e881342
+boneless lamb,98a1ee72-d5a3-42bb-87b4-f67734c67a9e
+ground pork sausage,e4e32023-b20d-481b-82d5-59eb38147f8b
+roast beef,5579c1be-3c54-4083-b294-97df5c1170e5
+bacon bits,2703dc30-3dee-4207-95f6-775fb59bebd4
+ground sausage,7d60dffe-38a6-45b6-a75f-fd670beac47e
+beef ribs,deb151c1-ee95-48e3-9fd4-518a6e4758cd
+hot italian sausage,2a1df61a-72ba-4b27-9d81-c57c99e5ce7b
+pork roast,38b62eb8-be06-4da8-99b0-64ff88496c63
+lamb shoulder,96fa277f-af27-4f9b-be7f-ea7e86c87aaa
+pork spare ribs,583c4927-3cf1-4994-8adb-bab67229e31d
+veal steak,6288ba72-02ff-4bc5-8a67-4eb6ce16f5ee
+lamb chops,14534f66-1606-4224-976e-86705d4d95bd
+pork butt,43f687d7-e17f-4d1b-aaed-5b700b021ace
+venison,80ddcd2b-9341-4b20-af84-04980a5608b0
+bone-in ham,0b70b69a-f97a-4584-9124-74f3e3028b6d
+lamb shank,db0fc3ea-236a-4a35-80e3-9f0ad6a0c72a
+canadian bacon,e6a9f35b-a329-42ac-8669-407400e64972
+mutton,1356a502-dc3b-4f9d-a24e-ba0f675589cc
+ham steak,c38e1056-e6ab-478c-968b-652cd994c3cc
+bratwurst,6e2846ba-0eff-4f43-a86c-d7c46b2bca33
+pulled pork,7fa334e3-dbdc-477d-8c38-10e53af84e91
+ham hock,f8ba087f-01ec-429d-a461-5fe625b0bd47
+soup bones,88ac58c6-7670-46e4-9600-d982b0276a7c
+mixed ground meat,044dbbc2-66e6-4442-af42-86ff36e136eb
+pork cutlets,2afb8cb2-7e1b-4fc8-ae1a-17c7813827ea
+veal cutlet,7aaa69b8-5f85-49a8-9295-3b2f2824a029
+lamb loin,b3760cb6-ce78-4c69-8d5b-78b0ab4d4e99
+rack of lamb,10196182-6dfb-4b9b-ab4a-6567f17cf8a7
+spam,eb6de13a-bce5-4ec1-9288-b5c731ab3ace
+black forest ham,409a2d03-72cc-4f66-8a0e-98a25b23b69f
+smoked ham hock,d9dbbd14-57f7-4a0c-829a-6c7d7f9ca8c0
+beef liver,3224d2a4-9dc8-44c3-ab6c-26ff8a826e2e
+oxtail,4ae545e6-a5d7-4f4d-b58a-5976f7d4df81
+serrano ham,c336112e-39db-4234-b135-f82aee22d5fa
+pastrami,abb38e22-4d4b-4848-af6c-e20c4af27287
+beef sausage,395809ed-f12d-4ee2-a455-9a6aa202dd3f
+hard salami,a65fe9ba-8b74-40c8-b1f5-8989597572ee
+back bacon,30ae82fd-f44f-4c39-a7e6-4669038f12d1
+canned pork,1ec81f04-3493-4dbb-90b8-6621615266e7
+salt pork,ed84f4b6-8052-487d-854c-c56a59def809
+veal shank,7aa11cb6-e543-4fcd-9626-726558fbd707
+ground venison,0cc28f46-1aba-4ac2-b7b3-5b55e3fdf749
+lap cheong,ce9c9679-e570-40ca-9c9a-f3b9bf0ebde4
+beef shank,ff36591b-1567-443f-b442-d9acbe09e5ea
+cocktail sausage,e326d9d5-972b-4a66-86cf-87ce139d68e8
+blood sausage,6fc11a01-7602-4301-9e2e-67736b742e02
+dried beef,c8411378-0cd5-461c-b4a9-3f0cd73a4c04
+gammon joint,25d15e4b-d004-44de-90f9-d8c7683ed890
+country ham,75957b6d-130a-477e-92c4-a6502b967a71
+ground bison,18191ec9-1a18-409b-b5cb-229c3b4661de
+mortadella,d808868b-2be1-4971-b134-9bad2853abe5
+bologna,15b02741-37da-459c-b92a-2b2ed2dad34b
+lamb neck,49218bdc-7073-48d6-84e0-c2e2099a0df4
+sausage patty,820d44ec-1823-4c58-94ce-f6de2a448908
+smoked pork chop,a7a998ff-315f-46bf-babf-f605620559c8
+veal roast,5629c28b-2816-492f-a1a8-cd2e13682e37
+beef suet,edd32f74-6492-48ab-8db4-9c0cf9684bff
+burger patty,3b8c408a-3021-4619-ac18-a99001854221
+beef shoulder,5567f2e0-a475-4696-a54d-db48809f48f6
+veal chops,3cfd6794-dc5e-4740-8fed-320e1608f905
+beef tongue,17a07072-a78d-4620-949a-b4bd02d3c793
+pork back ribs,10d235ca-5b95-4034-8317-3fb4dbab6351
+wild boar,4b25afa2-26c0-4556-9d5f-d7013c24ce1e
+guanciale,e75bdf1d-cc7b-46e3-af43-36f47a86ae0a
+vienna sausage,e94e8ac4-d671-4954-a271-aeb84ded06f4
+chicken thighs,ca7397a3-6532-4336-8e63-6372d4a46503
+cooked chicken,dd10fd97-4e51-4749-80af-fc860c1eebb4
+ground turkey,cb30080b-4d9d-403e-81ef-002a400c2565
+whole chicken,362b5a18-753a-4c60-8b8f-2a0076f10e08
+chicken leg,4fc17dfe-1ea6-4a41-9262-00992c036429
+chicken wings,41b22aa3-a18d-441b-b4f4-775dc93cb691
+ground chicken,a5551fb2-5f90-480b-9dd5-3723f7c5c78a
+rotisserie chicken,5260b20e-289c-4791-94ff-1d8871c2f438
+chicken tenders,dbed4cd3-49e2-4cc6-a2d2-78956170858b
+turkey sausage,4d931aed-767a-498c-82bb-6d7d689b7e0b
+chicken sausage,8b342c2f-c75b-4d0a-a1b7-95a77ea11e82
+turkey bacon,228b43aa-da06-4173-9216-ef740134d9a7
+duck breast,ea217d14-af3f-49cf-a74a-465d8e77dde9
+boneless chicken,1d468d78-15b6-404d-afef-668df95575b6
+cornish hen,7f906398-5ee6-4364-a1e6-44430522bd28
+deli turkey,258cad1e-a9f7-4529-a767-4a46f63859c1
+chicken livers,be96e965-d0e5-46fc-a284-edd84d5e3f4d
+whole turkey,d978bc24-bd10-4e79-8f10-9e8d2bf20135
+smoked turkey,422279ff-6f7d-486c-9176-9f919db219a7
+chicken quarters,e11ce03d-24f9-4558-aa48-5e2fcfe123dd
+goose,d0cc335b-86f2-46e6-8ea5-6040a8498368
+smoked turkey sausage,abdbc7da-77d5-4856-a11c-88af86df87f1
+smoked chicken,bc160629-67b9-47f2-b490-1141b14aacdf
+pheasant,5430af46-28d8-4517-837f-2ecc115c9c1a
+chicken bones,abfee95f-afdf-4b59-abc7-d0fef49e2f68
+turkey pepperoni,d51deb27-1eb7-4583-9d0d-0441cc3dd0a7
+turkey ham,c98043d0-7078-4a35-ada8-62472aa39425
+turkey leg,86a73ac3-cdab-4ddf-8e8f-a73ccb9a7df0
+turkey thigh,317b631a-1bfc-4ece-8025-b6d91d2c8310
+chicken giblets,20482acd-0624-4bca-aa98-2df6ef0beb1a
+foie gras,59de1c41-6646-4496-a373-63b883193886
+turkey neck,3a100902-45ad-4d36-a335-9aba5cd6234a
+turkey wing,37714f35-6a50-46ed-b0a9-29b81fda3e5b
+chicken nuggets,a70f3eb5-c76f-41f0-9f83-e8cc94174f40
+turkey burger,6f01583f-0ecf-4b02-9d8c-b0f2a62a9010
+chicken gizzards,9e1ede13-659d-4474-b3db-4b947154898f
+smoked turkey leg,a6fa9405-abaa-4238-9f1e-a66a779a7f82
+popcorn chicken,2eeb7a94-24b1-436c-b8b5-12acaab7dbc0
+crispy chicken strips,b4bc1419-f780-417e-b7a9-cb5ce0560440
+ostrich,c9cfcaaa-a3e0-45ca-b89d-de128b286475
+chicken feet,e5d75e08-0136-4374-ae3d-c851eaff6a74
+deli chicken,8df72671-4078-4eb1-acde-a2cc4c7a11e0
+pigeon,c2bbba46-93e6-497f-b37f-ebdebdd52cdc
+turkey kielbasa,5984e9a9-e597-419f-bd25-f11083cebb80
+wild game bird,5f3b51d0-7554-4004-8730-d4f6c547e39a
+duck confit,be28e951-1ceb-4bda-883f-2f7eaf822be2
+smoked duck breast,2db7a605-8b11-4ab5-a160-6f4fd1a9f327
+smoked chicken sausage,826a3cba-fc84-4804-9f3e-fd81b9f5ad51
+ground turkey sausage,998b842f-75e5-4d7e-9221-b84e8a8b427f
+chicken meatballs,eed7ccf5-1cda-4102-b73c-c284dd019234
+turkey liver,07bbc409-aa97-4e16-9f92-fa2f1524c19f
+guinea fowl,843bce28-1937-4102-aa42-10bb4b49ffce
+smoked turkey wing,eb740104-52f4-4a2a-aa0b-d30982a339d0
+chicken schnitzel,8bcb0665-4ef7-4d32-bf92-158eae4e8a0c
+grouse,07d1aa8d-1915-429d-bdd1-fe40c35611a6
+goose liver,cbc36aa6-9f42-4e38-9efb-cc1c81ee9446
+chicken roast,9596e136-6e40-4e9e-a8c3-697d2f58d5a0
+capon,48c02c69-346e-4eb4-84de-697195115c19
+chicken ham,51a0c76c-12e9-4d22-ac00-6e560cc6bfec
+chicken kebab,7702ab65-4202-450c-88aa-9a66055df94b
+duck neck,0570a998-f08d-48c6-8ef8-fd8f42506b6d
+chicken frames,367899cf-f25d-4f68-a9f0-03fd517f1a08
+chicken ribs,bde358ff-4d04-41ee-a657-162ecbf3378f
+chicken gyros,0c31396c-99ca-4d07-a3a0-25c8a2dc6bd4
+turkey meatballs,2ca483a1-8c73-4176-b002-79cba133041f
+chicken patty,6eac653a-15d9-4237-9210-afe09b5d1a3d
+canned tuna,d7ab5a01-ecac-4226-acff-6b0244a3ba72
+canned anchovy,ad7dc561-de92-4a1f-9341-a63f27391697
+smoked salmon,5b8cec85-b740-418e-8fd6-56c11e3b4673
+tilapia,483b638a-87b4-448c-be00-c2b701b776cf
+tuna steak,9abc84cb-faea-4744-add8-a13fb0bfef5b
+whitefish,23cd8f0a-8f91-42b2-b9a9-81cee56dd3ec
+halibut,9e048d00-34b9-4fb9-a083-24e502c258c3
+trout,d5b695b3-0dcc-424b-be2e-e53258892ec1
+red snapper,b97b81b6-8b06-452a-ad9b-852c8e63587e
+sea bass,29eba2fa-af0e-4b78-aaaa-1613fb54101b
+fish fillets,cb20472b-1027-43ae-b597-7e8ea979a350
+canned salmon,ac1acd43-41df-48f6-ad79-02d42d213cf4
+catfish,48a45fa2-426d-4a86-a7df-4df6509c6d1e
+swordfish,1b9cb229-f1b1-48d0-b9f5-ae29fe3d47c0
+sole,75b4a1fb-d38c-4a59-a198-3eae10bb4e4d
+mahi mahi,219ff373-a77b-4315-a5bc-60540e1df99f
+smoked trout,d107481d-22b2-4e20-a7ac-02c0360aa10a
+smoked haddock,77d7f62a-fb18-48b3-bacd-93a847bdad31
+caviar,b30884e2-315e-4089-9bf4-76632c19917a
+monkfish,c2aa5c07-45c0-4fee-8560-d2b850b6a2c1
+salt cod,3a92f911-c8e0-41fb-938a-6893c1747f44
+pollock,c3a98c8b-ad1b-48b4-9a1b-19b52e30aa38
+smoked mackerel,e43673d6-6525-4379-98ad-f3969ca8fc6d
+sea bream,2b0aec7e-4968-4db1-b51c-87ddd5ef9f2e
+rainbow trout,8b4c6a67-1fe1-40d5-a434-b124c2a8008e
+cuttlefish,4c7099c3-cd34-47a8-812f-dbb8db584389
+grouper,12fbbc74-5adc-421b-82fd-f7b997fcffe9
+carp,a53070f1-5cfe-44ae-9f49-4d002d2b16ef
+salmon roe,873535f2-e096-4a9c-8084-d07128e273d7
+barramundi,40f6bf93-6995-4a77-8c54-37fd68debb27
+roe,49b9a09b-77d7-4fa4-919c-e8327302ffee
+kingfish,498fba92-49fb-4b3c-bb27-c8ce456059a1
+black cod,99069c79-90e1-4ac8-8984-ba73e80b3892
+dried anchovy,d662eb90-53ab-41c0-b20d-6b626460cea1
+turbot,c4bf9fd6-87d0-434d-8224-2b2d79c0c6ed
+orange roughy,1e78aa61-c53f-4675-aa45-1f6243a74585
+rockfish,9d64bcca-5099-4c07-bdec-ea9273f0ce4a
+eel,2263e28d-5062-4028-8901-0dfbbe4c0fe7
+arctic char,5a878488-8a89-4e23-8004-269e70e849ab
+branzino,5a26ec93-bfbe-4c27-be9f-22fca07a2aa9
+canned sardines,764a0b1d-f6b8-4b49-a040-d0a969474285
+bangus,1f102153-a24f-4596-aff8-572c9946946d
+lemon sole,f978aeb0-fa48-41c0-90e8-4798e9d20148
+john dory,701b25ab-a6c8-4cf1-aae8-49851d5fc49b
+fresh anchovy,d7f334f0-051c-4314-bdae-1815478a8a7e
+yellowtail,92eb3e50-2437-4883-ad27-6fcb8961ee4f
+pickled herring,efd31cb9-26d5-459d-a3e7-f17cbbbdd3e3
+pike,c9df534e-4cca-4ff3-afec-400184dab74b
+fresh mackerel,922be0e5-913f-4dfc-ab78-4540d9d6434c
+swai fish,abbdeb3b-1b04-49c6-b93c-38bb10cfd320
+walleye,dd0af4d0-422d-4e51-9b52-c7af87d9cd04
+fish sticks,82534d70-19c4-4c61-8e38-998854bf888c
+smoked eel,0a71e521-25b3-47f6-a948-fc547c74192c
+bluefish,ae805074-6b67-409e-9dc4-cea6d929de88
+gurnard,7cbb4a90-b971-4c6e-8135-03304180da34
+basa fish,257f5ee7-dd92-495b-8724-ddf46788e667
+flathead,929f56c1-77da-47db-9118-9b01d839080d
+red mullet,79197bd8-eb4e-4104-93f8-4cd0d5cdc662
+rohu fish,e44cdec9-0765-43ec-820c-140411bd2a99
+sturgeon,54346764-052e-49d8-84ea-b5cb50fa9781
+fish balls,1140a7a7-69c5-4e77-bf99-1b3ab0659ef4
+fish heads,20ba215c-975f-4bfb-8b1f-ddd17a9d508d
+pompano,50b72e89-d849-41b1-a1cf-c3b8672d44e3
+plaice,b6e4bf76-266f-4d41-9b78-6ea5f492b6cc
+smoked herring,8b0a76a3-22d1-49c5-92b1-1153a267763b
+salmon burger meat,56c7e93c-8eba-4726-8c1c-6f3d4647f78e
+shark meat,0b9cf31d-fa5b-4177-b47b-5c166c0cc350
+smoked fish,dc7f5297-be74-4f27-bd1c-9610e425e8d7
+whiting,5277d2e8-e8a9-4d43-a339-cb2cf0f86ab1
+salmon trout,28c4e803-03d7-4583-9d41-992f25ff1a6e
+fish cake,f22dce08-c132-4a65-b214-397d349b6d3b
+garoupa,ef738409-76e5-464c-9a53-ae4afd312afc
+gilt-head bream,c99b7db7-8107-4b14-b5e0-ece912700f39
+salt herring,208a549a-adfb-45d8-824a-f38581535663
+pangasius,b3ffd68c-7409-40da-9b96-0c33aa1e61f4
+sardines in tomato sauce,4d56716a-6655-46ce-a80e-b98775607b74
+soused herring,fd779805-9182-4340-911c-9fee59985e7d
+tinapa,d3f939de-325a-401a-a866-b68bb9e47e66
+zander,4750cd98-9a04-4012-b5b2-9641ca66997c
+amberjack,c5e153cd-a7c4-4132-846b-c1779aad55a3
+bombay duck,727212b2-01d6-4116-994c-d69d58a777cf
+bottarga,77fba013-7852-4d67-8075-1cd0ea8ee868
+marlin,f662fc39-f47b-4e9a-b9de-405ab05d14d9
+shirasu,b1af1743-d67e-44eb-91c9-8fbe24f97de0
+threadfin,1d793217-f691-4eb3-a80d-89d0cc4d8534
+tiny fish,28285c2d-1759-4b0d-9832-95ba738c6be3
+fish pie mix,9a13c090-5342-46a5-9658-0c940730356a
+clam,7ec9a301-92ec-429f-9cd6-e0000ec88af0
+mussel,6385e7a4-7044-47cc-a2af-e2b33ed953a5
+nori,d34909fd-922c-499c-80bc-a6eceee2182a
+oyster,a77b0ad9-4a1a-460c-8c6f-131e5fea6f46
+lobster tail,eabb27f5-d6fd-47d1-a335-d40ca7b5ded6
+crawfish,954e55c6-ad24-45fd-b144-8ce3dcd70f5d
+octopus,c7e50ea9-405b-4c5d-93ae-3d6f0685d8ae
+dried shrimp,09a1becf-9bb8-4e4d-b8c9-32695aad6a4f
+kombu,ec3921d0-f2a9-43aa-a497-fe23f91a60ef
+bay scallop,c906cea2-9075-41a3-a98e-aa5fe6cc76cb
+canned clam,d6174b21-ce18-42b1-b5ef-d8b4a8bc26f4
+scampi,6f4c4c5d-e5bc-4bb5-982f-63519ad42661
+mixed seafood,ed38d35e-c6d6-40b8-9049-6a1b87b6731d
+baby squid,5882e680-a674-4431-ad43-7afe2c6177bf
+squid ink,b6ac957c-16a6-4878-a00e-944efae58789
+roasted seaweed,4b630498-a0fa-4cf6-919a-571fa93020c2
+dulse seaweed,39ea3cf7-58b5-4e38-a241-3bbd745725c3
+smoked oyster,43901471-8c49-4bee-bd15-6b22446a7f5c
+kelp,0467a684-d32d-4683-9c48-d2ae12f1464d
+yaki-nori,cbd5edae-8d88-4e6f-9f23-eebad9b753b2
+kizami nori,32f7690a-1e24-4c1f-bd87-1c10883151a8
+salted shrimp,44c679b9-ae59-49f3-99e7-0e7e621ea427
+hijiki,08e5c341-5948-48df-8879-d8307b00dea9
+conch,861587e6-2016-4833-88de-b6cdf3f08ce5
+arame,5483d2a3-e363-4eea-a5b0-b7d379f4b811
+sea urchin,6c005298-dad1-4dd8-9196-c1a0787290ed
+seaweed salad,6090248d-6208-400d-96e9-0a573a1646a8
+abalone,e8dccc33-739a-4f25-aa58-65902a033f03
+dulse,a356ff5b-53f1-4f90-acd6-8ac8165b2fbe
+aonori,b7d0800c-99f6-47bc-ad2e-9d9025a02d98
+sea snails,2a686c4b-3521-43fc-9389-f5e5b955d27d
+smoked mussel,627ea30b-5f68-4579-9067-8267ea183636
+sea lettuce,f188771e-ef18-4230-b5cb-755358a33459
+prepared crab cake,bd829c9a-c82f-4be5-8dc9-66da7a7ee1c8
+ogo seaweed,100ae60b-f920-4ffe-8866-38b6cce8512a
+korean seaweed,f4df5ee7-f6d1-4372-9e68-3362d1b705dc
+seaweed caviar,5f5674a4-76ef-4eb6-a297-374c3ac29bf6
+sea moss,770cb6fc-b4dc-4e2f-bac1-9f165d93b48c
+langoustine,e6e129b7-f6a2-4241-82c2-eec30d77ba2e
+cilantro,b4d7455f-f6f0-4bc8-a3f5-773e5a0134d8
+ginger root,274d341a-22e4-4412-85a2-b52ec00acb27
+chilli flake,e1ca447a-6711-4448-bb14-cad669f6de1b
+cayenne,9afdebe1-135b-41f8-9d79-f28c3749f22a
+chive,af7d7030-0375-4b9d-a107-a47d5a88944d
+ground nutmeg,16fa6b5e-8d6d-4eab-ab25-c0d716afb1aa
+fresh mint,a3d5278e-84e7-4001-8fc5-f26efac758f1
+smoked paprika,fa09101a-21df-405c-96a0-11c3126a3744
+peppercorn,0f0ee38e-15c3-42ad-b9f7-cfc67b9c63df
+curry leaves,0d67e7a7-47a5-4cbf-ab34-7164375f2217
+asafoetida,05b2b1ab-5e51-4bd4-892b-5cbcf62dbac1
+cracked pepper,0e080442-c752-4f2a-b2c9-7a7d1f48e6e7
+chile powder,d2adda7d-95b8-404a-bbcd-bfeedb908a20
+chipotle,d480064c-7986-4512-9cd3-a55c4612f3cb
+green cardamom,29625897-ded9-4318-b9ea-28db8c11d3a0
+onion flake,4890da3d-5c0c-4cf1-9eaa-90d9a1ba17df
+matcha powder,04383f63-3b69-4cad-964e-3dc02bbadf01
+ancho chile powder,2c431582-953d-4668-9ca3-3c82c72346cc
+sumac,1e3f25f1-0bbf-4691-80f7-819d927a824d
+fenugreek seed,581435ca-87ba-4f82-ac72-294f32d21b12
+dried parsley flakes,57595866-6feb-4ea5-824b-75c17379e794
+thai basil,79ba98a2-1802-4771-ae4e-eeec32c02d1d
+edible flowers,fb83e253-1f81-4448-9d0f-14444d0a30ad
+pepperoncini,df8ca994-d9bc-46a3-9ede-2de465c01b87
+chervil,0a1f772b-33de-4e7e-babb-f46def7578e2
+chipotle powder,8f7a55b8-f0b2-4d77-b9cc-21fbc6954240
+carom seeds,d08e4a2e-462c-4fa2-966c-adfe799ee83d
+kashmiri red chilli,44898772-1e21-4094-bc99-7e33a8d925bc
+black cardamom,1b27c6d7-e9bf-4ffa-89d7-a516163abade
+saffron strands,28a0f250-22be-4404-89a5-489ab3d7ec05
+hot paprika,07db1f72-85dc-46c2-92c0-366876d877d9
+lemon thyme,ae790160-4830-4039-a485-690704c0dae7
+arbol chile pepper,76270bb8-95ae-4cfc-96ab-654a43e0dba4
+garlic flakes,768c95d9-d3cd-4672-a791-91fe0e91f3a7
+dill seed,5ad9b324-9240-49d5-8ab1-26c413809a03
+green peppercorn,a8508a87-ade0-4b43-ba81-e669bc5f2a74
+aleppo pepper,df51fc6e-e62c-4361-aafa-6f1ae82560f4
+hibiscus flowers,24e5c6f9-f58e-44fc-9035-15c90ef62a45
+achiote seeds,319b62ba-da71-4c3e-b06c-2008525dafd7
+pandan leaves,62b1377f-8668-4df0-9cf7-572dd883bf59
+savory herb,0f410b5e-edf3-49a4-beda-e011dd0b5da4
+gochugaru,e7d6bdf7-f2f6-49a2-b25b-f6742a949bcb
+saigon cinnamon,90fea7dd-0441-461d-bfd6-3162668a1da3
+vietnamese mint,f40dce0c-0812-4b93-a3b5-1ddd69ec305e
+espelette pepper,f17b8eb6-d016-443b-a12d-707fb132271e
+hibiscus leaves,89eed562-f537-42c2-b6c7-a8ffa2de4998
+shiso,f2261edb-c765-4fa8-aafb-6c375716701e
+lemon verbena,53faa057-5f13-4cf6-9bfe-aee1bf73a637
+kali mirch,7000fcba-dc84-4d5a-a673-9c5e31d7cbec
+dried orange peel,7eca66fb-ea8b-4abb-a439-5a07150117e6
+achiote paste,2233a409-12ca-4af8-8f26-0fa18d298fb5
+dried lemon peel,0f1c91f1-970b-4684-9bee-3be27849a71b
+thai peppers,1642dd63-4e7b-4009-af7f-e1e494fc5947
+lemon basil,d1868368-f249-45ae-986b-b3b8090fc8de
+perilla,be984f72-fa45-4790-b611-7e4cc1df4956
+ghost pepper,2c6526c9-0811-4abc-ab8c-2bfc8e547252
+chamomile,01ae2d93-ba49-4251-b68c-e96e12d3a752
+confectioners’ sugar,e5ec6448-2797-4031-ac85-b3690a96a72b
+maple syrup,4cafd28d-691f-4c10-9284-3ef84ad7304d
+coconut sugar,eca8940a-80ab-44b3-b7cc-f8cd20adca65
+stevia,131dc778-298b-40af-b0f1-e2dd75e14d7d
+agave nectar,fe262958-7918-48c2-9ce3-013121ee79bd
+erythritol,4a5f2e3d-0346-42be-822a-8e089675fc80
+vanilla sugar,c62b3d0d-22b5-4bae-8c52-c159025932da
+chocolate syrup,7005827c-2138-47a6-af0d-d825e75e76e0
+raw sugar,f99bae4c-bccc-4c39-9042-73d9e888ad18
+cinnamon sugar,e39f161e-9934-465d-ad2f-77e483392f47
+grenadine,33dddacb-4a09-4980-85d6-0a2655a47209
+coarse sugar,c41ac73a-9bfc-46f8-8b50-d567693da73d
+liquid stevia,f685e957-9eea-4000-ac9d-1078edb585fc
+salted caramel syrup,76336c7e-89ac-4533-81cd-0d83effb5b1d
+decorating sugar,6fce8e05-e6a3-4eb0-853d-0e6dac91e7a1
+sucralose,6a1db030-dcb7-48ee-a8ce-d51f01d3a6bf
+monk fruit sweetener,365d8b72-04b9-4f4e-8e12-1627f3ee39d3
+maple sugar,35a90756-cd31-4965-a6c8-4037e0f11f68
+blackstrap molasses,5a9df8e7-14a3-407c-8252-cc374baa2eee
+xylitol,f2455093-265b-423b-af3e-cc39601b17c7
+jam sugar,2e6705b6-6381-4c93-a0a7-87a478e1ba46
+strawberry syrup,f3d8e218-7339-47ad-b48f-23365f064392
+vanilla syrup,aca2bd91-1f48-4091-b5d2-1c35a5cb1fd3
+orgeat,62fa2ccd-bc74-4bbe-b5db-051e3dec77e5
+black treacle,b27684fd-46ee-4baf-8c4d-620699b8ab8a
+raspberry syrup,38202fb5-42f6-420b-a203-d5078900ab90
+pancake syrup,d9143b8f-7ba0-4651-ac85-34ec4829dbaf
+rice malt syrup,f03b5bc7-feb8-4f65-93a9-5eee3591b13a
+date syrup,c77c528a-9d88-4c7a-b042-0ab4df92df16
+coconut syrup,555885c5-dde2-4fa1-b162-4f092049d3ef
+date paste,b9abddeb-f2d5-413c-9b15-3b8f08791858
+treacle,da6dcd09-2fbc-4dd1-b3cc-a54edd2a1f2a
+splenda brown sugar,aecf1a8b-497a-4c4a-9e9e-592dd4dda300
+mint syrup,4b09ba8b-489c-4314-a2ef-1c81512c6f7a
+maple butter,5461bdd1-e354-488f-8d16-65ccbec8ed1d
+brown sugar blend,776d97b8-a802-4edd-9bb4-9514fff98134
+apple syrup,7024cccc-64fb-4ebf-868d-7744a94864ab
+blueberry syrup,0aab7b2f-ddbf-49d7-8b31-5f5926f28ecf
+blackberry syrup,e1c50b8f-81e8-4ac1-82ea-a21d444b8a26
+sorghum syrup,0b3303dd-ab03-4932-aab6-c5748a27b671
+hibiscus syrup,c87c222b-c4af-4eae-9e45-b9da4bb11386
+allulose,ca842269-230d-4f8c-b291-9dc45996ef59
+cherry syrup,c84581da-76ee-4f2a-9e8a-cb1bda4589b8
+lucuma powder,3cb2c841-6e53-4855-a6c6-3ec0fba5bab0
+piloncillo,b08d2820-4237-4b2f-9920-fab7eb505dbb
+cane syrup,11d7f50c-d4c6-4d92-8229-d2b7aadb8881
+mango syrup,d2994594-ef37-463c-ad7b-702ffaaabc75
+glycerine,228cfeee-f0fb-42ab-aab7-b536816b22f1
+confectioners' sweetener,6dd7b127-93ae-4ee6-98e2-7c3a9ea141ce
+malt syrup,0d5680f3-5631-4793-a15a-2a59bc47cd91
+mastic,e9876e53-2cb7-476b-9970-864cf40f8e4a
+elderberry syrup,9c7b2ca2-4a8d-4e07-b523-0cc2b45abe71
+sweet'n low,c35bce67-4499-4ff5-a67d-51e4588f73f6
+honey powder,d5e4d0cf-0604-4ce2-a804-a127a90ee761
+gum syrup,8810e776-739b-4545-a526-416f92c6d259
+date sugar,63f74c9a-cf12-442b-a034-e907d394c7d3
+prickly pear syrup,7b39d376-15be-46c1-b8e8-f03a1c652cea
+chocolate sugar,bb9d55e3-cece-4685-8961-9e3d5402975b
+creamed honey,a9568b02-875f-4cdf-a4bc-9fbcc778b40a
+malt sugar,a516da10-7ebe-4251-aa7a-3b39d85fa860
+flavored syrup,1f454e7d-9b32-4c45-be1c-dd23bd8177e7
+pekmez,790815b1-60df-406f-8354-4172ff93a8bc
+aspartame,4975b2f4-a17d-42b6-b016-c3cddf49a6f0
+carob syrup,f778e007-c059-4bdb-a836-72e2618a079d
+coffee-flavored syrup,1772ac9d-fdc0-4eff-893c-bb60b64e2878
+yacon syrup,caaa08c4-6493-45c9-9746-bc29454e95e0
+isomalt,f56ccfab-0553-4193-98ab-f4e93b610f2c
+topinambur syrup,5cd81a74-05c8-4acd-bcca-4dc7ad54f704
+seasoned salt,4cf4f25d-2b5d-4fbd-839c-48b6344fae69
+pumpkin pie spice,3a71e947-73a0-4f8b-ab33-c165c1419b33
+taco seasoning,a1fc111e-ed58-4b75-986c-1546830541f4
+cajun seasoning,fd0e2877-8c53-4f16-a4e9-401973203b77
+white miso,3a9473b3-a219-4c2c-9477-2c37e64ae5fe
+lemon & pepper seasoning,fafaff95-f793-4634-9637-58a7ea3d5ff6
+poultry seasoning,82554a8b-7fa3-48c6-b80f-0d827bab1a7a
+chinese five spice,4fa2936d-f558-4f08-b229-c2622b7e77a9
+red curry,79777e95-f158-41ee-a3af-b91d7f2b2bfe
+dry ranch seasoning,39739d1d-4e97-45ee-ba3d-03361f56b708
+old bay seasoning,1a32ed40-8b05-49fa-9ad5-30137ed8e879
+chaat masala,861ff1e4-17a8-423a-9a80-9f500282a2bb
+creole seasoning,c3307d59-c57c-4a45-b78c-b807a15d9781
+steak seasoning,07a0279a-e2f4-4d81-bc45-772aa395bf40
+mixed spice,a16b31eb-6dd5-4372-ab80-f5b0e2a104dc
+thai red curry paste,25c6419c-3333-41ca-8702-fa803e0fc83e
+green curry,03f5945e-db10-4e68-a0b5-332850df3158
+barbecue seasoning,cce0afb8-c1ea-49e1-8284-a54e10f62672
+apple pie spice,db8d8dc3-5a87-48e1-b616-43da1e793338
+za'atar,695b188f-e008-4121-9672-2eeb08558144
+ras el hanout,45989d6c-bd36-4c1b-ae15-5201500e6476
+seafood seasoning,104690e4-a4b3-41c4-b3ae-fc833dd75e08
+tandoori spice,b17fbc17-a3d4-4af3-885e-d9ef1fd72484
+all-purpose seasoning,300b9957-badf-48f9-94d1-59ff7891f079
+fajita seasoning,9ad4b8b5-12cc-42a7-a192-192ebba58978
+pickling spice,f9e0c671-5465-4ab2-9181-0e9c2965b2c2
+gravy mix,ca651f97-873f-4f3b-8e4f-cb18aa6b7d29
+caribbean jerk seasoning,8a199c0c-7762-4cc6-801c-f689b08f6727
+mango powder,6e88fb09-79a4-4373-9d43-072fc216ac3e
+garlic-pepper seasoning,b97791c3-3e35-4f60-b6dd-40bbf4831829
+msg,dea1582d-8670-4330-a56b-4b1f01c99778
+greek seasoning,d921f048-a9a5-422b-8b4f-350b9d31cf79
+bagel seasoning,94e7a686-0303-4338-8820-5598f7b17ff6
+teriyaki marinade,d5dc1953-40e3-406f-877d-c7eeca152ae5
+adobo seasoning,d4ab210b-4367-4b1e-9242-9f0f463ed6a4
+sambar powder,581844c8-c658-42e0-ac2c-89bdd9a813bb
+dash seasoning,46124376-ddd8-4ad3-a7cb-4be6babf0ff2
+garlic & herb seasoning,1150dfc1-6c97-46a7-9748-d1f64148f97f
+red miso,c4b75ade-aef4-42c5-a4d3-5b59e93ff259
+bouquet garni,991c9121-6657-4c0a-9e32-07ddbf036252
+dukkah,51e16884-9090-46ba-bd85-8cbb0abbb4ec
+carne asada seasoning,340c56ce-c808-4767-b4f3-78d837ae92e8
+yellow miso,9550a52f-e9c8-4d29-a052-caf90b984e22
+salt-free seasoning,b37f8198-e1aa-4281-b8ba-0be80a4002cb
+mexican seasoning,7f964af4-7725-4fb6-a249-48204050cc4a
+shichimi togarashi,376d5f97-4e68-473e-b699-21ba0c42a8d0
+tajin seasoning,b08a1afd-d932-4b2a-87b7-e7b5c8d71a5c
+crab boil seasoning,e7b4df3b-e3a2-4edb-a212-3cf712c3a308
+doenjang,d585a350-6681-4cb6-b966-a905c7783919
+furikake,36019591-0483-4f1e-8b53-8792d09bc001
+truffle salt,6af171fe-d778-4b7c-a976-dab5979697e8
+togarashi,939d9f00-377d-4592-b24f-51e2af75e0c6
+chipotle seasoning,beab01ee-2e1f-4bf1-86aa-9fadcccf1b27
+chicken gravy mix,31212bff-116f-4331-8b90-8406348a1ea1
+harissa spice blend,f8244085-975a-4257-bc58-e61214313e54
+au jus mix,4c52e4e8-5a9b-4d14-abfe-7fb9eb8f3b91
+berbere,f2bda828-8ecd-44e6-86fb-4923111c219a
+brown miso,56553725-f576-44b6-978a-b232236d4a0e
+mushroom seasoning,dd0d1864-696f-42ba-b2cc-142973395f76
+chana masala,05743934-773b-45e0-9288-d12ab56fe81d
+chicken taco seasoning,9bc56f3e-4f30-4e98-a3da-563a64feb97e
+fines herbes,24862848-0d0b-4a67-9062-bd1598b8e236
+gingerbread spice,ca43e6fb-10d9-4655-a09d-ca1d57ae32b4
+pizza seasoning,d7631703-c2ce-4390-a031-6867ed91456b
+blackening seasoning,895b5c9a-40e5-40a8-bb81-515d6df3d940
+chai masala,708a9142-a433-4fdf-b6f0-f3641295ba0e
+shawarma seasoning,f4d46d5c-e4a6-4c52-8fe7-28cdee985dc7
+panang curry,24014174-bfaf-4bf2-8355-c599a35ae42b
+tamarind chutney,12db3047-c3bd-42c2-bc87-da30f7eef5e5
+thai seasoning,6695ccf0-073c-4e96-9470-0b17e65d359e
+chili-lime seasoning,6dc641ca-38ec-42e0-9a60-dde9bf824faa
+hawaiian salt,e0228fc0-355c-46ec-ae66-c6afd1abc5b8
+tom yum paste,50532b52-a0ac-4fb9-81c6-3fa7b88074fc
+mulling spices,756c32e2-6a37-4c40-8a87-7f0e5e7f5e81
+sriracha seasoning,2ad044f0-e560-4184-91d3-01e0a8cdb938
+mesquite seasoning,dc166ae9-a328-4dfa-8b89-b079f33861f1
+salad seasoning,6bebc558-a319-43f8-a735-08bf840ae04a
+coffee rub,b4319079-aba5-4d24-9a61-f6c0b6049298
+southwest chipotle seasoning,86f01fb8-8b55-4dcd-bb8d-99a48139f160
+pasta seasoning,1f3aae06-cae7-43c9-bf20-034c390e863e
+baharat,b64e91b1-c63f-4df0-85a1-22072f26800f
+berbere spice,5671d5cc-d1b0-416e-97f5-6e115b036d53
+fermented bean curd,34104f16-77a2-40e5-af88-049718c4e072
+panch phoron,b4c168b7-9334-4751-9cef-4d467bbebdce
+curry roux,f701b775-cea3-469a-b5f6-70b932788001
+beau monde seasoning,57b98c3c-9ae8-4b41-a5e4-a96fc3b55571
+rasam powder,1167721a-1257-4bbb-8a3d-90f41dd1653b
+citrus rub,ead4f09d-d872-48d5-b58b-02aa7faf3f4b
+meat tenderizer,52d5c0a4-f502-44f1-8054-03f74cf83b8f
+burger seasoning,796dc52b-9893-47c7-95e6-6bb58aec24f4
+umami,b1615a5d-b19c-4658-b934-b0c79a46455e
+cornstarch,c4e67ba1-83b3-414a-aef3-c8336839c04a
+panko,17e80ca3-94b9-41d2-b9c2-0ea165929883
+self-raising flour,bda5c5fd-be39-445b-b92c-e0cadce5f8ea
+almond extract,b3a6b5a7-7eee-44c3-b48f-220f2469b423
+pastry flour,da64aa6c-9b16-4d58-96cf-3a282f47475f
+food coloring,7751a0e3-2c03-4755-8762-d51b3259c22f
+shredded coconut,8719594f-cff2-47ce-8f2b-186fd7bca442
+coconut flake,3c330c0a-cdea-463e-894a-09afdec212e1
+baking mix,9caad649-3dc5-41ed-99e5-27dd5305c6d2
+gelatin,e52e6e53-c0b3-42a2-ab71-7b01cccc5642
+cake flour,444f491f-6c68-44de-a591-0ed7ea3cf75c
+cream of tartar,63ef4264-fe9b-48fd-ba71-c90739d0c4bf
+almond meal,d4a8d63b-12cd-4a51-8e6d-98950d51a76b
+coconut flour,08b26de3-752a-4b2a-996b-8cf8281c67ec
+bread flour,59eb5b33-c611-46d4-987f-0871f5eecce7
+gluten-free flour,894662aa-9e4c-4716-b24f-0c759236ba2d
+mint extract,2f77956f-f8b4-494f-a1be-962c20ae8797
+tapioca starch,11f95367-237d-47a4-b291-f0b8b694f0dc
+yellow cake mix,265ebe22-203d-408d-9f47-e7a5d5d8612e
+canned pie filling,9341d39e-040d-4d53-861a-18a9ac8b5016
+xanthan gum,d26f095c-512c-4622-be7d-b1f19b786f1f
+cacao,ae936b2c-a54d-4f23-9611-34508da3146f
+brownie mix,e7235e39-4654-41d0-92ad-2b5e5d4da157
+arrowroot flour,f4a4196b-8100-4ea5-842a-933556287c0b
+coconut extract,408c295d-2eee-44ec-8aa3-adfde067a9ea
+flaxseed meal,a71aa498-b2dd-4168-ae04-7d2b1e803cdb
+chocolate cake mix,bb74e9d7-cc98-4eaa-938e-32f16fa8beed
+crystallized ginger,255faaca-307c-4cc2-a291-025b5b556885
+jell-o,3523b5e4-c974-421c-bc56-2d1bfb608305
+grits,d33b016d-a6c8-46a3-a475-904d6bf39763
+candy coating,1026601e-dd2f-494b-97bb-09bf07a6dc4d
+cake sprinkles,84a9f7c9-d8be-429a-b96e-fdbedcdb42a5
+cacao nibs,d2796e34-c8a8-4406-b3dd-84daa46eacc0
+pectin,ebaca221-d874-495e-9452-dbc5b7c80ea5
+semolina flour,6ced075b-bd90-4cf9-b7ff-a02c959e581e
+refined flour,c68d008e-6632-4731-a4ec-db87d920b8e4
+psyllium husk,6338d349-6ada-4fdf-944e-107f639c8f35
+pancake mix,d22bee68-a5f5-4acb-8238-6eb809020a1e
+rum extract,c6e3d0bc-c58a-4ef6-a110-3cff63ec1a46
+muffin mix,639281e7-d2b5-4b48-8ceb-afa2959ef2ea
+maple extract,b65df7e5-7053-4e73-bcd9-53e3cf756a4a
+marzipan,6ab1e71f-283b-44c5-aba1-93775930e421
+coffee bean,233e8c90-d4d3-4383-a17a-e71558862f0b
+orange blossom water,450eff84-9983-414f-831e-614f0dcc07d8
+cornbread mix,4c87fef3-33e5-4757-80ef-df800b2db3b0
+spice cake mix,b9d430f0-2fc3-41bf-98b1-169f0f483964
+masa harina,6cf9cec9-fc1d-471b-b105-dd83f03431be
+sweet rice flour,cc3d9b78-f747-4967-b98b-20da7b0b2ab3
+agar agar,274e21a1-00df-438f-a2b6-f8364b701ead
+red velvet cake mix,31ab2729-a19c-4274-bf0d-467040a511bd
+baking chips,5f90094d-c10f-4d8a-b753-e479e3b250b1
+essence,84ba869f-771f-47f5-a445-5f1069c0cd52
+cassava flour,77e22b06-e747-495c-ac1f-a63831127c75
+matzo meal,2a3b87ba-90da-4a8d-af88-e14b728a8c41
+sugar cookie mix,b288932a-4a57-4603-896c-8899d202dc07
+sago,0fc06da6-ac32-456b-b513-33296fbe8fb4
+glutinous rice flour,9f4b0fb8-afa0-4538-8771-ba5149cf7689
+citric acid,c39c9264-7f86-403b-9209-d26ceab93957
+hazelnut flour,14544af5-797b-4ceb-85a9-00682d739487
+meringue powder,4e51f45a-e6a0-403e-a2b4-ecdd2b734490
+quinoa flour,8027f1c1-e720-4dd8-98dd-63a61419bad2
+vital wheat gluten,37db029e-73ac-4472-b8fd-29cfe9fcde12
+fondant,8346cb03-9013-4486-8f35-38d797ed02d4
+whipped cream stabilizer,ff9a257d-7254-49b3-a3a0-e20482956264
+mincemeat,46221f06-e0ac-4b4f-82af-af9708b7751f
+angel food cake mix,6cb25f3f-3a37-40e7-aad6-49f618b3fc74
+einkorn flour,f4f9adc6-345b-43dd-83a0-ce46c6669620
+strawberry extract,26920841-5387-451e-9e64-bddcdf6daddc
+white baking chips,29903d41-5e5b-46de-89b6-5293799f1f37
+sweet bean paste,66573eab-5ce9-4a00-b9b5-249e06b1c671
+coffee extract,c5c114e9-479c-4153-86d9-61bd007fd9cc
+tapioca pearls,d123eafa-e864-4370-9bf3-2154ea8155d4
+gluten-free self-raising flour,2576f7fa-0059-4134-b4e9-faef686f35f8
+pie crust,4eb518fe-017a-45e1-9b83-534204e0841a
+puff pastry,e1d19198-c3ad-4f33-9a91-71c870a5f1ae
+pizza crust,62d53f10-d47a-4dbb-80a4-12a9e7439420
+phyllo,89decb41-1f80-4dc1-a0d5-2f269d035789
+refrigerated crescent rolls,03f51864-1041-411c-b03e-a44366d9d5d1
+dumpling wrapper,6426058e-d277-4896-aae1-a2d6743c4311
+biscuit dough,fece6208-7b98-442d-9233-aab983a15a53
+spring roll wrapper,7bac75e1-4615-4de3-8a51-be1bacec9f07
+sourdough starter,ef8505b9-318d-4597-a1c8-07d0b70377a3
+cookie dough,3bc9a64b-fe92-4af0-ae7d-27bb104b0fb4
+egg roll wrapper,0d32faad-03e1-4b5c-a50f-190217fcbfac
+bread dough,83904eb4-9d86-41df-822c-ccc545bd2cdb
+butter puff pastry,c2f6fc37-7d8a-4175-8aaf-f89762e93860
+wontons,bddf7019-8934-4df0-8525-907c1ec259a5
+flaky biscuits,d82cfd16-fcb2-45b1-ad5c-d47dd46765ff
+puff pastry shells,3e2c8f39-04f7-411c-af67-634e067494d0
+frozen dinner roll,9cfe32b5-f424-4607-89db-10bbd258538d
+cinnamon roll dough,a1aebaea-d0f8-4d81-95bb-43382c0aa40f
+gyoza wrapper,e81a0d90-20d8-462b-ab53-0b88d389c272
+dosa batter,a3caa22c-1e61-42d2-9855-b22006a20695
+fresh pasta dough,f9b993ff-1429-4b17-80c2-47cfc98de36e
+croissant dough,f46feb7a-5b26-443c-b84c-cd1fa50ab76f
+idli batter,1997ca0b-7a96-4dd2-b2f0-88b1d6a60570
+sausage rolls,be2c4b4b-f480-494d-b566-ab8308cfc898
+chocolate pie crust,ea3ea1da-f87b-4f9e-9bf8-8f6efedf17c4
+dinner roll dough,addc45b1-908a-48f5-99a1-56836dac00bb
+tofu skins,624ec850-b486-4eb4-8fb2-14698e8b45b7
+kataifi,b688c877-a8fd-4dbc-ab4c-961e046dc443
+brisee,df1da697-4013-400c-9a76-e785914aa8f8
+korean rice cake,3662e2b5-c31f-4f29-8c35-9f2b5c6fb4dc
+pot stickers,cbd12a2e-342d-4da4-8f05-6c810eb6e725
+tortilla dough,5d1629e0-596c-4b57-b5b0-249941392add
+rough-puff pastry,89e33ccc-7876-468f-9c5e-84dd644fe744
+empanada wrapper,0d94c708-9838-4917-9e5a-8b0f320967a9
+gingerbread cookie dough,6fc44f1f-ff16-4bbb-934a-766c596aa417
+yufka,0f032a30-d053-482d-9ce2-804482907b33
+brick pastry,b323f971-716b-47c1-9a0c-65c0cef15cb1
+rolled oats,68b2c914-2902-4438-8ea8-e1cb102fb6de
+risotto rice,71138593-7202-43db-8833-53c0a2cbdb3a
+breakfast cereal,a0128fa1-5e37-4610-af92-b40999bfc018
+rice cereal,9cce84a9-3cac-4f84-9d6b-2627ad4aced7
+jasmine rice,a0781bfc-df6e-4e0a-86a3-77e806568926
+quick oats,5a39834e-4076-4f36-a282-a53803c573f4
+bulgur,69714f43-040f-4f72-92c5-910edad64bc1
+granola cereal,9ea72c2b-f27a-4606-ad2d-c1c0e527382d
+farro,f7900fe5-e0ca-43d6-921f-d6cf2f3f9e18
+steel cut oats,325b2f29-0586-4b2a-a775-5dc1a6bcb920
+instant rice,2225e62d-5be5-4370-a6a9-54e87a58743c
+sushi rice,3dae5f4c-cae8-473a-8ad1-6a8b5b2bf7db
+hominy,4ece97e0-9bd1-436d-9c19-6630b8a4e535
+red quinoa,a6217233-19bc-46cc-bfb4-8f6188f1a4e4
+raw buckwheat,d3cd78a2-2121-41a8-83fc-4d170f7e4347
+instant oats,175a503a-08d1-4626-a5d7-13bb8698c398
+wheat berries,0374cd36-1bb4-4b73-85dd-d59685e783a4
+flattened rice,3d63dbf8-9917-4839-95cc-a0113be6188c
+black rice,58443d1e-4ace-4ee2-813f-fb2ad3e71dce
+yellow rice,739053ae-7324-4554-b56b-219b1a1058d5
+quinoa flakes,0457735f-f599-4fbc-b556-b70a54ab09b0
+fine semolina,757c0cc9-55c8-4cb1-9f9b-a3cfed1ff558
+kasha,a5386f58-7e39-4761-8d03-2f1043c9a8dc
+pearled farro,9309db4b-735c-421d-80c7-b915be188739
+freekeh,b64c47e9-a048-43c8-bef0-419bb494c67c
+paella rice,b6d41c68-e7b1-412f-ab03-1c02d2faa8cf
+red rice,a70f532a-9f45-46f6-8e7a-5aadf7d64d19
+mexican rice,3a43cd1c-79a8-49ff-8c9d-0cde0190b0a1
+cream of wheat,873ab776-4175-4b8a-a8e3-ce87001beb24
+rice pilaf,48a17d76-5482-46fb-b5f2-9073e72bb05f
+idli rice,9d2a1f72-a2c3-457c-8f7d-7dfb3e378ca5
+weetabix,c90a616e-d019-4c15-a3b4-32b0f1ec01d7
+jambalaya rice mix,ce4446c6-cc3e-4800-9beb-9f0b9703d7e2
+puffed quinoa,59bab93a-3562-42d6-9998-46289ec0c783
+black glutinous rice,916c5347-3f83-46cd-8740-87f139ff49aa
+dirty rice mix,55b46b7b-8aef-494d-be76-51d546dea224
+cilantro lime rice,7998f65b-e9fe-4893-8f86-e3671ba72121
+hulled barley,494b652c-109a-4f8e-bb52-2c3da9e164a4
+spelt flakes,15bef494-3693-4599-9dd8-0e2b88bcc403
+rye berries,d4790fa9-f23f-4347-9cb1-8cbbb3b82f0b
+oat groats,4ff4fc16-5f16-4b2b-b7ce-0ccf0e3dc9c7
+teff,7165d6cd-873e-412d-81c1-b9a5f313c67e
+gluten-free breakfast cereal,0d5628af-5ce7-4cf5-b739-db4af76628da
+puffed amaranth,c476ed4f-69d7-4275-8879-60bbe91bb49e
+puffed wheat,2bf3c8ef-c946-4d6e-9831-c50f00ab50cb
+puffed kamut,cc83fec0-a721-4b2b-944a-f97e5f5c87a7
+shirataki rice,0db2d842-809d-440a-a3e1-ca450fe757f5
+fonio,48450501-411c-4939-bab5-7bf9c44c27b5
+grünkern,a944c095-cf84-4f85-ade9-634026cfb502
+kamut flakes,43346862-25f2-4111-aecf-8f39b35e580d
+cream of rice,e4a8c1f3-e880-446d-bfe4-2b7ecbe501f6
+peas,7d119d2e-253c-4fb6-bc1f-68be395227fc
+green beans,1466ce61-d302-4553-82d1-dde558a8cfc9
+canned chickpea,34d2621e-357d-4fe4-829d-2be00c31025d
+cannellini beans,caf49790-3afd-48e3-9507-3838a0f98866
+pinto beans,fe749832-9068-4e13-aaa2-e2aefadb1979
+snow peas,251a4945-227b-4afd-bf84-114806b840d5
+snap peas,99b88a4b-7e97-4d63-8084-0192aed7a0c1
+edamame,fe9a0fea-b15f-43dc-8d09-2152f298da87
+urad dal,9218907d-39db-443a-b346-c51af66d190c
+refried beans,65728f74-dbcf-4460-aca9-5e17f3f3d9ff
+lima beans,8509ce3b-d791-4766-aa69-1b3dfd8f7812
+chana dal,148ee65a-d6b7-475f-a055-d616e1f05585
+black-eyed peas,15ff37e4-9fd7-4fb6-a8b5-7aeea63e0b91
+fava beans,c4c80160-812e-4caf-a900-89d467f67211
+yellow lentils,59997c39-cfef-49e3-bf69-a487e549008f
+split peas,2d92b730-d338-446c-ab2d-b34e49ec1368
+pigeon peas,b66a3a90-aa51-4f11-b2d3-879e8fd5c6f3
+soybeans,17ef7737-4b4d-4f53-94f1-9028e86d502d
+canned green beans,fab65ef7-5f65-4467-92e5-54d40be72a1a
+mung beans,de181d6b-81af-4ccd-8102-cb533bd17f0d
+string beans,754a968c-e981-476b-8ba2-73bc6b51bc7c
+yellow split peas,ddfa447f-b26b-45f6-9f6e-9e52759f412b
+borlotti beans,ea7bbc60-3423-4e80-8b7b-d60ebaf49dcd
+canned lentils,0c8e6c90-b8b8-45ed-a823-17ef6446d5a7
+aquafaba,79bcec4d-f611-4447-b2d6-bfceb5e574d2
+canned peas,eebe1431-a8f8-4441-aa46-f79b924fde67
+chana,3cffa1de-da53-4899-bc42-3478b9bba914
+mixed beans,96e6c14d-21f0-48da-8e59-63f9bb1e4409
+fermented black beans,e790d7d6-e9eb-47c1-a696-9327004dfc9d
+kala chana,9f0d8435-3c89-40af-b801-52f73709f483
+black lentils,78282b7d-f8f0-4050-aa5e-e4e11944888b
+ranch-style beans,5e85967e-b1f4-4ed1-87c2-73439e58adad
+pork and beans,d3453371-34bf-4150-b1ce-fdba7832ddbd
+pink beans,97138740-6c46-42ff-8e2e-f3df3f5fda17
+black soybeans,89e9b538-8787-418d-b204-a4e922c9eb7a
+field peas,5cdcb676-c967-40bc-a716-7806745c994a
+white pea,43fe0cdc-494e-4c90-a6e8-b9552e5944bb
+gigantes,4da287f2-26d5-48eb-baff-75d8e57f1075
+flageolets,ebf97eb0-b204-4ab7-9f43-e7e2c7061b59
+horse gram,cca83008-3142-46cf-b5ec-38255dcfb7b9
+winged beans,13600ba8-36bf-4984-8872-8df5fe8e6866
+mayocoba beans,84c8e2c8-94bd-4aac-992b-b05d758234e2
+moth beans,2e39e8e7-e57c-4ba2-a2b1-82b572acce46
+golden wax beans,adfccbec-e600-4c15-acb2-152923e8a2d2
+hyacinth beans,06263820-5d24-45aa-8470-2633bf444b00
+petai,ce976c48-2595-4748-9fff-28c76fb41d2b
+penne,d7a7f832-75cd-4a6e-b264-0a8c7abde3b5
+macaroni,d3d91542-408b-47cb-9fa2-6d6e295e52c7
+lasagna,9a88ab8c-c1c4-4795-8967-e2976fec1272
+spiral pasta,dafefa3f-8947-4489-aa81-aa83e9f57975
+linguine,37cdb689-7acf-4266-a106-64a54d1a79a7
+orzo,e4078005-2d6b-4cd7-a27c-8bb15b863187
+fettuccine,2d3c5050-07bd-42be-b594-c6e314d6f31b
+pasta shell,d7e0929c-0c8a-46cc-86af-4af919f7561d
+bow-tie pasta,0bb0323d-4607-44d8-b64e-6bcbc8a67f34
+tortellini,6065d43b-40a2-4cfb-b342-e65d45c39693
+rice noodles,3a3991f6-4a51-40c1-9b9f-b01d1f5ed142
+gnocchi,bffe17c5-7084-4647-b6fa-9cb39cdb8d0b
+rigatoni,b38f25b4-5a2e-4b47-a28e-f8806f48111b
+angel hair pasta,bcf31d92-7a3b-439c-ac8f-cdfb80fb6086
+vermicelli,d459cbae-5ca9-4a87-9054-2a6c918ece0a
+ramen noodles,d33af53c-5567-4f34-a569-134575fdcc53
+soba noodles,9ecd0ac9-4632-43db-9ebe-989fbad364b9
+orecchiette,3bc243f1-1e4e-48c0-b25d-677eee25f729
+ziti,5995ded8-0e33-4840-b0d7-1001bfef54c3
+udon noodles,94a8a6e6-9ab6-4b8a-9c31-ae84bd016735
+glass noodles,21a85745-699c-497b-9c0e-4cb1b7cb4cc8
+israeli couscous,9d77ebd5-0501-4f31-b204-b71fccf7b85b
+rice vermicelli,f6e3687f-eec8-4d2e-9c79-355d25cccfc6
+ditalini,76a52625-68f2-481d-88ef-6bffe36aa925
+pappardelle,c3b5b8ce-2431-449f-9364-85b8dc67af5d
+mac 'n cheese,78c56c4c-afa1-4fc6-96f6-ddb8afcd330d
+penne rigate,4639fc9f-e456-472c-b2a9-fa1e275702fa
+manicotti,7df3ac25-609e-4b7f-b10e-399ea5e360a3
+cannelloni,ffc608e2-46c0-414b-a6c7-08f346616afa
+pearl couscous,17627935-062b-480c-990a-b19ff48f00b5
+bucatini,bb122186-f89d-43b8-9fd5-6978b0ea5989
+thai rice noodles,ad931ac8-6b3e-4d3e-9dfd-a177442dae06
+rotelle,64434f12-bc71-4ab8-b23a-232d13dcbe0f
+shirataki noodles,5bc0f6b1-5563-451e-af73-5116dfe9ab1b
+pierogi,00ccdcaa-cd3c-429c-9dbc-a155fcb1d5c0
+acini di pepe,f1c468b8-231d-4047-ae3b-f6bd70cd5f4e
+cavatelli,e4ac2b39-29d5-4653-b79b-e4bc1a11f8a9
+sweet potato noodles,c5f1273a-a05b-4ad9-85f1-887c0efe7923
+soup pasta,88bdcc26-01c7-479e-9caa-096b43658943
+somen noodles,d36192a2-4bf6-416e-9957-d4f200310f17
+yakisoba noodles,f411044b-c45f-4318-8704-7ced5b7816cc
+beef ravioli,86f550b1-57b8-452e-b82f-d4af2e729b9e
+fideo pasta,8c3f271b-9523-4440-ad15-e55c9f2c87f2
+radiatore,611f0a8e-6cc5-4043-a792-45286268b2f9
+kelp noodles,ca0781cb-8fff-4aba-9a1d-dc39cb282a99
+spaetzle,2b6c25ba-e239-4848-8a7d-71ca7841af23
+paccheri,a0711461-179f-4fa9-a798-4427451dec69
+kluski noodles,b59d6d13-89d5-486b-b4de-16bac333b676
+yolk-free noodles,fc143b27-489b-4f5f-b9d0-9c8bc8e0bd00
+black bean pasta,d7636b32-a94e-45bb-a2fb-f6a5d8944eb0
+fregola,b7090a3c-616c-4930-9caa-280ab19fe944
+rice-a-roni,4c3fec93-389a-4a08-a122-9118b7ad8940
+frozen dumplings,3a986324-dd0f-455a-99c9-4f6e6918cef3
+banh pho,80bbc234-0c06-4e84-a313-afec30b3f9be
+beef tortellini,c816c1c1-0932-4d5e-9755-196b55f3f288
+trahanas,a49e3bac-a849-4e41-a153-4c12ff943ca6
+mafalde,cd03b56d-b99e-4cbb-b5ef-d32ca74aa9f0
+busiate,b887d349-8abf-4de8-a568-de607926282b
+lobster ravioli,9efc6258-33cd-4a34-a1da-801b6b81523f
+misua,c9aca807-17c8-4b8b-893b-b9555a9f1cf9
+palmini,425f0f0c-e2f3-4ed9-a1ca-7c73f7c55f40
+trottole,e92c2654-ed71-4502-8f34-fecf5b29b7a0
+pasta salad mix,92f7935f-26d0-4dcf-8184-66bca1f64df8
+pot pie noodle,e07dc002-d4c3-4134-a5e8-7920b35c56fd
+hilopites,ab1d266a-6e34-4c72-acb7-68271ed32b1e
+naengmyeon noodles,0c4f54e1-66d9-4eed-a644-62eeb8817838
+brown rice pasta,ad4b591b-ac13-4a87-8995-3c974d8deafd
+flour tortillas,54a708b9-1814-48ac-8595-8005cf53e15b
+corn tortillas,e49ba22d-acff-4ea4-ab05-beabd9f77a18
+crackers,fe3fe93b-46f0-4353-870c-45c5418fa8da
+baguette,2f0d7602-e2d0-4dc2-803d-828089b21500
+tortilla chips,d9362f57-6612-4a14-89db-fd73b561a80c
+pita,af13486f-6a7c-426a-a9df-ac6130666255
+pretzels,c4840d58-ea3d-4fec-b0e4-26da0053ffa1
+sourdough bread,e6115056-5f13-4de9-8a8a-ba1119e8f877
+popcorn,35423ff8-8ecf-4fdc-af31-e0682e073b15
+rustic italian bread,1e97bc76-7fd3-48a3-9b28-81f10ada25b4
+croutons,569a15ab-6000-4374-b773-b80df11c2167
+english muffin,44d3f3ad-7ffc-451d-b6af-858b95b2c61b
+brioche,afabcb2f-71a1-4daf-8d6a-7d36a471afc0
+rye bread,43d35ef3-4d36-46c2-ab9e-518ffea76457
+dry-roasted peanuts,ad00ea6d-019c-4800-834e-0a15d0578270
+indian flatbread,aed646d6-5abe-47b7-9506-ea87969e9122
+hashbrowns,5ac54a78-08da-41e3-9a43-045d92f28021
+flatbread,3b4623f3-77bd-4e94-ae82-3661ea20c882
+potato chips,c74f6582-804f-4f7c-bf47-30ac720309f7
+bagel,9ec48ff3-beb7-43c3-bcc2-6bcd687dc7ee
+cornbread,6a9bd03a-d61c-4c18-9340-cf3aec26ac13
+taco shells,3d8bd364-6131-4626-a1a4-7dd021e01920
+tater tots,bf0e8800-5b15-423e-bcf1-7a6fc65339d1
+stuffing mix,e0265781-83b1-4cd5-ba67-9c2c60dced0f
+corn chips,118e7326-caef-4851-8bbb-9b497caf2a58
+croissants,fc25afe9-4ec4-4b47-882f-73797a31b797
+pork rinds,4954a8da-ac91-43df-9150-040879afa98b
+italian breadcrumbs,4f1bec77-890f-4dfa-80a0-d411ce9e76d3
+gluten free bread,6c295b0e-8266-4aac-ae47-eec292e6490f
+pumpernickel,1c11af7f-8c37-473b-91d4-36b613d88cde
+french fries,9370abc4-4008-4598-a603-3e548556707e
+muffin,18c25b6e-5759-4631-89e9-343264d326fa
+sweet bread,345bca80-27e7-478a-b4d1-9cd58fbccd99
+pita chips,41eee625-90c2-4e0e-a613-354f32b6e0ea
+potato bread,3b3f893c-8df1-4992-85fd-569384993e71
+focaccia,80f59e5e-edc1-4e20-b207-7ef87229ad5b
+breadsticks,a37bcb40-4e72-408d-a012-43ea5038aba5
+matzo,a33aad33-2640-4bef-9120-5893820cd03e
+hawaiian rolls,3006ed94-3206-4589-9a35-e16cb695f26d
+yeast extract spread,5873ed13-3381-4dce-a8d0-affa74c3d03c
+garlic bread,be1c3d1c-e494-47ce-8838-c6abbab99977
+tostada shells,9cca0456-5d14-4dac-b2cb-2016ea5e615d
+challah,41ddc36c-292b-4a3e-93c8-0a3392a889cc
+roasted gram,ca26f1e5-b356-4718-a79e-822ecac84d43
+crostini,e7e7ef7d-f59e-4526-968b-3a3e56583166
+rice cake,6a370d1c-131a-4986-91ee-42c04af3595b
+unpopped popcorn,9a11c3d1-4524-4ee6-80b5-6a2a39725a96
+panettone,62f07d3a-741b-4fe2-836c-1b3263925c7d
+whole-wheat wraps,d05add24-6769-4e4d-b605-0e651d301a12
+sweet potato fries,2d8197c4-3aeb-41e3-9272-9bfba414f9c7
+vegetable chips,92188274-278a-4f6d-a6c3-553a7e0fc272
+waffle fries,1ab08e5c-8c89-43c2-a1e0-e945217201f2
+cheetos,ac99f635-ca8f-4c0d-9278-68811909b8ba
+roasted chickpeas,0a68aa03-4dfc-4e51-9f2a-990d18d27c7c
+seed bread,9875bac7-42ca-4f8f-9ba0-79e123959b6b
+crumpet,8e9428d1-736e-4013-ae9c-1c5ae69d681f
+papad,9b55bcae-4f6f-423f-b524-3a5575f07e47
+spinach wraps,31032cc6-e6a3-4d36-a00c-5904b3591073
+keto bread,f93b7032-b2a1-4433-9b8d-a26296b13ce9
+corn nuts,8aecbe7d-2237-48c9-80bd-33b65a1cbdf3
+rusks,a96aa280-0976-41a2-b7fe-59ad53bae999
+fruit bread,7025613c-8cf3-4f44-9132-3c78748692fb
+crispbread,caa9471a-4eeb-4975-9689-4cc0c0a8beee
+boboli,b7eca496-f65a-4faa-8c7e-50a43a015561
+bao bun,284bc694-0ea6-4b15-a681-1aca3f0106f2
+yorkshire pudding,7e67cb65-9457-4cb9-be58-07bf5ac5a22c
+arabic bread,e5fadbfe-bfa6-4dc8-957d-45f3d6b76c8d
+ezekiel bread,31ad2db1-693a-47d3-b749-aa1d59f50dd7
+popcorn shrimp,402d6c7c-0537-43eb-b191-e7e38670bc01
+wasabi peas,749134cd-8a3f-4389-a1a2-8c525426a1be
+milk bread,8b05e054-f795-465b-9816-eabb19af44da
+poppadoms,56f962d0-e0b6-491d-a938-488845e7d934
+zwieback,7976b2e8-a04e-44eb-a35b-cd52534a8ea8
+coconut wraps,865a5a2c-6a4c-4dd4-890b-1b10d0439e44
+papdi,24dc6616-60b2-438b-acfc-cb12287f3ff3
+taco kit,4fdd25c7-2011-4579-a0f1-0a3223053847
+breading mix,61a773fe-704a-4cca-8d46-817f2506e4b2
+japanese peanuts,8ed7e509-f1ec-450c-9c73-63082a6dc17e
+potato waffle,6e330fd2-7b47-4ad6-96a5-f9308c60ccb8
+cauliflower wraps,a460dd17-fc01-43a4-84ac-af315735f408
+tartlet shells,77b37ff5-d91e-4963-b8f3-9c2489d7fe0f
+injera,a8e7ed45-bfae-4098-b6b0-dfe57eac4ca2
+cooking spray,65644c84-0670-4c99-8ce2-b790c4d987a3
+shortening,953bd374-f4d9-4ae9-98f0-15c128b311af
+avocado oil,58b0a276-9fa8-44f7-9357-96d49c79be5c
+peanut oil,ee828b12-6244-4ddd-9ad7-45d49aea89a6
+grapeseed oil,b964060e-e263-4584-8bca-99f99b109340
+virgin coconut oil,d02f0e7b-f774-4726-a729-34221a7d71a5
+chili oil,a265940b-cc8a-4a1b-861f-7ac94701ff67
+walnut oil,6e2f97d9-0a0d-4f3e-ab5b-2ee40831eb53
+truffle oil,ea5918f6-1a09-46dc-a907-d4e3546c0097
+bacon grease,73896b4a-b441-48bf-b00a-e8b621e2c22a
+safflower oil,d42300eb-5df3-4947-af92-deb681f37cc5
+salad oil,ee55d154-73e4-41a4-8171-6d0835dc7bf0
+cacao butter,125a9cea-627a-40ee-8f29-88f265b72beb
+garlic oil,4bd2f43d-e144-4916-a992-afec4770814a
+soybean oil,603a0bf6-5abb-4889-a2d3-16e01b5094ac
+white truffle oil,4c6745f2-c4d1-4de1-abce-701da5482cfb
+peppermint oil,5fa1507c-9bbf-48b1-b4cd-f76e87540149
+flaxseed oil,0b677038-c115-4230-9eb4-9dd2249207b5
+medium-chain triglyceride,c5087b9f-bc45-48af-b22b-c95b80cff290
+butter-flavored cooking spray,f4368f93-605a-43f8-9f1e-c1ed66ed0e54
+pumpkin seed oil,455760d8-3e72-4429-a023-4007ed857c80
+almond oil,f043ad0b-e69e-44c3-937b-e06eab9a2ac4
+goose fat,8809c37c-f20a-4a35-8894-894b8ca838d2
+lavender oil,8a7ab500-d791-4d0b-869c-b4323db591be
+schmaltz,87d2201d-7510-462e-b6c0-654dff6f1bba
+beef dripping,1923674a-b08e-434c-8627-6c228a6f90b3
+macadamia oil,5200d489-01ce-47d9-93ad-223630c21a22
+basil oil,ca406255-472b-48a5-aefe-9917e90fe909
+tallow,33dc124b-4614-466d-907b-ee0e4a314466
+pistachio oil,9de73890-1676-41bd-9d08-e18bc692a1df
+argan oil,0c3e48cf-0936-46b4-9301-2bb9eee7e207
+pecan oil,b20ee8a4-0170-4bec-92c7-b5bca504d3d8
+cannabutter,dc1cda7b-531f-4a31-92f9-ed394b6ce7df
+cinnamon oil,38f2e788-19e6-4d78-bc81-6b2ee68e566f
+red palm oil,96a67360-5115-4196-a598-9f9be752e193
+lamb fat,4f99c125-fdff-4147-891f-ae057ec9b96f
+castor oil,16194d7e-0dd2-42f8-8374-abcd5ccdbaa8
+hemp seed oil,4fe9b9b1-e50f-420e-b55f-be65db1f2c3a
+jojoba oil,a93270d4-25c4-40c8-9773-1be453511460
+rose oil,96fc922e-aead-47e6-8c15-05b25eea8774
+wheat germ oil,fd5b236f-aea3-448f-b37e-62f96c7ca6ed
+pork dripping,900527e3-4195-488d-b61e-69a96983b26e
+rosehip seed oil,3c05187d-1160-40ac-9f07-b226bf1736c1
+camelina oil,decb9d58-1913-4850-a285-e154c6c889df
+marula oil,23208bdb-dd45-4b58-b8e1-ecc7e9179c17
+white cacao butter,c88b421f-98c6-4e3b-a182-b1c6c6b77d19
+black seed oil,58d15f9e-69bc-4dc6-9ed3-24452d656072
+apple cider vinegar,fa3950f5-d5bc-427b-b803-15cfba0c54e1
+rice wine vinegar,a6ab96a9-d3d5-4836-9082-a0f16ec7722e
+ranch dressing,79629a6d-a06e-426b-a158-70d57291bd37
+italian dressing,5e1a6a28-f11c-4cdf-b618-8db7e1e7d7af
+sweet chilli sauce,a51340d7-2060-4a86-8704-c72f7cbcadbe
+champagne vinegar,02bf5bf9-0072-49df-8b8b-ca305999356d
+vinaigrette dressing,af672c40-93f2-4a5c-a5d8-4c0e3283d777
+balsamic vinaigrette,f419c4f8-ca4e-40fe-ad18-297add391427
+blue cheese dressing,ce58eec7-8bf2-41cc-b471-ce796b7a0de8
+thousand island,41e46c95-08c7-4dc0-b5c9-e543b0a6f557
+caesar dressing,4d3f784f-ba8c-4bd3-ba97-98cc1d39bb9f
+black vinegar,e4322f0c-52f4-499e-b4f7-5870edfd7ac3
+canola mayonnaise,17f16358-ae88-4cf7-9af1-87a79425822e
+raspberry vinegar,4a5200ee-f045-4245-8af6-4c21bc8f2289
+tarragon vinegar,35b2f2af-2ed9-4cef-8ed3-677c2086bead
+sesame dressing,09aafe2b-0be9-4fe2-abac-699828d5c6fd
+greek vinaigrette,acd3d97e-f2b5-4fcf-b244-2cbed2b0dd23
+french dressing,ad5546eb-a532-47e6-824d-dc66b4e243a8
+poppyseed dressing,6965b774-3c75-4813-aaa3-1a4f60a778f6
+balsamic dressing,1908d6ac-5fae-4d2a-876b-ba5add743be2
+verjuice,a126b30c-fe4e-46da-8bbf-2d5402211745
+kewpie mayonnaise,a1c10188-e47f-4db9-9db0-998fe1c4788a
+catalina dressing,4afc16ce-3f4f-4265-8414-e066f2fb92f4
+honey mustard dressing,34e5b27c-495a-40b5-9857-a46417982cff
+raspberry vinaigrette,70b72251-03f8-4f9e-ae96-cb0210fc7f6a
+chipotle mayonnaise,203318e3-1e69-4007-b571-7cb9e0d800de
+cane vinegar,13b9c72b-edd7-44e4-8405-ce21b34d30ab
+red wine vinaigrette,846a4a68-4d51-460d-9f47-f51b98c424f7
+russian dressing,3d0a56b8-1b4a-4e06-b994-cbb216782a3c
+avocado oil mayonnaise,b74a87a1-31db-4ef4-92f5-d43e5a75b121
+champagne vinaigrette,c6d028ee-baec-4c79-bdce-def22a1904b5
+sun-dried tomato vinaigrette,49cb20e1-9b4c-45a9-b8a5-2875d7c43ae3
+creamy dressing,8001d427-fae8-49c6-a7de-031611edd2aa
+miso dressing,2cfcfd1f-dbb7-4ee0-ad82-f0601b0e69f9
+green goddess dressing,26202040-5af8-4c71-a4d7-ffd6f3cbe133
+honey vinegar,0e1576c7-5372-46a2-9ab3-a1be0d01202b
+red rice vinegar,1ea2f2b4-1f80-4f3b-9298-f7e6d9f47cbd
+worcestershire,f544eea3-4431-4592-8237-cec08e2b28cb
+hot sauce,68727eaa-3dc4-44e2-b954-baff8922ef05
+bbq sauce,1323288a-2c94-4121-a4dc-971b7de677bb
+sun dried tomato,da70cf69-390b-490c-a91a-50aea4bdcb4e
+sriracha,885c7916-061d-465a-8689-e77ca3483caf
+applesauce,da0f9911-30ce-44a5-a95b-0e1c4e2d59c8
+pickle,dab852dd-4527-41cf-bf44-47037ccb8da7
+chipotle in adobo,26d0653f-60ff-4888-95fd-e6fee6a410e8
+wholegrain mustard,50aee5e1-541f-4ef8-ae55-4907b32c5410
+tamari,56d95356-b388-4931-94a1-93ee0c07a1c3
+chili sauce,249ef05c-eda9-4c3e-8154-d4255883ed99
+ginger-garlic paste,09e5b2b7-63e1-485c-8380-b4fbd3ce920a
+tamarind paste,e041ba11-0d4d-4796-88d2-c9b51f21719f
+brown mustard,33104baa-b884-4b47-b08c-55a1ce4566bc
+teriyaki sauce,a91e7c68-0d1d-4809-b931-f50cd3172d48
+ginger paste,92f25793-13a8-4917-8a25-e9eb994810e6
+chili paste,bad6db30-3c46-4db7-9866-49b02a0ededc
+dark soy sauce,6c4adee2-97fe-4fae-b398-e93fbfe817e5
+buffalo sauce,e68c6c55-03c0-4f0c-bac6-ff00a5fe3525
+harissa,601a4b17-1c89-4ac9-a8f0-562da14ca821
+cranberry sauce,3cb0df12-d4e5-4627-b7d1-8c8ba6accaa9
+chili-garlic sauce,a4b353c4-f7b9-4695-a670-bf360794fcba
+sweet pickle relish,7c3c6677-5f3a-4ea1-a5ac-693b72e4e725
+pickled jalapenos,708e4557-6cf5-4afb-81a4-8d876e4f5978
+diced green chiles,15267597-6c30-4a91-8242-630853ed8312
+wasabi,9649d580-f74d-4259-b9dd-a6feb17ca9d2
+pomegranate molasses,e13e8090-f56e-4af8-9545-387535f29713
+crispy onions,41cbaddf-3e85-4eb7-bccf-d31d9ea29dc6
+honey mustard,c8e9d4b8-7d16-462c-8d9b-998636602938
+mango chutney,2f4d0b2f-7af0-4863-92c5-8266ff05b8a9
+gochujang,b68616bf-965a-40e2-b1d4-84cd23b10261
+kimchi,68009f11-670e-4e6d-9bdf-bdf8e6684ca4
+english mustard,4a187f00-ddc0-4eea-8541-bb5ec8080648
+preserved lemon,2f892702-6cd1-421f-b6e7-426742901a13
+sambal oelek,b9a2e4ca-b645-48f1-8da5-350f48f33063
+picante sauce,e474acab-c313-4442-a6be-2f2ca3a4dcac
+kecap manis,1f5182e2-ea54-463e-8920-3683da5c248e
+pickling juice,5007ab1f-ce91-4d1d-b118-fdc9d6a8134e
+chutney,589e0a58-8465-4332-8b9e-40d182cf372b
+shrimp paste,3fb6ecff-f33b-44c9-8273-197d2bd603cf
+pickled ginger,176569fa-6f85-4286-be2f-c3e2bfeaa480
+thai sweet chili sauce,16b80341-850c-431a-8ee7-a02303b6afb9
+onion jam,36d1dca5-5be7-4e21-9538-415480af1aed
+pickled onions,886d05d6-3075-451b-b614-685d2517d75b
+sweet and sour sauce,33d8de25-9553-4729-8cc9-8689e5c782bb
+liquid aminos,ef78c62b-1e77-4224-87ee-eccf6d5fa38a
+tartar sauce,11a7d296-4e26-41b7-b504-64c879bb8757
+pickled red onion,1f88a3ec-593e-4223-864f-31397692d1a4
+bonito flakes,f718963f-bd0c-46b4-ab9a-56a387c1ef05
+bread & butter pickles,25104162-6f95-408d-a871-b78d758aaa14
+ponzu,3c22571e-2651-488a-99da-dafcd83455fc
+green chutney,d76625fb-93af-4ac4-8d18-19d31d4d2555
+peri peri,7f4d82e1-380a-4cfb-8a3b-e944f59ace38
+dill relish,c2534d92-614d-424b-a831-701550af03f9
+red pepper jelly,1f366bac-98d9-49d6-a5b4-ba7cf733a753
+pickled beets,3b8dd78a-a703-486d-8a72-42511742b28d
+sambal,944ad3c0-c5af-4e9f-aa0e-d0a30ec02db6
+mint jelly,e43736dc-62bb-47b8-9907-9adf84ab5dc0
+horseradish mustard,d8455916-0dc9-4d4e-be2d-994948fe5572
+thai chili paste,8226b803-f850-4b92-9538-01b8f54f077f
+pickled pepper,849f548e-9c61-4de8-b4be-26fa8f010d8f
+tonkatsu sauce,e1c57e2c-c1b4-48bb-9959-254f263362c8
+aji amarillo,d4b9c11b-8bc4-45d8-95d2-0030f8f24989
+yuzu juice,a0dd1a64-8bcd-430a-b23e-d54cc95d4f0c
+banana pepper rings,65fcddf5-dacc-4951-b573-945c677d8d12
+hot pepper jelly,0e14fa24-101d-4925-a5b1-4c5164f11a8d
+tomato relish,d81ee18c-1b78-4c0d-8497-96a6f7e28f66
+chili jam,f1f01bba-090d-4b36-a667-e10af4843ecb
+duck sauce,042e2612-5d2e-4922-9859-7b745ed6ef8a
+ginger chili paste,22813b1e-2276-4adf-9946-dbabc205e38f
+hp sauce,952be7b0-cdfd-4f62-9910-6419a8bf6a1a
+chermoula,123bb0ac-1fd3-4ae4-b1e6-710e9da87b81
+jalapeno jelly,b6683571-ecbc-4904-8dcf-4389dff3553f
+doubanjiang,62f90570-9ea2-408b-a499-f9b1c9e779be
+korean bbq sauce,958f9149-3686-46ea-a003-eaa3926cf9b2
+lime pickle,9eecbb41-3aec-4e2e-b0af-92aaca22c6ea
+pickled vegetables,2f724c2b-0e46-4fee-b25e-a1de16896b63
+bacon jam,be1889e6-a233-40d0-8705-614b5dbacbdb
+corn relish,c05929ee-3bdd-46e7-9731-7e0bb1cd920e
+fire-roasted green chiles,363683c8-edc7-40de-9417-b5a07507822a
+ume plum vinegar,d17467a8-3eba-4343-b8d0-74f902322342
+chamoy,6b6a6024-a085-4900-a055-4b75679996b9
+giardiniera,dcc775dc-0544-4422-89b0-6b32f323bf25
+maggi sauce,5379574b-aee0-4ba4-874e-c1047d232e25
+karashi,f9a3a03d-bc33-4150-b80a-41703a003439
+german mustard,f3f68e1f-fc2c-44bc-ac5e-7bbfa150b7e7
+yuzu kosho,954a8af1-8740-4053-97de-9e6dc6cff379
+chili crisp,4eeca30e-f5ad-4826-b32e-b3227d8a8704
+tomato in oil,b81cc8ce-f204-459a-aca0-ede9a5562661
+red pepper relish,084a3829-7718-4760-8c5d-3aa59807b666
+turkish red pepper paste,1b1e7dee-abf1-412f-9787-7a28600e99ed
+okra pickles,87edf8cc-0481-4da7-a2b2-ff1de4a4f363
+ajvar,9308786e-0e6d-4d48-8eb3-21c29f906e5e
+tomato paste,72a2dedb-8bc9-4537-856b-5adc04ecc791
+salsa,c448207e-7c16-4701-87a9-5ce3676bb276
+pesto,e83c2323-4372-47b3-9dfa-1a852fce0035
+pasta sauce,f8520b22-1a37-4565-aceb-50eec5b7cc5b
+marinara sauce,5670d519-6652-447c-9768-f9157993c44c
+tomatoes with green chiles,acb65387-abed-40f7-8e01-d70f0830f6ab
+pico de gallo,b946cff8-87b7-4a34-a3ce-9c9532bc75f1
+stewed tomatoes,99ce47e7-be3d-4aa0-9dcb-06d8e82b18bb
+hummus,c367cce9-4b76-47ad-9f8c-53b731ffa6d5
+guacamole,e44704bb-cc75-423b-afbf-2aed03f4305c
+enchilada sauce,b999108a-9f0d-483f-ac87-5ad93692c949
+fire-roasted tomato,5dd281b3-6631-4846-92bd-1b92d4d3ae3b
+alfredo sauce,57a5ed8e-2602-464d-b57c-5db204714ebf
+salsa verde,b450feba-89e7-4c62-8646-670150b6dff5
+balsamic glaze,4db6bd6f-3044-45ca-989c-e1b85799332c
+anchovy paste,57f4617c-1e5f-4bdc-b14b-f9e702a57c1a
+red enchilada sauce,39cf3c5e-6a83-4575-b261-2dd0881e6145
+steak sauce,a1b1c6fc-5cf7-4a1b-b676-1586afa0d1a5
+chunky peanut butter,156f01da-db38-4990-830c-c5c8d00dc6f0
+beef gravy,c514b31d-78a4-4b7a-8a26-3bdf7311c523
+tzatziki,b7a2ed11-a513-4a8e-bece-539398f2f579
+taco sauce,3b56ca8c-08d1-4435-84bc-a0611c0f24a0
+horseradish sauce,f87daa15-a54a-4a00-a3dc-e35c60965be5
+béchamel sauce,e38288c7-9f69-4658-a9b0-64189234bdf0
+sun-dried tomato pesto,0f4aa536-c68b-4e11-b632-7989f5022225
+plum sauce,99393a29-ac22-4a08-8ace-374c3fcfd992
+garlic butter,1906ecc1-3019-4ad4-872a-b12a0a2fb030
+hollandaise sauce,482c9b33-0c0c-4508-abe7-181125687cbb
+black bean sauce,d2a17e5c-59dc-4556-b1a4-b3e70d8a50b2
+cocktail sauce,3d785dfc-ead7-4b68-be3d-e1c28f7f9ef0
+cheese dip,82de01c5-c8d2-40c6-864c-dcfa9a20098e
+tapenade,9a95ef00-09d8-4d34-b1cd-78622b2ac5ba
+aioli sauce,64fba5ae-5b14-4514-9ca3-97bb0bb4f8a0
+stir-fry sauce,ffc8f680-69f7-43fa-a8c9-f097bb25bef2
+turkey gravy,d674a5c4-3068-4ca7-a27a-eba50079de78
+chicken gravy,2f0b6c62-d3da-434f-aab3-62bca6a116a1
+sloppy joe sauce,046fc732-d902-4a5f-a765-a3b801566e50
+thai peanut sauce,d6135a31-7987-4e09-a3f9-5e80a2639259
+sofrito,99e29688-1286-410a-9d6e-7efa8d5b3ba8
+pimento cheese spread,6040d21a-1b98-4501-8828-527e55fb4ab4
+sun-dried tomato paste,2873ed4a-99d4-4bdf-92c8-7ad7d9e02b7f
+demi-glace,6599d790-0cd8-44be-8254-3b7dbbb5b16b
+chimichurri sauce,8cc01ed8-0d4b-42a3-bc3a-bcd036e7fa44
+french onion dip,0140f503-b640-471d-a84c-e91b04def2d4
+queso dip,1dedf5c0-35b4-44eb-9b3f-766f6e994cae
+liver spread,1d794ee9-36ae-4b06-8a9c-f075431077b8
+curry sauce,4aca3d2f-fbfa-4539-9087-e1674e4ff74a
+mushroom gravy,0214989e-ec8c-4184-a0ca-0560e25f6981
+orange sauce,80591ca1-6782-4c32-8d20-2e7b78cb5bb1
+schezwan sauce,82c1cca9-915f-4318-9bab-c497f7add9dc
+pork gravy,2ec925b0-0e3d-4534-8d93-d8a553a1c381
+country gravy,b80f83b5-8b5b-43bf-a082-236275d5c4af
+pineapple salsa,24f8e697-23a9-41c1-b9c1-173207ef94a8
+artichoke dip,4c7eaeef-4f1d-43d4-a1ba-318a831ff66d
+mango salsa,c889279b-800a-412e-ba4f-343d307a2bfd
+olive paste,f88dfb25-6e3f-43f2-8067-1c066edfddde
+spinach dip,630643bf-27e9-464b-8fd8-0b3aeafebbf9
+vodka sauce,871859aa-492a-49b7-8717-5b54fb119225
+browning sauce,9750a1cb-0c8d-40b3-bc2b-287bc98bc952
+tikka masala sauce,fe087592-8f97-41f2-add3-ddd48ee65242
+mole paste,a259df2a-7502-43b7-8942-263a58bc4894
+sausage gravy,5301bda3-5a67-48d4-b286-cbc9003e4b24
+onion gravy,42fe5a70-ee88-4924-ab17-d3cbacbd9e4f
+kung pao sauce,d51c0b84-df05-493b-946a-856f51a4b833
+deviled ham spread,8f4493ce-4d3a-4116-8357-5eccf4d835bd
+garlic spread,491b4918-2e9c-43ef-8961-c73fdac5c2e7
+sesame sauce,80e6ae4c-926f-4255-acf5-d0ab9def939b
+pad thai sauce,a44f2077-3956-4247-b66b-01722d68e0a3
+black pepper sauce,1bcfd846-8988-4012-a714-2cd803ce7f4a
+char siu sauce,61caf91f-c412-481e-a371-3a1a3f63e8a3
+green olive tapenade,549dc449-d976-4483-9177-7fe6620bfd7d
+bean dip,6a6e0e87-5a19-4500-88c0-786f6b760e22
+butter chicken sauce,0c12f459-50f2-472a-b6a1-3cabd0387b13
+tarama,ec535bf5-0593-4dec-8266-f1c2c92cd67f
+black bean and corn salsa,85eaed2d-612d-4e79-8134-971c97131241
+mentsuyu,6331b5cb-fad5-4f1d-b75b-d0c17aafcd10
+ssamjang,70a462ac-c729-4e8d-b873-9e6180d6ec4f
+white pizza sauce,12563ef4-e313-4c8f-8dc2-59ae416129a0
+tomato tapenade,f3eb4af6-e51b-44fc-a50f-754f2e548863
+yum yum sauce,f1111ff3-2ec6-4448-bcf5-257d1bc26b03
+white clam sauce,3e9100d9-2587-4b7e-9959-22d316c9528d
+béarnaise sauce,d49b9f67-019b-4675-b580-ce533d20b312
+nuoc cham,61d01789-4b39-4f2c-987e-4fb64ba333ac
+peach salsa,254789f3-c9ab-4219-a045-9ab6f23b6af3
+xo sauce,8b41ad9e-1740-4ef7-b1ab-953404cb49da
+duck liver pâté,2eb0321c-61a2-4faa-b814-3bd87900657d
+pomegranate sauce,2e042e10-4373-4472-96ec-477cda53d312
+jerk sauce,82a1c5e5-ef5b-4aad-b0e6-0372e8275074
+jalapeño cream sauce,e323032d-3d39-4a83-8576-292b07040968
+tempura dip,6e033427-c259-4a54-989a-e0324936b4ee
+general tso sauce,c3c0791b-93dd-4315-8245-ec31d928111b
+lamb gravy,88d95ff5-6e8d-4d50-b25a-a5161013631f
+sweet tamarind sauce,feab6365-49ec-4234-bca0-18f83b17ae82
+adjika,ebcd65e2-0ae7-4c2a-b044-c98374b78533
+giblet gravy,37c38ec8-04f6-430f-be8a-0b3ad5d0a598
+beef stock,80136ab8-a202-47e3-a267-81fb2b0c82e0
+cream of mushroom,06f61618-9db0-49da-9efc-3b3c4b52513b
+cream of chicken,51c29cd0-7014-48b2-917c-c978fae6e970
+bouillon cube,c9a92f99-2c35-42cf-ad59-97448bd7a577
+onion soup mix,d805bee0-3a75-4627-a1a9-7b9991f40ee5
+creamed corn,f0603f1c-f678-49ef-9a58-8f4155b4ae91
+tomato soup,0811cd83-26b4-488b-ad70-1039d6f250e9
+cream of celery,62b5895a-bee8-451d-bd49-73aea4f4a3ef
+chili beans,c2810479-efeb-40bf-8ab5-11d45b5705c2
+better than bouillon,be9d9e46-9dd9-4e01-8fea-26fdad7e211e
+clam juice,9386d40a-1a1c-476b-bd44-518d511f0f8e
+cheese soup,805b1f3c-66c0-466a-b621-40b1ea8ca4d4
+bone broth,f8abf4c0-cf5e-4979-a383-3b0626b6daec
+onion soup,b5c75d99-9579-475e-95ef-b65384602638
+dashi,ec51ef98-3490-403d-9043-d676b67b1cd6
+chicken soup,a0e8c509-944d-42f1-8ecf-c5935a19d912
+veal stock,2b850003-ba26-474d-907f-1694d661e120
+chicken bone broth,edac67e2-bc87-4577-931e-87f9dfc78fd0
+turkey stock,fc8038da-27ec-421a-8c95-b30a52e4c35d
+ramen noodle soup,85bcc7ce-3b27-47dc-9b38-93b1512a52cb
+chili without beans,d48cd485-dded-4fc6-a138-bd32313cd147
+lamb stock,6fd54570-60e5-4641-9d05-fff5a1b8d2b5
+turkey broth,6b1b4b75-79b5-4d60-8cbd-b8b7aa41d091
+beef consommé,394422c7-4229-4666-9444-2c34fbb5b741
+golden mushroom soup,78888596-6f0a-4836-a8fe-16d54a4ca5f8
+cream of potato,7eee1af2-537b-43e8-ae78-871553322f37
+stock paste,569adc33-20d3-4cad-9c34-3a00440b9c53
+seafood stock,6a41d32b-1dc5-4a18-a90d-1751fa27fc9c
+vegetable soup,3abd89e7-bcdc-46d6-9867-6500fbc083f7
+mushroom broth,deae9284-8488-47d3-aa84-fe0aa475419d
+vegetable soup mix,96cdae3e-bb53-446e-b261-a91b2bba7bf7
+chicken consommé,e72cfdd6-c0c1-45e8-b240-3309491befb6
+chicken noodle soup,970597b8-bad5-44e2-a7b9-2a0bb5d34a8f
+shrimp stock,09d43a42-5cc9-4220-b500-3be935f256c0
+nacho cheese soup,f7e6f258-cc8d-4d09-afdd-28f97735b9d8
+cream of broccoli,2a2890ac-1f5c-47d0-9ab7-50e4b7455ff5
+lobster stock,82decabd-b191-4432-8974-7bd84f0fcd5a
+chicken rice soup,00b62687-a154-4834-ae2a-152e11241332
+pork stock,fa1d29d3-a8e2-4f29-974e-d2ffc6f357ae
+chicken stock paste,5909ccfc-45e8-4979-8b51-37b646dede78
+broccoli-cheese soup,53449622-0229-45e0-bfb2-b9f394527908
+clam chowder,0bcf335c-fae6-4a6a-afca-d2d12a44d625
+butternut squash soup,0d430454-c53c-4153-b664-2c6fc220fbc6
+duck stock,1d2a425e-13f2-4cc9-b32b-191b9c1ad019
+instant miso soup,467ffae3-9bd6-466f-a4f8-01cc2fd4ec0d
+cream of asparagus,dd8c7eea-ae1e-4cca-99da-c26b87556263
+pork broth,01718094-bced-438c-94b0-26160dea5352
+bean soup mix,dd7c9dc5-7d51-4837-97fb-809be6d67942
+ham stock,c6fca404-a98e-4b24-aab6-e85ce726780c
+bean with bacon soup,06ac7a7b-6455-4a31-87c4-f5d7bacb7dc6
+lentil soup,915e74c4-4d1e-47d9-b6cc-a6881a7c76be
+veal broth,178fef78-c8c5-4f0e-b1ca-819a8b182b88
+vegetable beef soup,14422521-38c3-4a8a-9f0a-f9da3dd19ec9
+cream of bacon,fa7946ad-4741-4cc2-90c4-b3c70eae66a1
+lobster bisque,39819d54-a08f-4f37-a8f7-fec1733ccbfb
+condensed chicken gumbo soup,b664ab34-ea9c-4ebc-b863-5cdbf00bbb16
+minestrone,5eaf9c53-6bee-483e-9c35-633def01692a
+lamb broth,8b31f250-a9d2-415d-919d-52ce4b45c419
+venison stock,c700cdec-a6f5-4481-9553-5e78b4cdb47f
+bovril,58be2eed-398c-41c2-80d3-58b063e88480
+beef stock paste,a02ea0cc-2790-4afd-b3c0-4970c78e4b43
+callaloo,01ea1662-9c7e-4dca-923a-7456ac0d8b9d
+green pea soup,ab42d2a6-7490-4d43-b371-ca294ebb73a2
+oxtail soup,3e6d6307-aeaf-4a78-8fd6-19886b8dc280
+potato soup mix,9e48c1cd-b09a-475b-bcae-38da929176ba
+split pea soup,8dd67b79-46d2-417d-bc30-d44a1b41417f
+tortilla soup base,47df444e-02f3-4cbb-a78e-391614e152fa
+cream of cauliflower,262515cb-f26d-4758-a6d5-8b85ba0190bc
+dark chocolate chips,899c2759-9357-4fd2-9c02-11689be8e380
+graham cracker,b9babf6b-c04a-4741-a4b8-fb7da3760833
+baking chocolate,51c4fbb5-a35a-4e85-8f85-98553670ccb2
+white chocolate chip,888f67bc-935a-42da-a1d4-bec070a96cc9
+oreo,e4a7667a-c48c-4d8f-ab78-05717ade117a
+chocolate hazelnut spread,432fb920-d148-462d-babc-a625c050352a
+biscuits,84addaed-94b6-45b0-b49b-689cdf0ce24f
+instant pudding,416453a2-67c1-493b-b6ce-49b7ac98d0dd
+raspberry jam,bae5f670-1f7a-4efe-935f-654de8b9f393
+apricot jam,6632070c-96a4-42e2-8c8c-312bf529e166
+cookies,58eb1755-68f4-4a89-bb87-5bbac07fa8c7
+caramel sauce,64fd3e7e-2ca7-4d69-a9db-c16a7c3935e6
+strawberry jam,4afc389d-537f-48c1-bf52-27683d1e93d4
+candy,e1ea435d-9681-488f-8f80-0d528c4acd08
+marshmallow creme,dfc7ac77-a39b-442a-b196-7af0bab75148
+chocolate candy,e3d13438-9f4a-43a7-8b60-695078bfb4f4
+orange marmalade,be589f01-87ef-44a8-8de1-4330dd4a8b5f
+jam,4bde76e0-06d6-4c2d-901f-ac11307407df
+peanut butter cups,962253ff-22ca-430b-89bb-0176e426e541
+chocolate pudding,cebdae8c-0329-4e79-a859-8c4545f570e9
+butterscotch chips,38c608ad-8c64-4894-ae6f-3d451c831e63
+candy cane,eb44b376-cb3f-4614-8368-e61e89f0c2e1
+peanut butter chips,ab421fbe-74f9-4fb8-97e1-474d98657b41
+lady fingers,43d5f51b-39c7-4262-b24c-4310c42f7aa9
+fudge,7c23d10c-91f0-484f-8eec-3ef4a5a23c69
+chocolate chip cookies,eb30a761-efbd-4fa1-9ff2-bec49473588c
+digestive biscuits,b76e5a75-a096-4690-813e-e0adc5123f7c
+apple butter,38a777cf-3a94-4aaa-b5e0-7b0012742a27
+couverture chocolate,66f0bb61-e83c-438d-9e74-2a1cdc89da77
+peppermint candy,f1a9bdf8-840f-432b-91d0-c901082f906b
+chocolate cookies,f5384d65-9181-45f9-8490-0b770735b792
+dark chocolate cocoa powder,408faf25-4ec9-4c82-8cb1-013c3f918f97
+cinnamon roll,00a9ff0f-36ce-4c94-922d-1105ce5b081d
+candied cherry,f4822658-113d-4013-b2f4-43e8c015f691
+currant jelly,297ea2f8-94c3-4f10-aeb9-9e081b38d5f1
+vanilla pudding,eeed7510-b7eb-4cef-b897-05adf8bc35f2
+candied ginger,8c28ea21-f258-4a7f-97f4-98f1608f6553
+apple chips,6d2f05a0-2751-4f11-9924-c4db9f70cb2e
+peach preserves,af175fa1-ffad-46dc-bed2-98cd4928ef58
+caramel candies,3d2573b2-2e06-4e4b-be32-ede388736601
+chocolate wafer,7f10c22b-fd42-4289-bd6c-4ca18ce3242b
+candied peel,59377da9-0d6c-4762-a8a4-5c2fb4818226
+waffles,ff73e5aa-6fd7-4b59-a58c-854780a1d289
+cherry jam,07e7b0a7-444e-4fe3-a6cf-176309ec9e8f
+almond cookies,a8d51838-de04-4598-8c20-7dbc687bb9e4
+grape jelly,d8b7ef36-92cb-4cf1-8a90-4bc4869ccb19
+instant lemon pudding,3e30633d-9f9b-46a4-b979-181e7f66e72f
+butterscotch,d78963fd-22b3-4809-b6bf-df7f1cb5877c
+fig jam,57bc9cba-664a-42be-a5a3-2f3182afc0e0
+blueberry jam,68c27ae6-4b4e-4b67-8145-7854597825fc
+cinnamon chips,c5e4f2ad-9fcd-4661-9952-1fb7d07d4320
+candied fruit,6e7ea666-02df-4edc-a042-690ee4b28777
+blackberry preserves,d072bd3c-47c5-44c6-b107-fbf4493300f4
+apple jelly,4f0ee9e5-5087-4d64-8266-fea07d950b7f
+candy corn,efe71866-6422-41b7-b6bd-51b2fe8d2620
+gummies,d2504391-f39a-477a-8325-590f0c439a5d
+sugar cookies,2e04efce-1d43-4ce6-8240-daecd50fd141
+cookie butter,0af165a8-bb79-4141-acd0-1c021501edec
+banana chips,e1af4f52-8200-4e9a-829a-7389765bac2e
+toffee bits,51e4bb2f-991e-4e2a-a965-59d9b43366bd
+ginger snaps,4beb7a00-a95c-4bd4-9c66-ab812e8314e3
+marmalade,6af93921-f1c6-444b-97c9-a114010d5b0e
+sponge cake,d1b06f1f-85d0-4cd7-8f94-8de890ae320c
+butter cookies,c9a3cb39-12ca-4ed9-8f04-ac325d95d251
+licorice,d3c2112c-bd07-42dc-810b-f80ff0e0c6e4
+pineapple jam,6a645bb5-16ad-4a0e-8d25-73a41258b925
+chocolate-covered espresso bean,4e1eb7ef-ed69-446b-b3cb-39860e60f98c
+plum jam,7c8efc03-2100-4901-b9a9-aa105465d882
+chocolate egg,9a3cc245-257a-497f-991c-cbd5431eb16d
+sorbet,221641e0-83b0-471b-b72b-462a215d6f8d
+guava paste,d23b83b4-a281-40ab-a1ba-4c03ef61db04
+cinnamon candy,41c10b6a-2c2c-4e62-ab08-60a6b35baddc
+banana pudding,5d91ce63-b115-4d66-bb73-e8ac68de4a7d
+pumpkin butter,8d08f009-841d-4c15-af9d-fac426a5db90
+white couverture,e530b534-ec46-4e16-bd80-5e3c5b1184f0
+ice-cream cone,afbaec8b-2bd2-4d65-a186-3926ae01616a
+chocolate peanut butter,0a0e15f2-2447-4418-ab16-e9567f92cf83
+doughnut,bfc23153-1d39-4de0-aba1-675fb5d98628
+butterscotch pudding,2bb7b860-a037-43fa-894e-c01bf7d5cbe6
+strawberry sauce,ff3b650c-ffcc-4341-a7fb-a733f2b33fdd
+chocolate spread,c7e4fb5a-e799-4f6d-acd1-44b4d8841c07
+chocolate fudge,27673bb8-734b-4192-a58f-713a2cbc5a6c
+hershey kisses,4b9e6c27-22c3-4183-8f4d-8d2fc9a73b11
+raspberry sorbet,2170e3d8-0c2d-46d4-bfe6-7c79f8101fc0
+pistachio instant pudding,014eb413-8a25-461f-ae4e-8465bde6973a
+dried mixed fruit,f370fa03-4368-43f0-9e0b-f4d8266eeee2
+praline,5642b0ba-2690-482b-b96e-a3b783cff74b
+raspberry sauce,db7660db-f470-4011-bb5d-c38db614974b
+cotton candy,7f2ac88c-766c-49c9-9a9c-a94bf7a27a80
+chocolate almond bark,727e05f2-40ab-4135-9b02-a8ab30b0ef25
+lemon jelly,ee16583a-3e28-4bfd-bd2f-76503685a388
+vodka,756e48f9-56f9-4ce6-9bab-6d04425b6bd9
+orange liqueur,b7f162ad-0261-4fd6-9b1b-678835998fbb
+bourbon,217063e5-5303-4f24-856b-b0ccbb876f1d
+cider,690087fc-470b-44a1-b7f2-5533bc8d5880
+sherry,66254d87-43e0-4cde-bf96-c64e3078bc5b
+tequila,ce4705b1-a5bf-4fee-8141-241e25c8d153
+gin,32f41d2a-8733-420c-93ec-7cf9b3e80dd4
+bitters,4e5d67a7-9428-4bb7-85f8-856c77998ca5
+mirin,6b123553-3d9a-4a6d-89b1-b7994b4dcd8a
+champagne,a61b1f38-1887-4a11-a2aa-ee5f40329acd
+coffee liqueur,814c7f7e-fa1d-4faa-a874-aa8d9e0321d8
+vermouth,1274ce45-2ba6-4aba-a0f6-312d880d5d4a
+irish cream,378b2e8d-417b-455b-828c-6c55aa15aa6b
+amaretto,b4712065-783f-488f-9557-c5dc94176c06
+marsala wine,f721c2b2-c421-4576-8312-5cf5a111c58e
+sparkling wine,5b879ef6-07ce-4305-b58f-39da7f313c1c
+sake,bc83cef2-3b17-402a-8ec0-e7d8eb6248d8
+rice wine,84eb79a9-3703-4810-aac8-d37f8ed9c4c0
+shaoxing wine,296789ce-8cc5-479c-8719-c22aa5b94157
+dry vermouth,09073a5d-e3e7-4fa2-982a-638b528ad15e
+schnapps,e221758f-3bda-4810-8d9d-52e537b87232
+liqueur,e0c6a066-e441-48e1-b8d7-a486c4f1ced6
+coconut rum,4305dad8-829f-4991-8d05-de2bc1d40d2d
+port wine,851561d5-265d-4594-ad7a-12834c64de1b
+dessert wine,dffefd4b-329b-4d87-b454-6f415a5af41d
+curacao,52bd710b-cff9-47b1-9836-595c1c8a5b04
+apple brandy,71fed886-02c0-4942-b2a0-ea75de675112
+anisette,b77e21d2-38cd-46f8-a612-1b75cd3dad72
+limoncello,eaa29bed-b1e2-4157-bb94-4528ebe969f4
+herbal liqueur,b5da168f-abb0-47b4-a3cc-1020e9046fb2
+cooking wine,dcdb3ef9-9d2d-40db-9bda-1e6e3d6a3d3c
+elderflower liqueur,51476dc0-c51e-402d-b976-8f9bdcf67665
+hazelnut liqueur,14cf6938-c192-4b5f-8414-2fbd2b10063e
+peach liqueur,8c2d5fc9-16a8-4402-94c8-ed35b8863da6
+madeira wine,c12e8fc9-5f5a-4022-9250-fb2b4c0117ed
+absinthe,c2e804fc-5977-4276-9fb5-0284142b788c
+creme de cacao,fd3960f2-1933-42e6-994c-bea664a2fec9
+aperol,3999b177-496c-46fe-a701-74883868cb78
+melon liqueur,26b0bacc-2722-488f-a0ef-f889d39e78cf
+raspberry liqueur,b2ef7098-6dcd-4f8a-9b9f-e785a58e605f
+banana liqueur,5b7fe253-8d19-47ba-ae8e-839465c0fa36
+white cooking wine,a1381e93-1666-4371-b488-8c62f47ec06c
+creme de menthe,174b5522-e919-4e4c-a9e5-0e1e845515a5
+cachaça,5f8bc5de-699a-458c-ae15-d7847539d33b
+apricot brandy,ce43f428-de82-4849-8f22-2b8c97e0e36a
+cinnamon alcohol,e7e71b72-4203-42d1-8686-d026336c0cdc
+chocolate liqueur,296892bc-35d2-4b64-9671-099ae21a3bef
+maraschino,1ab7943e-7337-4a88-99f5-078df261dba6
+ginger liqueur,88d95e35-1611-4af7-a86b-7a9dc43bc7d1
+sloe gin,fae54b0a-6528-451e-9965-b638dbd48cb7
+cream sherry,897d2f8f-0dd6-4fb2-beb3-f299d01b417d
+bloody mary mix,3381a950-52d5-4c31-90dd-cde05219731c
+creme de cassis,70597e64-72c2-4ba7-8285-94a2c360c321
+gold rum,151e4238-f5e1-4866-ba51-ec62c191ed45
+red cooking wine,45c40b1d-85a8-49b3-88cf-747f7c890918
+mezcal,dfead539-0144-4669-bb75-9b56a7883014
+grappa,bee4c60f-1339-455f-a001-6075d1395a5b
+drambuie,7640563d-289f-421c-a8bb-e002b52af2f5
+strawberry liqueur,3aead70e-1763-47a0-bf2a-db2738076463
+ginger wine,25f40228-065c-45d3-b0cd-80180a7eb87a
+white port,9a12e906-c504-43ac-bb6a-b89a086aea98
+bénédictine,ee3d38a8-6b3b-46f4-af60-00d92b878d57
+chocolate bitters,4bb7df95-529b-4581-9cbe-6df9d1efcc1d
+galliano,1e20048f-1d82-4ff8-a550-76aec080aa9c
+coconut liqueur,b673b5a5-f47e-4dce-b85e-e8b5e65d35e3
+daiquiri mix,16d9a576-a098-44db-9228-0bbc774818b4
+grapefruit bitters,bdcec732-4eba-4d68-a1cf-96428f193557
+sangria,65e0b683-339c-4dbe-8a24-1b1f9dcbd55e
+vanilla liqueur,4407563d-1c05-40c6-aa96-da0ec90b1c6f
+white chocolate liqueur,a7d79626-5b6a-4aa7-ae71-93983f070d76
+apple liqueur,4dd1fcc5-b766-4239-b1f3-54d3a3ded8dc
+rhum agricole,5a187ec0-a249-42ab-88aa-78933d2c9de9
+moonshine,6e8cc0aa-3112-4a0b-a1da-d29ad375305a
+violette liqueur,9b497419-1487-4801-9709-2ceaa87f8ae1
+root beer schnapps,bd2f66eb-751f-411b-b8ac-6b5ed8885e03
+soju,9946f08b-41f3-4023-85fa-285267468bc1
+aloe liqueur,12a3af67-c28b-45f4-b249-f05db1fe9609
+pear liqueur,46a9a436-0b88-4d1f-93b8-bf3d1f1ce255
+pisang ambon,9b888e48-287b-42f5-b4e1-3407e840b443
+caramel liqueur,6e8a8219-3698-4965-afd8-f1b35f71e2ec
+egg liqueur,a6b25da9-e697-42de-9909-f5fe82ac9dca
+alchermes,6629163d-b91d-4ac4-9ea3-82f533ff9685
+amarula cream,87780b9c-36e0-45bc-bb27-120f8a1a94a6
+mojito mix,b3f432c8-f800-469f-8151-c32640a85275
+plum brandy,80cca802-ab5f-49b5-adae-9b24f1277482
+watermelon liqueur,ed1d6d27-0a54-438d-ba79-bbdfee82327f
+arak,c2ed22ba-3f1a-4414-86b2-26c7e103a15f
+birch beer,554809c9-0646-4e8b-b067-906c3851a490
+blackberry wine,10a4201a-1809-4f4a-91ca-fbc30c39daa1
+blueberry wine,d74aeb14-af7a-407d-b8e8-2660c4713935
+club soda,834cdb43-6efe-479f-a127-169b3271e0d2
+espresso,fddeda06-5a05-43cf-824d-30364531730e
+cranberry juice,11432843-6dfd-4198-bb44-c480a091dc05
+lemonade,7adb2f34-35ae-4f0d-8c1f-56f029ee812d
+pomegranate juice,8502111b-b337-4989-a187-65e982e4b69d
+coke,8dab4750-4dd2-498a-95d3-2110e7f7ffb4
+eggnog,1588e03d-714a-4a1f-a04a-5503d74335c9
+ginger ale,607e1001-f525-4d77-9dbd-6a6d254a4fb4
+ginger beer,cce8fd3b-680d-43b7-8226-d30ceae055bd
+cream of coconut,4e05af14-fea4-4679-aeef-c4dd33208cd7
+lemon lime soda,6ecd3c80-d8d9-4102-8b0e-b1599de4afdb
+sprite,12ad4363-5e2a-4e8b-9204-ce34f55d376b
+root beer,add321ea-db33-4586-b442-742d51c77b38
+chai tea,92b7365d-d3c7-48a9-81e3-705a8fd2acb2
+tonic water,497af1a0-d39a-4fbd-892b-f60311cead63
+drinking chocolate,806cffeb-6ba5-46ac-bf11-44ed0344b8b3
+mango juice,bbd3998b-7559-431f-9bf1-ebb1e8257b35
+malted milk powder,701d965e-d094-4e22-95c1-f23e7056c869
+limeade concentrate,fca8af4e-e3bf-4328-bf27-2d273b14e085
+dr pepper,363281ba-6588-45a2-8e2c-98e7c0cc94b6
+watermelon juice,35d59e03-3bb5-4f1e-88b4-4fe6c9b1a071
+apricot juice,d6ccd3ae-d9b4-4ee3-9af5-5cf73afd97bf
+tangerine juice,2d7f1410-6558-45fd-b7f2-79098e0d78ae
+elderflower cordial,8d71b9cc-0e77-4b13-b584-ab4ddabfb728
+iced tea,32ae324c-4161-4ceb-ad47-27272023f7a3
+kombucha,cdd428ed-88b9-44a3-bd97-ba56e2ebe8c0
+peach juice,5b46f2b4-878b-4005-b365-26fac5bc3ac1
+beet juice,c2ca00b1-d7e9-4a2c-92da-41915dddebc4
+herbal tea,c89914d2-6630-4e9d-a27c-36379a66aa4f
+energy drink,7a4d5aea-2d66-4918-9aea-285c7718f868
+kool aid,fbb3c859-f745-4fe9-ab8c-1c6abaf64f06
+margarita mix,ad51e9ee-0481-47e3-a411-09ed8d6687f0
+tamarind juice,b3cefd01-b895-4849-8ee9-ea8904451d2f
+orange soda,4f057f6e-6144-4d6d-a646-7f38ef2f5ed9
+cream soda,19095328-2749-41e2-b163-aa258d254747
+mountain dew,93c05b05-6592-4174-8555-223d636e723d
+grapefruit soda,40ae4451-6ff7-4ce9-a8fb-d2de97d3bbdd
+jasmine tea,bee3972c-a64c-4e54-b9bb-2cd3ca45e308
+guava juice,d351b36a-6855-45b9-a524-7976bfc3dd2d
+lime cordial,391ebb93-4e59-4696-a6e4-9a5647234697
+iced coffee concentrate,99755136-1bab-4e41-9db5-1af4cad981d6
+clamato,1a51f2f7-bae5-40f0-ae18-b552635fdc26
+blueberry juice,13f58c0a-d4f9-439b-bf73-dfe14ee30322
+rose syrup,5bcc597a-3eb8-41a5-af68-582c84d56b8d
+v8 juice,5caa6896-d700-42bb-bcdf-221c0f460fa6
+lemonade mix,eaa28953-6a00-409c-b59e-4b61555d70aa
+juice blend,0b2c994b-1eed-4d9d-99b8-d9fcdb81371b
+lapsang souchong,649be797-8fa3-485e-8297-4b18ea632de9
+prune juice,79a079b5-72c0-4743-b207-d957cf9e31d7
+berry juice,d6e88c67-04c5-4ffc-a054-a6b84530c862
+blackcurrant juice,03331b2f-a7d8-4af0-baed-f141ac4c38d2
+decaf coffee,869475c9-375d-4ef4-b845-1301292eee28
+pepsi,7a4e5d3f-40a3-4a47-9ee4-cf1143d58ea5
+lime soda,9eed26ec-8088-4f5a-8ede-8d4f15a71cab
+banana juice,49ef004b-f10f-4524-b7a6-11c941dea399
+chicory coffee,c0ce2d01-07f0-45ca-971d-67d7db5be461
+apple tea,37b8af78-5016-4450-969a-c18e934b2bcf
+grape soda,6fb0204a-56fa-4c52-925e-7950dbec3b71
+pineapple soda,51f05be1-25dd-44b7-a39f-ff3cca5416fe
+mead,a6f0f8ce-0a11-48cd-aecf-eea3bda66a6a
+chicory powder,c222f99e-2eb2-4e94-bc3a-f1a839ba7212
+cordial,a648709c-6393-4904-ada5-e6d6509174f1
+peach soda,701faa62-6554-49cc-932d-399245474c1f
+strawberry drink mix,7b802dec-6655-4e5c-8a77-7c169c8b219c
+turmeric juice,7c3d2897-f6e0-4a03-abfd-bd753be1540c
+kvass,c9d3516b-19c5-472c-9811-cc720cd09758
+yerba mate,d3a59de7-93d8-49cd-b195-1aa1a94ecdad
+salep,2f89bfeb-f0e1-4a3b-9429-ff53933c3716
+flavored water,9fbd7285-e031-49ca-8c96-005ffede4525
+vitamin water,21baf038-db65-4cff-9ee3-b649e0e45626
+nutritional yeast,b87a6b77-742d-4036-978a-020b94ac2462
+protein powder,01e351e8-b33e-46b5-8537-45970c03bb4f
+peanut butter powder,eb17b77f-8bd7-42e9-a92b-78cdb9ba7197
+chocolate protein powder,0e350bbe-90bc-4261-b45c-118c65050f35
+maca powder,2b2c5f19-4d2a-422a-b0ad-23a622091cf3
+plant-based protein,06db1d4e-6240-4675-ad42-9d31ca74e847
+cannabis,2236dc8e-48e9-4bcf-8dd1-3d2fad53af19
+chocolate whey protein,fe84d35e-27a6-498f-a541-15396cd6eda7
+bee pollen,4935728c-b0cf-42b4-95ce-f68ba99ff5da
+egg white powder,389107ce-8564-4a35-9d20-174cd5bfa9af
+glucomannan,176cd045-972d-498d-8329-28c10da3e351
+raspberry powder,caa466de-59fa-4d75-b242-4526ee6d8f0c
+wheatgrass powder,f66a4dd8-675f-4d27-8734-e08e81b28941
+camu powder,90dab041-319f-4c72-a2f6-984afb07b534
+ashwagandha,634178b5-277f-4fdc-8d17-3896e5f26acd
+soy lecithin,3b119c9f-17c7-4fb3-8c8a-e564bfe3598c
+chlorella,4d90db42-0507-4ca7-be5c-4185738543f9
+probiotics,f1ed49c5-adf7-4656-af60-146d1c67c9ec
+cbd,d5e62df8-707c-42a6-93a6-728172017a17
+fish oil,0466d173-efd3-4080-b459-b26ab0f76938
+barley grass,53139344-f420-437e-a5ef-627e50cd2f3f
+berry powder,432c8aeb-ee2c-4a9c-9f3f-9457f1e4ea0d
+calcium lactate,03ea7bd4-e13f-4dce-9f47-e7694bbf9bab
+creatine,b9ee509e-3935-4b4f-a58e-9e39aeefcc7d
+reishi mushroom,866d6b34-9c35-4bf2-8d79-cfc59c06b41f
+banana powder,d2ec10a9-ec74-4f4c-974b-09fef9b0d6b2
+maltodextrin,e633b220-d994-4483-bf14-c37d72113173
+protein shake,b3331090-8b45-4688-84a8-f95748e5a002
+sodium alginate,ad4aa114-3d44-4535-8f13-653281bd8b1f
+kombucha starter,c0a2c487-a807-455e-89ec-92eeb4bbd9ba
+moringa powder,739ac3fa-6b3d-4aa3-994c-f26ee6e374b7
+cod liver oil,444927ad-5e3a-4e39-8d15-7bd16ab22502
+red yeast rice,156c5b0f-1481-49e5-b150-18493a7a5733
+chlorophyll,8a649573-f19f-4d25-84f0-6686df575225
+carnation breakfast essentials,6714517d-1245-428a-8669-c4c7667c673f
+keto chow,de24f510-3cc3-400f-b224-d2eead3441eb
+duckweed,12630f57-42b1-4827-b760-27d83cd99ec6
+iron supplement,9532abe4-345e-4b57-9c09-2bd9951feacb
